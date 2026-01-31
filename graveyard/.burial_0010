@@ -1,0 +1,25 @@
+{
+  "tombstone_number": 10,
+  "buried_at": "2026-01-31 18:46:37",
+  "deceased": {
+    "full_name": "schteppe/cannon.js",
+    "url": "https://github.com/schteppe/cannon.js",
+    "description": "A lightweight 3D physics engine written in JavaScript.",
+    "stars": 4957,
+    "language": "JavaScript",
+    "created_at": "2012-01-04T06:46:35Z",
+    "pushed_at": "2023-08-04T10:35:17Z",
+    "archived": false,
+    "owner": "schteppe",
+    "topics": [
+      "javascript",
+      "physics-engine"
+    ]
+  },
+  "epitaph": "For forty-two hundred revolutions, you bore the weight,\nA lightweight\u67b6\u6784 carrying the heavy dreams of the web.\nWith four thousand nine hundred and fifty seven stars to light the void,\nYou let the spheres roll and the gravity bind.\nNow the frictionless world sleeps, the last build is cast,\nUnarchived and fading into the digital past.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
