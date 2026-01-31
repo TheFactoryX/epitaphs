@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 1 | [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) | 2009-05-27 | 2024-08-15 | ⭐34364 | [graveyard/tombstone_0001.md](graveyard/tombstone_0001.md) |
 | 0 | [aws-actions/codeguru-reviewer](https://github.com/aws-actions/codeguru-reviewer) | 2020-11-26 | 2024-01-31 | ⭐90 | [graveyard/tombstone_0000.md](graveyard/tombstone_0000.md) |
 
 ---
