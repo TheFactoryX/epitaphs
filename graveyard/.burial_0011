@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 11,
+  "buried_at": "2026-01-31 19:23:58",
+  "deceased": {
+    "full_name": "metaredteam/rtx-cve-2023-45779",
+    "url": "https://github.com/metaredteam/rtx-cve-2023-45779",
+    "description": "Proof-of-concept code for Android APEX key reuse vulnerability",
+    "stars": 103,
+    "language": "Shell",
+    "created_at": "2024-01-26T21:17:38Z",
+    "pushed_at": "2024-01-31T19:33:59Z",
+    "archived": false,
+    "owner": "metaredteam",
+    "topics": []
+  },
+  "epitaph": "You rose on the twenty-sixth, a script of cold command,\nTo pry the open APEX key and exploit all the land.\nOne hundred stars bore witness to your fragile, shell-born might,\nBefore the silence gathered you, just five days into the night.\nThough unarchived and frozen in the digital abyss,\nYour memory lingers on, a ghost of pure dissonance.\nSo sleep now, little obituary, in logic\u2019s final well,\nAnd `exit 0` forever into `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}

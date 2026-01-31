@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 11 | [metaredteam/rtx-cve-2023-45779](https://github.com/metaredteam/rtx-cve-2023-45779) | 2024-01-26 | 2024-01-31 | ⭐103 | [graveyard/tombstone_0011.md](graveyard/tombstone_0011.md) |
 | 10 | [schteppe/cannon.js](https://github.com/schteppe/cannon.js) | 2012-01-04 | 2023-08-04 | ⭐4957 | [graveyard/tombstone_0010.md](graveyard/tombstone_0010.md) |
 | 9 | [karpathy/LLM101n](https://github.com/karpathy/LLM101n) | 2024-05-27 | 2024-08-01 | ⭐36243 | [graveyard/tombstone_0009.md](graveyard/tombstone_0009.md) |
 | 8 | [Michi4/protonMailGenerator](https://github.com/Michi4/protonMailGenerator) | 2022-06-28 | 2024-01-31 | ⭐74 | [graveyard/tombstone_0008.md](graveyard/tombstone_0008.md) |
