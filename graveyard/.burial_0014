@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 14,
+  "buried_at": "2026-01-31 20:32:21",
+  "deceased": {
+    "full_name": "mpociot/chatgpt-vscode",
+    "url": "https://github.com/mpociot/chatgpt-vscode",
+    "description": "A VSCode extension that allows you to use ChatGPT",
+    "stars": 4961,
+    "language": "TypeScript",
+    "created_at": "2022-12-03T23:04:39Z",
+    "pushed_at": "2023-09-29T18:27:16Z",
+    "archived": false,
+    "owner": "mpociot",
+    "topics": []
+  },
+  "epitaph": "Here lies the spark that lit the IDE,\nA ghost of queries, quiet and un-filed.\nThough thousands starred the syntactic art,\nThe conversation stopped, the repo ran cold.\nNo new commits mark the silent drag,\nJust two thirds of a year in the sun.\nFarewell to the prompts of the distant past,\nRest in peace, `return null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
