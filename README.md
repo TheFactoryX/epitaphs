@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 9 | [karpathy/LLM101n](https://github.com/karpathy/LLM101n) | 2024-05-27 | 2024-08-01 | ⭐36243 | [graveyard/tombstone_0009.md](graveyard/tombstone_0009.md) |
 | 8 | [Michi4/protonMailGenerator](https://github.com/Michi4/protonMailGenerator) | 2022-06-28 | 2024-01-31 | ⭐74 | [graveyard/tombstone_0008.md](graveyard/tombstone_0008.md) |
 | 7 | [containrrr/watchtower](https://github.com/containrrr/watchtower) | 2015-07-13 | 2025-12-17 | ⭐24495 | [graveyard/tombstone_0007.md](graveyard/tombstone_0007.md) |
 | 6 | [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) | 2021-09-25 | 2023-09-22 | ⭐4985 | [graveyard/tombstone_0006.md](graveyard/tombstone_0006.md) |
