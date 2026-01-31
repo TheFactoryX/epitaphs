@@ -1,0 +1,28 @@
+{
+  "tombstone_number": 18,
+  "buried_at": "2026-01-31 22:27:33",
+  "deceased": {
+    "full_name": "OpenGVLab/DragGAN",
+    "url": "https://github.com/OpenGVLab/DragGAN",
+    "description": "Unofficial Implementation of DragGAN - \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\" \uff08DragGAN \u5168\u529f\u80fd\u5b9e\u73b0\uff0c\u5728\u7ebfDemo\uff0c\u672c\u5730\u90e8\u7f72\u8bd5\u7528\uff0c\u4ee3\u7801\u3001\u6a21\u578b\u5df2\u5168\u90e8\u5f00\u6e90\uff0c\u652f\u6301Windows, macOS, Linux\uff09",
+    "stars": 4969,
+    "language": "Python",
+    "created_at": "2023-05-20T08:53:41Z",
+    "pushed_at": "2023-07-17T03:01:01Z",
+    "archived": false,
+    "owner": "OpenGVLab",
+    "topics": [
+      "draggan",
+      "gradio-interface",
+      "image-editing",
+      "image-generation",
+      "interngpt"
+    ]
+  },
+  "epitaph": "A brief summer of interactive dreams,\nWhere pixels bowed to the pull of a point.\nThough the interface fades and the screen teems\nWith silence, the memory remains at the joint.\nFifty-eight days of warping the eye,\nBefore the commit to the digital sky.\n\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
