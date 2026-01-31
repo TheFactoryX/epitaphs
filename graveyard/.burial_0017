@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 17,
+  "buried_at": "2026-01-31 21:54:47",
+  "deceased": {
+    "full_name": "garris/ember-backstop",
+    "url": "https://github.com/garris/ember-backstop",
+    "description": "BackstopJS visual regression testing addon for Ember.",
+    "stars": 57,
+    "language": "JavaScript",
+    "created_at": "2019-06-30T04:33:43Z",
+    "pushed_at": "2024-01-31T21:50:41Z",
+    "archived": false,
+    "owner": "garris",
+    "topics": []
+  },
+  "epitaph": "It lived to catch the fractures in the design,\nA guardian for the shifting pixel\u2019s place.\nBut five winters passed without a single sign,\nAnd silence filled the empty, open space.\nNo stars remain to light the forgotten stack,\nThe build is broken, cold, and black.\nRest in `node_modules/.cache`",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
