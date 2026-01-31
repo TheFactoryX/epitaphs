@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 16 | [ChenHongruixuan/KPCAMNet](https://github.com/ChenHongruixuan/KPCAMNet) | 2021-02-27 | 2024-01-31 | ⭐74 | [graveyard/tombstone_0016.md](graveyard/tombstone_0016.md) |
 | 15 | [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) | 2017-08-09 | 2025-08-18 | ⭐34048 | [graveyard/tombstone_0015.md](graveyard/tombstone_0015.md) |
 | 14 | [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) | 2022-12-03 | 2023-09-29 | ⭐4961 | [graveyard/tombstone_0014.md](graveyard/tombstone_0014.md) |
 | 13 | [isec-tugraz/drawio2tikz](https://github.com/isec-tugraz/drawio2tikz) | 2024-01-31 | 2024-01-31 | ⭐52 | [graveyard/tombstone_0013.md](graveyard/tombstone_0013.md) |

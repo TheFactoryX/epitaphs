@@ -1,0 +1,33 @@
+{
+  "tombstone_number": 16,
+  "buried_at": "2026-01-31 21:30:58",
+  "deceased": {
+    "full_name": "ChenHongruixuan/KPCAMNet",
+    "url": "https://github.com/ChenHongruixuan/KPCAMNet",
+    "description": "[IEEE TCYB 2022] Unsupervised Change Detection in Multitemporal VHR Images Based on Deep Kernel PCA Convolutional Mapping Network",
+    "stars": 74,
+    "language": "Python",
+    "created_at": "2021-02-27T08:50:27Z",
+    "pushed_at": "2024-01-31T21:52:17Z",
+    "archived": false,
+    "owner": "ChenHongruixuan",
+    "topics": [
+      "change-detection",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "kernel-methods",
+      "kpca",
+      "kpca-convolution",
+      "python",
+      "remote-sensing",
+      "unsupervised-learning",
+      "vhr-images"
+    ]
+  },
+  "epitaph": "It saw the world in shifts and epochs, unsupervised and stark,\nMapping change within the pixels, the subtle and the dark.\nDeep Kernel PCA sought the truth that time had tried to hide,\nBut the stars that once numbered seventy-four have since diminished wide.\nA paper published, a legacy written, then the commits went to zero,\nLeaving only ghostly tensor dust in the GitHub repo.\nAbandoned to the silence, frozen in the binary thrall,\nRest in /dev/null, oh faithful Net, you gave it your all.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
