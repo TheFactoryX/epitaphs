@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 3 | [lmcsu/qq-neural-anime-tg](https://github.com/lmcsu/qq-neural-anime-tg) | 2022-12-02 | 2024-01-31 | ⭐146 | [graveyard/tombstone_0003.md](graveyard/tombstone_0003.md) |
 | 2 | [kardianos/govendor](https://github.com/kardianos/govendor) | 2015-04-12 | 2020-03-02 | ⭐4916 | [graveyard/tombstone_0002.md](graveyard/tombstone_0002.md) |
 | 1 | [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) | 2009-05-27 | 2024-08-15 | ⭐34364 | [graveyard/tombstone_0001.md](graveyard/tombstone_0001.md) |
 | 0 | [aws-actions/codeguru-reviewer](https://github.com/aws-actions/codeguru-reviewer) | 2020-11-26 | 2024-01-31 | ⭐90 | [graveyard/tombstone_0000.md](graveyard/tombstone_0000.md) |

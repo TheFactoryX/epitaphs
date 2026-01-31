@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 3,
+  "buried_at": "2026-01-31 14:58:46",
+  "deceased": {
+    "full_name": "lmcsu/qq-neural-anime-tg",
+    "url": "https://github.com/lmcsu/qq-neural-anime-tg",
+    "description": "A Telegram bot that converts your photos to 2D anime art via the new AI made by QQ",
+    "stars": 146,
+    "language": "TypeScript",
+    "created_at": "2022-12-02T16:16:33Z",
+    "pushed_at": "2024-01-31T19:31:31Z",
+    "archived": false,
+    "owner": "lmcsu",
+    "topics": []
+  },
+  "epitaph": "It gathered stars like fireflies in the dark of winter,\nTransmuting flesh to ink through QQ\u2019s borrowed eyes.\nFor four hundred days, it dreamed of two-dimension,\nUntil the session expired, and the API died.\nThe bot sleeps now, its syntax cold and still,\nLeaving only the ghost of an anime smile.\n\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
