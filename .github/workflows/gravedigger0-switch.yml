@@ -1,0 +1,43 @@
+name: Gravedigger #0 Switch
+
+on:
+  schedule:
+    # Every hour, 30 minutes past
+    - cron: '30 * * * *'
+  workflow_dispatch: # Manual switch
+
+jobs:
+  conduct-funeral:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Enter the cemetery
+        uses: actions/checkout@v4
+
+      - name: Prepare the grave
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Sharpen the shovel
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Wake the gravedigger
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+        run: |
+          python gravedigger0.py
+
+      - name: Seal the tomb
+        run: |
+          git config --local user.email "gravedigger0@thefactoryx.art"
+          git config --local user.name "Gravedigger #0"
+          git add graveyard/
+          git add README.md
+          git diff --staged --quiet || git commit -m "🪦 Hourly burial - $(date +%Y-%m-%d_%H:%M)"
+          git push
