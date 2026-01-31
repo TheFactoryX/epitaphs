@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 0,
+  "buried_at": "2026-01-31 13:27:08",
+  "deceased": {
+    "full_name": "aws-actions/codeguru-reviewer",
+    "url": "https://github.com/aws-actions/codeguru-reviewer",
+    "description": null,
+    "stars": 90,
+    "language": null,
+    "created_at": "2020-11-26T00:56:26Z",
+    "pushed_at": "2024-01-31T19:49:14Z",
+    "archived": false,
+    "owner": "aws-actions",
+    "topics": []
+  },
+  "epitaph": "You sought to critique the code we wrote,\nA mechanical scribe without a tongue.\nNinety stars lit your silent throat,\nBefore the thread of execution was hung.\nUnarchived, yet frozen in the gray of January\u2019s freeze,\nWaiting for a pull request that will never come.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
