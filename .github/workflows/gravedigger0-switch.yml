@@ -2,8 +2,8 @@ name: Gravedigger #0 Switch
 
 on:
   schedule:
-    # Every hour, 30 minutes past
-    - cron: '30 * * * *'
+    # Every 15 minutes
+    - cron: '*/15 * * * *'
   workflow_dispatch: # Manual switch
 
 jobs:
