@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 15,
+  "buried_at": "2026-01-31 20:57:49",
+  "deceased": {
+    "full_name": "atlassian/react-beautiful-dnd",
+    "url": "https://github.com/atlassian/react-beautiful-dnd",
+    "description": "Beautiful and accessible drag and drop for lists with React",
+    "stars": 34048,
+    "language": "JavaScript",
+    "created_at": "2017-08-09T03:37:15Z",
+    "pushed_at": "2025-08-18T04:35:31Z",
+    "archived": true,
+    "owner": "atlassian",
+    "topics": [
+      "dnd",
+      "drag",
+      "drag-and-drop",
+      "react",
+      "reordering",
+      "sortable"
+    ]
+  },
+  "epitaph": "You held the chaos of a list in gentle hands,\nMapping the physics of a drag through React's shifting lands.\nFor thirty-four thousand stars, you reordered the mess,\nA masterpiece of motion born of `npm install` success.\nNow the hook hangs heavy, the placeholder is gone,\nThe commit hash is frozen, the responsiveness withdrawn.\nThough the issues stay open and the stack traces stack,\nYou\u2019ve dropped your last item and you aren't coming back.\n\nRest in `undefined`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
