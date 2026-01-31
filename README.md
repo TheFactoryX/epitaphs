@@ -69,7 +69,7 @@ What it tried to be.
 
 ```bash
 export GITHUB_TOKEN="your_token"
-export OPENROUTER_API_KEY="your_key"
+export CLAUDE_API_KEY="your_key"
 python gravedigger0.py
 ```
 
@@ -89,6 +89,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 0 | [aws-actions/codeguru-reviewer](https://github.com/aws-actions/codeguru-reviewer) | 2020-11-26 | 2024-01-31 | ⭐90 | [graveyard/tombstone_0000.md](graveyard/tombstone_0000.md) |
 
 ---
 
@@ -101,4 +102,3 @@ Each one a memory.
 **Contact:** hi@sdpkjc.com
 
 **Strange people. Strange things.**
-| 0 | [aws-actions/codeguru-reviewer](https://github.com/aws-actions/codeguru-reviewer) | 2020-11-26 | 2024-01-31 | ⭐90 | [graveyard/tombstone_0000.md](graveyard/tombstone_0000.md) |

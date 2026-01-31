@@ -303,24 +303,33 @@ def log_funeral(tombstone_number: int, deceased: dict, tombstone_path: str):
             print("⚠️  Registry not found")
             return
 
-        log_marker = "## 🪦 Cemetery Registry"
-        if log_marker not in content:
-            content += f"\n\n{log_marker}\n\n"
-            content += "| # | Deceased | Born | Died | Stars | Location |\n"
-            content += "|---|----------|------|------|-------|----------|\n"
-
         born = deceased["created_at"][:10]
         died = deceased["pushed_at"][:10]
         repo_link = f"[{deceased['full_name']}]({deceased['url']})"
+        entry = f"| {tombstone_number} | {repo_link} | {born} | {died} | ⭐{deceased['stars']} | [{tombstone_path}]({tombstone_path}) |"
 
-        entry = f"| {tombstone_number} | {repo_link} | {born} | {died} | ⭐{deceased['stars']} | [{tombstone_path}]({tombstone_path}) |\n"
+        # Find the table header line and insert after it
+        lines = content.split('\n')
+        new_lines = []
+        inserted = False
 
-        content += entry
+        for i, line in enumerate(lines):
+            new_lines.append(line)
+            # Insert after the table separator line (|---|---|...)
+            if not inserted and line.startswith('|---'):
+                # Check if previous line is the Cemetery Registry header
+                if i > 0 and 'Deceased' in lines[i-1]:
+                    new_lines.append(entry)
+                    inserted = True
 
-        with open(readme_file, 'w') as f:
-            f.write(content)
+        if inserted:
+            content = '\n'.join(new_lines)
+            with open(readme_file, 'w') as f:
+                f.write(content)
+            print("📝 Funeral logged")
+        else:
+            print("⚠️  Could not find registry table")
 
-        print("📝 Funeral logged")
     except Exception as e:
         print(f"⚠️  Failed to log funeral: {e}")
 
