@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 6 | [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) | 2021-09-25 | 2023-09-22 | ⭐4985 | [graveyard/tombstone_0006.md](graveyard/tombstone_0006.md) |
 | 5 | [inkonchain/ink-kit](https://github.com/inkonchain/ink-kit) | 2024-11-04 | 2025-10-20 | ⭐36734 | [graveyard/tombstone_0005.md](graveyard/tombstone_0005.md) |
 | 4 | [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | 2010-07-17 | 2023-07-30 | ⭐4972 | [graveyard/tombstone_0004.md](graveyard/tombstone_0004.md) |
 | 3 | [lmcsu/qq-neural-anime-tg](https://github.com/lmcsu/qq-neural-anime-tg) | 2022-12-02 | 2024-01-31 | ⭐146 | [graveyard/tombstone_0003.md](graveyard/tombstone_0003.md) |
