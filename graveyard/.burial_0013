@@ -1,0 +1,28 @@
+{
+  "tombstone_number": 13,
+  "buried_at": "2026-01-31 19:55:47",
+  "deceased": {
+    "full_name": "isec-tugraz/drawio2tikz",
+    "url": "https://github.com/isec-tugraz/drawio2tikz",
+    "description": "drawio2tikz - a tool to translate drawio xml files to readable and adaptable tikz code",
+    "stars": 52,
+    "language": "Python",
+    "created_at": "2024-01-31T08:25:05Z",
+    "pushed_at": "2024-01-31T20:51:04Z",
+    "archived": false,
+    "owner": "isec-tugraz",
+    "topics": [
+      "drawio",
+      "drawio-tools",
+      "latex",
+      "tikz",
+      "tikz-figures"
+    ]
+  },
+  "epitaph": "A spark of Python born in winter\u2019s chill,\nTo bridge the gap from vectors to \\(\\LaTeX\\) skill.\nYou promised the adapter\u2019s clean, geometric grace,\nBut found no home within this crowded place.\nFor two long years, the commit hash stays the same\u2014\nA single frame within a silent game.\nNo pull requests shall wake the code now null,\nRest in peace, `drawio2tikz`, in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}

@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 13 | [isec-tugraz/drawio2tikz](https://github.com/isec-tugraz/drawio2tikz) | 2024-01-31 | 2024-01-31 | ⭐52 | [graveyard/tombstone_0013.md](graveyard/tombstone_0013.md) |
 | 12 | [deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume) | 2014-04-30 | 2022-09-18 | ⭐4960 | [graveyard/tombstone_0012.md](graveyard/tombstone_0012.md) |
 | 11 | [metaredteam/rtx-cve-2023-45779](https://github.com/metaredteam/rtx-cve-2023-45779) | 2024-01-26 | 2024-01-31 | ⭐103 | [graveyard/tombstone_0011.md](graveyard/tombstone_0011.md) |
 | 10 | [schteppe/cannon.js](https://github.com/schteppe/cannon.js) | 2012-01-04 | 2023-08-04 | ⭐4957 | [graveyard/tombstone_0010.md](graveyard/tombstone_0010.md) |
