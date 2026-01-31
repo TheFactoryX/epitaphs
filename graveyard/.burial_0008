@@ -1,0 +1,30 @@
+{
+  "tombstone_number": 8,
+  "buried_at": "2026-01-31 17:41:43",
+  "deceased": {
+    "full_name": "Michi4/protonMailGenerator",
+    "url": "https://github.com/Michi4/protonMailGenerator",
+    "description": "Verified Proton Mail Account Generation",
+    "stars": 74,
+    "language": "Python",
+    "created_at": "2022-06-28T16:31:27Z",
+    "pushed_at": "2024-01-31T22:02:09Z",
+    "archived": false,
+    "owner": "Michi4",
+    "topics": [
+      "automation",
+      "email-generator",
+      "protonmail",
+      "python",
+      "selenium",
+      "selenium-webdriver",
+      "webscraping"
+    ]
+  },
+  "epitaph": "Here lies Michi4\u2019s grand design,\nTo weave inboxes from the ether,\nSelenium\u2019s ghost at the head of the line,\nWeaving accounts no user could befriend.\nSeventy stars watched the cloak and the dagger,\nNow the automation sleeps in the static,\nUndisturbed by the captchas we never could solve.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
