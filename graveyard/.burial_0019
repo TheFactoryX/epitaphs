@@ -1,0 +1,28 @@
+{
+  "tombstone_number": 19,
+  "buried_at": "2026-01-31 22:52:10",
+  "deceased": {
+    "full_name": "adulau/DomainClassifier",
+    "url": "https://github.com/adulau/DomainClassifier",
+    "description": "DomainClassifier is a Python (2/3) library to extract and classify Internet domains/hostnames/IP addresses from raw unstructured text files following their DNS existence, localization or attributes.",
+    "stars": 80,
+    "language": "Python",
+    "created_at": "2012-01-24T10:59:04Z",
+    "pushed_at": "2024-01-31T20:53:37Z",
+    "archived": false,
+    "owner": "adulau",
+    "topics": [
+      "csirt",
+      "data-mining",
+      "location-discovery",
+      "network-security",
+      "python-library"
+    ]
+  },
+  "epitaph": "You parsed the chaos of the early web,\nSplitting hostnames from the grain.\nTwelve years of sorting truth from ebb,\nBefore Python Two went down the drain.\nNo more DNS, no more resolve,\nJust silent logs and failed evolve.\nRest in `ConnectionRefused`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}

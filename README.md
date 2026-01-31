@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 19 | [adulau/DomainClassifier](https://github.com/adulau/DomainClassifier) | 2012-01-24 | 2024-01-31 | ⭐80 | [graveyard/tombstone_0019.md](graveyard/tombstone_0019.md) |
 | 18 | [OpenGVLab/DragGAN](https://github.com/OpenGVLab/DragGAN) | 2023-05-20 | 2023-07-17 | ⭐4969 | [graveyard/tombstone_0018.md](graveyard/tombstone_0018.md) |
 | 17 | [garris/ember-backstop](https://github.com/garris/ember-backstop) | 2019-06-30 | 2024-01-31 | ⭐57 | [graveyard/tombstone_0017.md](graveyard/tombstone_0017.md) |
 | 16 | [ChenHongruixuan/KPCAMNet](https://github.com/ChenHongruixuan/KPCAMNet) | 2021-02-27 | 2024-01-31 | ⭐74 | [graveyard/tombstone_0016.md](graveyard/tombstone_0016.md) |
