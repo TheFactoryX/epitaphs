@@ -65,16 +65,6 @@ What it tried to be.
 
 ---
 
-## Run the Gravedigger
-
-```bash
-export GITHUB_TOKEN="your_token"
-export CLAUDE_API_KEY="your_key"
-python gravedigger0.py
-```
-
----
-
 ## The Graveyard
 
 All tombstones rest in `graveyard/`.
