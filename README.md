@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 29 | [tobiascz/TeCNO](https://github.com/tobiascz/TeCNO) | 2020-07-06 | 2024-02-01 | ⭐66 | [graveyard/tombstone_0029.md](graveyard/tombstone_0029.md) |
 | 28 | [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) | 2017-05-01 | 2021-06-06 | ⭐4942 | [graveyard/tombstone_0028.md](graveyard/tombstone_0028.md) |
 | 27 | [delvelabs/batea](https://github.com/delvelabs/batea) | 2019-08-26 | 2024-02-01 | ⭐302 | [graveyard/tombstone_0027.md](graveyard/tombstone_0027.md) |
 | 26 | [github/copilot-docs](https://github.com/github/copilot-docs) | 2021-10-23 | 2023-11-24 | ⭐23260 | [graveyard/tombstone_0026.md](graveyard/tombstone_0026.md) |
