@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 35,
+  "buried_at": "2026-02-01 13:50:01",
+  "deceased": {
+    "full_name": "lehni/vscode-fix-checksums",
+    "url": "https://github.com/lehni/vscode-fix-checksums",
+    "description": "A VSCode extension to adjust checksums after changes to core files",
+    "stars": 88,
+    "language": "JavaScript",
+    "created_at": "2018-07-29T17:36:11Z",
+    "pushed_at": "2024-02-01T20:57:56Z",
+    "archived": false,
+    "owner": "lehni",
+    "topics": []
+  },
+  "epitaph": "You patched the broken integrity of the core,\nA hex-decimal suture for the modified shell.\nFor two thousand days, the silent errors wore\nYour name as eighty-eight stars bid farewell.\nNow the checksums drift and the files grow old,\nUnchanged by the hand that the hacks foretold.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
