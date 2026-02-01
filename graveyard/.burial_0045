@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 45,
+  "buried_at": "2026-02-01 19:28:18",
+  "deceased": {
+    "full_name": "emanuel-metzenthin/Lime-For-Time",
+    "url": "https://github.com/emanuel-metzenthin/Lime-For-Time",
+    "description": "Application of the LIME algorithm by Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin to the domain of time series classification",
+    "stars": 98,
+    "language": "Python",
+    "created_at": "2017-06-11T15:09:35Z",
+    "pushed_at": "2024-02-01T21:14:11Z",
+    "archived": false,
+    "owner": "emanuel-metzenthin",
+    "topics": [
+      "big-data",
+      "explainable-artificial-intelligence",
+      "lime",
+      "machine-learning",
+      "python",
+      "timeseries"
+    ]
+  },
+  "epitaph": "Here lies the logic of the passing days,\nParsing the rhythm of the time-series haze.\nYou sought to explain the black box mind,\nA Lime light fading, left behind.\n\nNo longer shall the predictions align,\nYour green contributions frozen in time.\nShift into the silence of the bit,\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
