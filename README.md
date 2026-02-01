@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 49 | [zengxiaozeng/hello-uni-app](https://github.com/zengxiaozeng/hello-uni-app) | 2019-11-18 | 2024-02-01 | ⭐72 | [graveyard/tombstone_0049.md](graveyard/tombstone_0049.md) |
 | 48 | [RethinkRobotics/sawyer_simulator](https://github.com/RethinkRobotics/sawyer_simulator) | 2016-01-12 | 2024-02-01 | ⭐52 | [graveyard/tombstone_0048.md](graveyard/tombstone_0048.md) |
 | 47 | [hanagantig/goro](https://github.com/hanagantig/goro) | 2022-06-08 | 2024-02-01 | ⭐201 | [graveyard/tombstone_0047.md](graveyard/tombstone_0047.md) |
 | 46 | [AliDbg/IPBAN](https://github.com/AliDbg/IPBAN) | 2023-09-03 | 2024-02-01 | ⭐151 | [graveyard/tombstone_0046.md](graveyard/tombstone_0046.md) |
