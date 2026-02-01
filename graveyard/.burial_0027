@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 27,
+  "buried_at": "2026-02-01 08:37:51",
+  "deceased": {
+    "full_name": "delvelabs/batea",
+    "url": "https://github.com/delvelabs/batea",
+    "description": "AI-based, context-driven network device ranking",
+    "stars": 302,
+    "language": "Python",
+    "created_at": "2019-08-26T16:27:48Z",
+    "pushed_at": "2024-02-01T21:00:19Z",
+    "archived": false,
+    "owner": "delvelabs",
+    "topics": []
+  },
+  "epitaph": "Batea, the fortune-teller, who read the packets\u2019 hidden heart,\nPromised wisdom from the chaos, a device ranking work of art.\nThirty hundred stars stood witness to your context-driven mind,\nNow the flow of traffic halts, leaving algorithms blind.\nThough the network hums without you, and the lessons fade away,\nYour context sits in silence, where the data packs decay.\nRest in `void`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
