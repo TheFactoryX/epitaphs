@@ -1,0 +1,32 @@
+{
+  "tombstone_number": 22,
+  "buried_at": "2026-02-01 02:46:37",
+  "deceased": {
+    "full_name": "Th3Wall/Fakeflix",
+    "url": "https://github.com/Th3Wall/Fakeflix",
+    "description": "Not the usual clone that you can find on the web.",
+    "stars": 4972,
+    "language": "JavaScript",
+    "created_at": "2021-02-23T23:08:20Z",
+    "pushed_at": "2024-01-16T01:34:40Z",
+    "archived": false,
+    "owner": "Th3Wall",
+    "topics": [
+      "firebase",
+      "react",
+      "react-hooks",
+      "react-hooks-form",
+      "react-router",
+      "redux",
+      "redux-persist",
+      "redux-saga",
+      "redux-thunk"
+    ]
+  },
+  "epitaph": "A cinema built not of silver, but of React hooks and fire,\nWhere Redux-saga sang the state of every silent frame.\nNearly five thousand stars descended to admire\nA stream that flowed without a name, yet looked the same.\nIt promised \"not the usual,\" yet time cancels every debt;\nThe middleware sleeps, and the router leads nowhere.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
