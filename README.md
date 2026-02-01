@@ -1,5 +1,11 @@
 # 🪦 Epitaphs
 
+[![ANTI-LICENSE](https://img.shields.io/badge/ANTI--LICENSE-STEAL_THIS-000000?style=for-the-badge&labelColor=dc143c)](LICENSE)
+[![Machine Status](https://img.shields.io/github/actions/workflow/status/TheFactoryX/epitaphs/gravedigger0-switch.yml?style=flat-square&label=gravedigger)](https://github.com/TheFactoryX/epitaphs/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/TheFactoryX/epitaphs?style=flat-square&logo=github)](https://github.com/TheFactoryX/epitaphs/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TheFactoryX/epitaphs?style=flat-square)](https://github.com/TheFactoryX/epitaphs/commits)
+[![TheFactoryX](https://img.shields.io/badge/TheFactoryX-black?style=flat-square&logo=github)](https://github.com/TheFactoryX)
+
 **Writing poetry for the dead.**
 
 ---
@@ -117,6 +123,12 @@ Each one a memory.
 > *We just forget to write the eulogy.*
 
 ---
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheFactoryX/epitaphs&type=Date)](https://star-history.com/#TheFactoryX/epitaphs&Date)
 
 ---
 
