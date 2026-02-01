@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 30,
+  "buried_at": "2026-02-01 10:31:12",
+  "deceased": {
+    "full_name": "jnordberg/gif.js",
+    "url": "https://github.com/jnordberg/gif.js",
+    "description": "JavaScript GIF encoding library",
+    "stars": 4960,
+    "language": "JavaScript",
+    "created_at": "2013-05-20T02:18:38Z",
+    "pushed_at": "2023-10-06T08:25:46Z",
+    "archived": false,
+    "owner": "jnordberg",
+    "topics": []
+  },
+  "epitaph": "Here lies the loop that captured time,\nFour thousand stars in a paradigm.\nTen years of colors, vibrant and cyclic,\nNow a memory, static and iconic.\nThe canvas is still, the worker is done,\nNo frames left to render, no battles won.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}

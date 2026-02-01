@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 30 | [jnordberg/gif.js](https://github.com/jnordberg/gif.js) | 2013-05-20 | 2023-10-06 | ⭐4960 | [graveyard/tombstone_0030.md](graveyard/tombstone_0030.md) |
 | 29 | [tobiascz/TeCNO](https://github.com/tobiascz/TeCNO) | 2020-07-06 | 2024-02-01 | ⭐66 | [graveyard/tombstone_0029.md](graveyard/tombstone_0029.md) |
 | 28 | [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) | 2017-05-01 | 2021-06-06 | ⭐4942 | [graveyard/tombstone_0028.md](graveyard/tombstone_0028.md) |
 | 27 | [delvelabs/batea](https://github.com/delvelabs/batea) | 2019-08-26 | 2024-02-01 | ⭐302 | [graveyard/tombstone_0027.md](graveyard/tombstone_0027.md) |
