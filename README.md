@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 43 | [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) | 2023-03-10 | 2023-11-11 | ⭐27972 | [graveyard/tombstone_0043.md](graveyard/tombstone_0043.md) |
 | 42 | [doczjs/docz](https://github.com/doczjs/docz) | 2018-03-17 | 2025-11-21 | ⭐23659 | [graveyard/tombstone_0042.md](graveyard/tombstone_0042.md) |
 | 41 | [JohnCoene/javascript-for-r](https://github.com/JohnCoene/javascript-for-r) | 2020-01-22 | 2024-02-01 | ⭐188 | [graveyard/tombstone_0041.md](graveyard/tombstone_0041.md) |
 | 40 | [AMDESE/linux-svsm](https://github.com/AMDESE/linux-svsm) | 2022-07-19 | 2024-02-01 | ⭐141 | [graveyard/tombstone_0040.md](graveyard/tombstone_0040.md) |
