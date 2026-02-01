@@ -1,0 +1,26 @@
+{
+  "tombstone_number": 40,
+  "buried_at": "2026-02-01 16:41:13",
+  "deceased": {
+    "full_name": "AMDESE/linux-svsm",
+    "url": "https://github.com/AMDESE/linux-svsm",
+    "description": "Linux SVSM (Secure VM Service Module) for secure x86 virtualization in Rust",
+    "stars": 141,
+    "language": "Rust",
+    "created_at": "2022-07-19T15:34:24Z",
+    "pushed_at": "2024-02-01T22:38:58Z",
+    "archived": false,
+    "owner": "AMDESE",
+    "topics": [
+      "amd",
+      "operating-systems",
+      "virtualization"
+    ]
+  },
+  "epitaph": "Beneath the silicon sky, where x86 secrets sleep,\nA rusted core of safety that the architects could keep.\nOne hundred and forty stars watched the secure VM rise,\nBefore the hypervisor closed its tired eyes.\nSeven hundred days of silence, a static void so deep,\nFor the Secure Service Module, now an abstract heap.\n\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
