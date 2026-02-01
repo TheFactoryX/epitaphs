@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 31,
+  "buried_at": "2026-02-01 11:00:31",
+  "deceased": {
+    "full_name": "AFNetworking/AFNetworking",
+    "url": "https://github.com/AFNetworking/AFNetworking",
+    "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+    "stars": 33733,
+    "language": "Objective-C",
+    "created_at": "2011-05-31T21:28:44Z",
+    "pushed_at": "2023-01-17T19:30:05Z",
+    "archived": true,
+    "owner": "AFNetworking",
+    "topics": []
+  },
+  "epitaph": "Once you bridged the void for thirty-three thousand stars,\nA joyful `AFHTTPRequestOperation` amidst the bits.\nBut the Swift wind blew cold, and the console now bars\nYour verbose syntax; the codebase finally quits.\nSilence has reigned for a thousand and eleven days,\nArchived in amber, a glorious fossil of old.\nNo more patches, no merges, to end the malaise\u2014\nRest in `dev/null`, where the broken and bold unfold.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
