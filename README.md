@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 24 | [juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes) | 2022-05-04 | 2024-02-01 | ⭐236 | [graveyard/tombstone_0024.md](graveyard/tombstone_0024.md) |
 | 23 | [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 2010-12-01 | 2023-05-25 | ⭐30842 | [graveyard/tombstone_0023.md](graveyard/tombstone_0023.md) |
 | 22 | [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) | 2021-02-23 | 2024-01-16 | ⭐4972 | [graveyard/tombstone_0022.md](graveyard/tombstone_0022.md) |
 | 21 | [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) | 2016-09-19 | 2024-01-31 | ⭐440 | [graveyard/tombstone_0021.md](graveyard/tombstone_0021.md) |
