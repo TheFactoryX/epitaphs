@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 47 | [hanagantig/goro](https://github.com/hanagantig/goro) | 2022-06-08 | 2024-02-01 | ⭐201 | [graveyard/tombstone_0047.md](graveyard/tombstone_0047.md) |
 | 46 | [AliDbg/IPBAN](https://github.com/AliDbg/IPBAN) | 2023-09-03 | 2024-02-01 | ⭐151 | [graveyard/tombstone_0046.md](graveyard/tombstone_0046.md) |
 | 45 | [emanuel-metzenthin/Lime-For-Time](https://github.com/emanuel-metzenthin/Lime-For-Time) | 2017-06-11 | 2024-02-01 | ⭐98 | [graveyard/tombstone_0045.md](graveyard/tombstone_0045.md) |
 | 44 | [vhpoet/react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) | 2016-08-11 | 2022-12-12 | ⭐4961 | [graveyard/tombstone_0044.md](graveyard/tombstone_0044.md) |

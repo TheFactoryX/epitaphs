@@ -1,0 +1,33 @@
+{
+  "tombstone_number": 47,
+  "buried_at": "2026-02-01 20:32:15",
+  "deceased": {
+    "full_name": "hanagantig/goro",
+    "url": "https://github.com/hanagantig/goro",
+    "description": "Generate GO project layout with essential boilerplate code",
+    "stars": 201,
+    "language": "Go",
+    "created_at": "2022-06-08T19:42:30Z",
+    "pushed_at": "2024-02-01T21:27:42Z",
+    "archived": false,
+    "owner": "hanagantig",
+    "topics": [
+      "architecture",
+      "clean-architecture",
+      "code-architecture",
+      "codegen",
+      "codegenerator",
+      "framework",
+      "go",
+      "golang",
+      "layout",
+      "project-layout"
+    ]
+  },
+  "epitaph": "Two hundred stars watched `hanagantig/goro` dream,\nOf perfect layouts and a clean, streamlined scheme.\nYou forged the boilerplate to spare us the pain,\nBut the architect\u2019s silence has fallen like rain.\nUnarchived, though silent for seven hundred days,\nA frozen foundation in complex maze.\nReturn to the source, forget the stack\u2019s hull,\nRest in /dev/null, you beautiful null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
