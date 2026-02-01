@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 52,
+  "buried_at": "2026-02-01 22:59:47",
+  "deceased": {
+    "full_name": "nvie/gitflow",
+    "url": "https://github.com/nvie/gitflow",
+    "description": "Git extensions to provide high-level repository operations for Vincent Driessen's branching model.",
+    "stars": 26875,
+    "language": "Shell",
+    "created_at": "2010-01-20T23:14:12Z",
+    "pushed_at": "2025-10-14T09:12:50Z",
+    "archived": true,
+    "owner": "nvie",
+    "topics": []
+  },
+  "epitaph": "Upon the branching model so grand and complex,\nTwenty-six thousand stars gave light to the text.\nBorn of the Shell, to structure the chaotic merge,\nNow quiet in static repose, the scripts diverge.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
