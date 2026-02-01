@@ -1,0 +1,36 @@
+{
+  "tombstone_number": 51,
+  "buried_at": "2026-02-01 22:33:11",
+  "deceased": {
+    "full_name": "druce/rl",
+    "url": "https://github.com/druce/rl",
+    "description": "Deep Reinforcement Learning For Trading",
+    "stars": 108,
+    "language": "Jupyter Notebook",
+    "created_at": "2019-10-19T04:08:30Z",
+    "pushed_at": "2024-02-01T21:00:37Z",
+    "archived": false,
+    "owner": "druce",
+    "topics": [
+      "algorithmic-trading",
+      "deep-learning",
+      "deep-q-network",
+      "jupyter-notebook",
+      "keras",
+      "keras-tensorflow",
+      "machine-learning",
+      "python",
+      "quantitative-finance",
+      "quantitative-trading",
+      "reinforcement-learning",
+      "rllib",
+      "trading"
+    ]
+  },
+  "epitaph": "Here lies **druce/rl**, a gambler\u2019s grand design,\nChasing the green candle with a Deep Q mind.\nIt sought to beat the market, to profit and to learn,\nBut four years of training could not discern\nThe trend from the noise, the loss from the gain.\nNow the kernel is dead, and the notebook in vain.\nOne hundred and eight stars watch the silent display,\nAs the agent sleeps forever, with no balance to pay.\n\nRest in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}

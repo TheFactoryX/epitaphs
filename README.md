@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 51 | [druce/rl](https://github.com/druce/rl) | 2019-10-19 | 2024-02-01 | ⭐108 | [graveyard/tombstone_0051.md](graveyard/tombstone_0051.md) |
 | 50 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 2024-01-01 | 2025-07-24 | ⭐53996 | [graveyard/tombstone_0050.md](graveyard/tombstone_0050.md) |
 | 49 | [zengxiaozeng/hello-uni-app](https://github.com/zengxiaozeng/hello-uni-app) | 2019-11-18 | 2024-02-01 | ⭐72 | [graveyard/tombstone_0049.md](graveyard/tombstone_0049.md) |
 | 48 | [RethinkRobotics/sawyer_simulator](https://github.com/RethinkRobotics/sawyer_simulator) | 2016-01-12 | 2024-02-01 | ⭐52 | [graveyard/tombstone_0048.md](graveyard/tombstone_0048.md) |
