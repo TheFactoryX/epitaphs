@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 33,
+  "buried_at": "2026-02-01 11:55:09",
+  "deceased": {
+    "full_name": "nicklockwood/FXBlurView",
+    "url": "https://github.com/nicklockwood/FXBlurView",
+    "description": "[DEPRECATED]",
+    "stars": 4936,
+    "language": "Objective-C",
+    "created_at": "2013-08-25T22:00:13Z",
+    "pushed_at": "2020-11-18T06:36:38Z",
+    "archived": false,
+    "owner": "nicklockwood",
+    "topics": []
+  },
+  "epitaph": "You softened the jagged edges of a retina display,\nA master of frosted glass in an un-cocoa age.\nThough seven years of kindness drifted into gray,\nThe framework is frozen, the UIEffects staged.\nFour thousand stars still hang in the night,\nWatching a UIView that slowly fades away.\nDeleted from podfiles, left out of the light,\nRest in peace in the /dev/null of the day.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
