@@ -1,0 +1,43 @@
+{
+  "tombstone_number": 46,
+  "buried_at": "2026-02-01 19:48:53",
+  "deceased": {
+    "full_name": "AliDbg/IPBAN",
+    "url": "https://github.com/AliDbg/IPBAN",
+    "description": "\u2694\ufe0f\ud83e\uddf1\ud83d\udd25\ud83d\uded1IP BAN Block Allow GEOIP country traffic limit server input/output to IP countries with iptables+xt_geoip, auto db-ip update, firewall fail2ban gfw ufw cidr blacklist netfilter rules persistent restrict netaddr xtables linux debian ubuntu apache nginx web server anti hack ddos firewalld ipblocks ipdeny ip ranges MaxMind ipset ",
+    "stars": 151,
+    "language": "Shell",
+    "created_at": "2023-09-03T19:19:38Z",
+    "pushed_at": "2024-02-01T21:13:29Z",
+    "archived": false,
+    "owner": "AliDbg",
+    "topics": [
+      "blacklist",
+      "block",
+      "blocked",
+      "country",
+      "fail2ban",
+      "firewall",
+      "geoip",
+      "gfw",
+      "ip",
+      "ipban",
+      "ipset",
+      "iptables",
+      "linux",
+      "maxmind",
+      "netfilter",
+      "nginx",
+      "persistent",
+      "rules",
+      "ufw",
+      "xt-geoip"
+    ]
+  },
+  "epitaph": "A wall of fire raised against the roar,\nWith iptables blocking nations at the door.\nFor five swift moons you kept the DDoS at bay,\nThen archived into silence, left to decay.\nNo packets flow now, the chains are still and gone,\nYour bans lifted, the siege withdrawn.\nRest in /dev/null, brave defender of the port.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
