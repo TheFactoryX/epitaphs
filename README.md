@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 41 | [JohnCoene/javascript-for-r](https://github.com/JohnCoene/javascript-for-r) | 2020-01-22 | 2024-02-01 | ⭐188 | [graveyard/tombstone_0041.md](graveyard/tombstone_0041.md) |
 | 40 | [AMDESE/linux-svsm](https://github.com/AMDESE/linux-svsm) | 2022-07-19 | 2024-02-01 | ⭐141 | [graveyard/tombstone_0040.md](graveyard/tombstone_0040.md) |
 | 39 | [minimaxir/textgenrnn](https://github.com/minimaxir/textgenrnn) | 2017-08-07 | 2022-07-17 | ⭐4932 | [graveyard/tombstone_0039.md](graveyard/tombstone_0039.md) |
 | 38 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) | 2017-01-28 | 2021-10-19 | ⭐44015 | [graveyard/tombstone_0038.md](graveyard/tombstone_0038.md) |
