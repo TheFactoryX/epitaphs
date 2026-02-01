@@ -1,0 +1,28 @@
+{
+  "tombstone_number": 39,
+  "buried_at": "2026-02-01 15:58:21",
+  "deceased": {
+    "full_name": "minimaxir/textgenrnn",
+    "url": "https://github.com/minimaxir/textgenrnn",
+    "description": "Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.",
+    "stars": 4932,
+    "language": "Python",
+    "created_at": "2017-08-07T02:13:37Z",
+    "pushed_at": "2022-07-17T19:07:49Z",
+    "archived": false,
+    "owner": "minimaxir",
+    "topics": [
+      "deep-learning",
+      "keras",
+      "python",
+      "tensorflow",
+      "text-generation"
+    ]
+  },
+  "epitaph": "Here lies the neural dream of a simpler time,\nSpun in Python with Keras and grace.\nIt once wove new words from the dataset of old,\nBefore the large models stole the show's place.\nFour thousand stars hang cold in the dark,\nIts last epoch faded five years ago.\nGo softly to sleep in the heap\u2019s void now,\nRest in peace, `textgenrnn`, gone to /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}

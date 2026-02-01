@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 39 | [minimaxir/textgenrnn](https://github.com/minimaxir/textgenrnn) | 2017-08-07 | 2022-07-17 | ⭐4932 | [graveyard/tombstone_0039.md](graveyard/tombstone_0039.md) |
 | 38 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) | 2017-01-28 | 2021-10-19 | ⭐44015 | [graveyard/tombstone_0038.md](graveyard/tombstone_0038.md) |
 | 37 | [vigetlabs/blendid](https://github.com/vigetlabs/blendid) | 2014-01-11 | 2020-04-14 | ⭐4939 | [graveyard/tombstone_0037.md](graveyard/tombstone_0037.md) |
 | 36 | [leereilly/games](https://github.com/leereilly/games) | 2012-01-05 | 2025-09-13 | ⭐24492 | [graveyard/tombstone_0036.md](graveyard/tombstone_0036.md) |
