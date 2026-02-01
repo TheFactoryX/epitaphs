@@ -79,6 +79,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 26 | [github/copilot-docs](https://github.com/github/copilot-docs) | 2021-10-23 | 2023-11-24 | ⭐23260 | [graveyard/tombstone_0026.md](graveyard/tombstone_0026.md) |
 | 25 | [pegjs/pegjs](https://github.com/pegjs/pegjs) | 2010-04-09 | 2021-11-08 | ⭐4916 | [graveyard/tombstone_0025.md](graveyard/tombstone_0025.md) |
 | 24 | [juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes) | 2022-05-04 | 2024-02-01 | ⭐236 | [graveyard/tombstone_0024.md](graveyard/tombstone_0024.md) |
 | 23 | [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 2010-12-01 | 2023-05-25 | ⭐30842 | [graveyard/tombstone_0023.md](graveyard/tombstone_0023.md) |
