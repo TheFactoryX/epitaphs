@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 53 | [hollyjackson/NYT_Content_Analysis](https://github.com/hollyjackson/NYT_Content_Analysis) | 2021-05-18 | 2024-02-01 | ⭐69 | [graveyard/tombstone_0053.md](graveyard/tombstone_0053.md) |
 | 52 | [nvie/gitflow](https://github.com/nvie/gitflow) | 2010-01-20 | 2025-10-14 | ⭐26875 | [graveyard/tombstone_0052.md](graveyard/tombstone_0052.md) |
 | 51 | [druce/rl](https://github.com/druce/rl) | 2019-10-19 | 2024-02-01 | ⭐108 | [graveyard/tombstone_0051.md](graveyard/tombstone_0051.md) |
 | 50 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 2024-01-01 | 2025-07-24 | ⭐53996 | [graveyard/tombstone_0050.md](graveyard/tombstone_0050.md) |

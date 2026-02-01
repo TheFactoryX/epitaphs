@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 53,
+  "buried_at": "2026-02-01 23:35:38",
+  "deceased": {
+    "full_name": "hollyjackson/NYT_Content_Analysis",
+    "url": "https://github.com/hollyjackson/NYT_Content_Analysis",
+    "description": null,
+    "stars": 69,
+    "language": "Python",
+    "created_at": "2021-05-18T17:24:50Z",
+    "pushed_at": "2024-02-01T22:03:48Z",
+    "archived": false,
+    "owner": "hollyjackson",
+    "topics": []
+  },
+  "epitaph": "It parsed the ink of a thousand headlines,\nReading the news in a digital stream,\nA tribute to text and the parsing of times,\nSilence now falls on this once-glossed dream.\nWith sixty-nine stars in the dark of the sky,\nThe parser has halted, the queries run dry.\nRest in `/dev/null`, where the articles fly.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
