@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 36,
+  "buried_at": "2026-02-01 14:30:41",
+  "deceased": {
+    "full_name": "leereilly/games",
+    "url": "https://github.com/leereilly/games",
+    "description": "Archived \u2014 A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+    "stars": 24492,
+    "language": null,
+    "created_at": "2012-01-05T19:48:55Z",
+    "pushed_at": "2025-09-13T20:06:46Z",
+    "archived": true,
+    "owner": "leereilly",
+    "topics": [
+      "game",
+      "game-development",
+      "game-engine",
+      "gamedev",
+      "games",
+      "html5-games"
+    ]
+  },
+  "epitaph": "A titan\u2019s list of twenty-four thousand stars,\nCataloging digital worlds from golden years.\nNow the final push is blocked, the book is barred,\nLeaving only ghosts of engines and old gears.\nSilent one hundred and forty days and more,\nA map to nowhere, locked behind the door.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}

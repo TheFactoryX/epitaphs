@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 36 | [leereilly/games](https://github.com/leereilly/games) | 2012-01-05 | 2025-09-13 | ⭐24492 | [graveyard/tombstone_0036.md](graveyard/tombstone_0036.md) |
 | 35 | [lehni/vscode-fix-checksums](https://github.com/lehni/vscode-fix-checksums) | 2018-07-29 | 2024-02-01 | ⭐88 | [graveyard/tombstone_0035.md](graveyard/tombstone_0035.md) |
 | 34 | [jakericedesigns/Assorted-Houdini-Demos](https://github.com/jakericedesigns/Assorted-Houdini-Demos) | 2021-05-24 | 2024-02-01 | ⭐105 | [graveyard/tombstone_0034.md](graveyard/tombstone_0034.md) |
 | 33 | [nicklockwood/FXBlurView](https://github.com/nicklockwood/FXBlurView) | 2013-08-25 | 2020-11-18 | ⭐4936 | [graveyard/tombstone_0033.md](graveyard/tombstone_0033.md) |
