@@ -117,6 +117,18 @@ Each one a memory.
 
 ---
 
+---
+
+## Anti-License
+
+[ANTI-LICENSE](LICENSE) — This is not a license. This is an invitation.
+
+Take it. Use it. Break it. Fix it. Sell it. Give it away.
+
+If you need permission, you're thinking too much.
+
+---
+
 **Contact:** hi@sdpkjc.com
 
 **Strange people. Strange things.**
