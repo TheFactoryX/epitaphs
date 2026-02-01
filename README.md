@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 32 | [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) | 2013-10-06 | 2019-01-09 | ⭐4950 | [graveyard/tombstone_0032.md](graveyard/tombstone_0032.md) |
 | 31 | [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) | 2011-05-31 | 2023-01-17 | ⭐33733 | [graveyard/tombstone_0031.md](graveyard/tombstone_0031.md) |
 | 30 | [jnordberg/gif.js](https://github.com/jnordberg/gif.js) | 2013-05-20 | 2023-10-06 | ⭐4960 | [graveyard/tombstone_0030.md](graveyard/tombstone_0030.md) |
 | 29 | [tobiascz/TeCNO](https://github.com/tobiascz/TeCNO) | 2020-07-06 | 2024-02-01 | ⭐66 | [graveyard/tombstone_0029.md](graveyard/tombstone_0029.md) |
