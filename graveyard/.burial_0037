@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 37,
+  "buried_at": "2026-02-01 14:59:16",
+  "deceased": {
+    "full_name": "vigetlabs/blendid",
+    "url": "https://github.com/vigetlabs/blendid",
+    "description": "A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder",
+    "stars": 4939,
+    "language": "JavaScript",
+    "created_at": "2014-01-11T00:37:46Z",
+    "pushed_at": "2020-04-14T03:49:31Z",
+    "archived": true,
+    "owner": "vigetlabs",
+    "topics": [
+      "asset-pipeline",
+      "browsersync",
+      "gulp",
+      "gulp-starter",
+      "svg-sprites",
+      "webpack"
+    ]
+  },
+  "epitaph": "A piping hot stream in the winter of twenty-fourteen,\nWith nearly five thousand stars watching the blend.\nBut the Gulp ran dry and theWebpack grew mean,\nLeaving the asset pipeline frozen at the bitter end.\nNo sprites will refresh, and the browsers cease sync,\nYour config lies dormant, too heavy to lift.\nCommitted to memory, gone in a blink,\nRest in peace in `node_modules/.bin`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
