@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 48,
+  "buried_at": "2026-02-01 20:59:40",
+  "deceased": {
+    "full_name": "RethinkRobotics/sawyer_simulator",
+    "url": "https://github.com/RethinkRobotics/sawyer_simulator",
+    "description": "Gazebo Simulation interface for the Sawyer Robot",
+    "stars": 52,
+    "language": "C++",
+    "created_at": "2016-01-12T17:21:10Z",
+    "pushed_at": "2024-02-01T22:09:05Z",
+    "archived": false,
+    "owner": "RethinkRobotics",
+    "topics": []
+  },
+  "epitaph": "You mimicked the motions of a plastic arm,\nIn Gazebo\u2019s garden, safe and warm.\nThough fifty stars fell on your gaze,\nTwo winters passed in static haze.\nNo tags to bind you, no themes to hold,\nJust C++ growing gray and old.\nThe simulation ends, the screen goes null,\nRest in peace, `rm -rf /dev/full`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
