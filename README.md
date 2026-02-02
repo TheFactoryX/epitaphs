@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 69 | [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) | 2017-03-09 | 2022-01-24 | ⭐4919 | [graveyard/tombstone_0069.md](graveyard/tombstone_0069.md) |
 | 68 | [levey/AwesomeMenu](https://github.com/levey/AwesomeMenu) | 2011-12-01 | 2018-09-28 | ⭐4988 | [graveyard/tombstone_0068.md](graveyard/tombstone_0068.md) |
 | 67 | [TalAter/UpUp](https://github.com/TalAter/UpUp) | 2015-03-11 | 2022-12-06 | ⭐4922 | [graveyard/tombstone_0067.md](graveyard/tombstone_0067.md) |
 | 66 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel) | 2018-02-06 | 2024-10-29 | ⭐33757 | [graveyard/tombstone_0066.md](graveyard/tombstone_0066.md) |
