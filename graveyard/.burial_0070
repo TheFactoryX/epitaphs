@@ -1,0 +1,30 @@
+{
+  "tombstone_number": 70,
+  "buried_at": "2026-02-02 18:26:58",
+  "deceased": {
+    "full_name": "dylanaraps/neofetch",
+    "url": "https://github.com/dylanaraps/neofetch",
+    "description": "\ud83d\uddbc\ufe0f  A command-line system information tool written in bash 3.2+",
+    "stars": 23537,
+    "language": "Shell",
+    "created_at": "2015-12-30T10:19:46Z",
+    "pushed_at": "2024-07-19T20:19:01Z",
+    "archived": true,
+    "owner": "dylanaraps",
+    "topics": [
+      "bash",
+      "command-line",
+      "commandline",
+      "distro",
+      "neofetch",
+      "screenshot",
+      "script"
+    ]
+  },
+  "epitaph": "It parsed the soul of the machine in vibrant ASCII hue,\nA faithful bash companion, knowing every RAM and CPU.\nWith fifty thousand stars aligned to gaze upon the screen,\nThe master branch was severed, the pipes no longer clean.\nNo more distros to be fetched, no screenshots to be taken,\nThe terminal is silent where the promise once wakened.\nYour run has ended, memory freed, your filehandles closed at last,\nRest in peace, you lovely script, within the /dev/null vast.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
