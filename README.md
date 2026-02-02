@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 67 | [TalAter/UpUp](https://github.com/TalAter/UpUp) | 2015-03-11 | 2022-12-06 | ⭐4922 | [graveyard/tombstone_0067.md](graveyard/tombstone_0067.md) |
 | 66 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel) | 2018-02-06 | 2024-10-29 | ⭐33757 | [graveyard/tombstone_0066.md](graveyard/tombstone_0066.md) |
 | 65 | [sourcegraph/careers](https://github.com/sourcegraph/careers) | 2017-07-12 | 2024-02-02 | ⭐132 | [graveyard/tombstone_0065.md](graveyard/tombstone_0065.md) |
 | 64 | [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) | 2023-04-07 | 2025-04-29 | ⭐35644 | [graveyard/tombstone_0064.md](graveyard/tombstone_0064.md) |

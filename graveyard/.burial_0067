@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 67,
+  "buried_at": "2026-02-02 15:52:35",
+  "deceased": {
+    "full_name": "TalAter/UpUp",
+    "url": "https://github.com/TalAter/UpUp",
+    "description": "\u2708\ufe0f Easily create sites that work offline as well as online",
+    "stars": 4922,
+    "language": "JavaScript",
+    "created_at": "2015-03-11T13:20:08Z",
+    "pushed_at": "2022-12-06T21:57:24Z",
+    "archived": false,
+    "owner": "TalAter",
+    "topics": [
+      "hacktoberfest",
+      "offline",
+      "offline-first",
+      "progressive-web-app",
+      "pwa",
+      "service-worker"
+    ]
+  },
+  "epitaph": "Once you swore the web would stay awake,\nA promise whispered for the connection\u2019s sake.\nTo keep the flight aloft when the signal died,\nA ghost that haunted the Ethernet\u2019s wide tide.\nBut seven winters passed, the signal gray,\nAnd left you stranded in the delay.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
