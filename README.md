@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 60 | [deployd/deployd](https://github.com/deployd/deployd) | 2011-09-11 | 2019-04-16 | ⭐4960 | [graveyard/tombstone_0060.md](graveyard/tombstone_0060.md) |
 | 59 | [spring-attic/spring-mvc-showcase](https://github.com/spring-attic/spring-mvc-showcase) | 2011-06-03 | 2022-02-04 | ⭐4981 | [graveyard/tombstone_0059.md](graveyard/tombstone_0059.md) |
 | 58 | [WebKit/WebKit-http](https://github.com/WebKit/WebKit-http) | 2011-01-11 | 2022-02-10 | ⭐4991 | [graveyard/tombstone_0058.md](graveyard/tombstone_0058.md) |
 | 57 | [IF1007/if1007](https://github.com/IF1007/if1007) | 2017-12-04 | 2024-02-02 | ⭐83 | [graveyard/tombstone_0057.md](graveyard/tombstone_0057.md) |
