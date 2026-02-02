@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 63 | [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) | 2019-06-07 | 2023-04-19 | ⭐4985 | [graveyard/tombstone_0063.md](graveyard/tombstone_0063.md) |
 | 62 | [Phype/telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot) | 2016-12-07 | 2024-02-02 | ⭐312 | [graveyard/tombstone_0062.md](graveyard/tombstone_0062.md) |
 | 61 | [BanchouBoo/lucky](https://github.com/BanchouBoo/lucky) | 2023-02-06 | 2024-02-02 | ⭐52 | [graveyard/tombstone_0061.md](graveyard/tombstone_0061.md) |
 | 60 | [deployd/deployd](https://github.com/deployd/deployd) | 2011-09-11 | 2019-04-16 | ⭐4960 | [graveyard/tombstone_0060.md](graveyard/tombstone_0060.md) |
