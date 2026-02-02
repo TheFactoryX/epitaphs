@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 62 | [Phype/telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot) | 2016-12-07 | 2024-02-02 | ⭐312 | [graveyard/tombstone_0062.md](graveyard/tombstone_0062.md) |
 | 61 | [BanchouBoo/lucky](https://github.com/BanchouBoo/lucky) | 2023-02-06 | 2024-02-02 | ⭐52 | [graveyard/tombstone_0061.md](graveyard/tombstone_0061.md) |
 | 60 | [deployd/deployd](https://github.com/deployd/deployd) | 2011-09-11 | 2019-04-16 | ⭐4960 | [graveyard/tombstone_0060.md](graveyard/tombstone_0060.md) |
 | 59 | [spring-attic/spring-mvc-showcase](https://github.com/spring-attic/spring-mvc-showcase) | 2011-06-03 | 2022-02-04 | ⭐4981 | [graveyard/tombstone_0059.md](graveyard/tombstone_0059.md) |

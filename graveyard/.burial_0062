@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 62,
+  "buried_at": "2026-02-02 11:07:38",
+  "deceased": {
+    "full_name": "Phype/telnet-iot-honeypot",
+    "url": "https://github.com/Phype/telnet-iot-honeypot",
+    "description": "Python telnet honeypot for catching botnet binaries",
+    "stars": 312,
+    "language": "Python",
+    "created_at": "2016-12-07T21:47:10Z",
+    "pushed_at": "2024-02-02T22:07:12Z",
+    "archived": false,
+    "owner": "Phype",
+    "topics": [
+      "botnet",
+      "honeypot",
+      "malware",
+      "telnet-server"
+    ]
+  },
+  "epitaph": "It opened a port to welcome the dark,\nTo capture the binaries, vicious and stark,\nBut seven years of shadows have passed in the mist,\nAnd the botnets have moved to a new protocol list.\nUnarchived, yet silent, the scripts cease to run,\nUnder the weight of a setting sun.\nNo packet shall pass, no infection shall null,\nRest in peace in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
