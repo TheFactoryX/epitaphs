@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 56 | [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) | 2018-10-09 | 2023-06-18 | ⭐26016 | [graveyard/tombstone_0056.md](graveyard/tombstone_0056.md) |
 | 55 | [google-research/bert](https://github.com/google-research/bert) | 2018-10-25 | 2024-07-23 | ⭐39835 | [graveyard/tombstone_0055.md](graveyard/tombstone_0055.md) |
 | 54 | [googleapis/cloud-debug-nodejs](https://github.com/googleapis/cloud-debug-nodejs) | 2015-04-27 | 2024-02-01 | ⭐167 | [graveyard/tombstone_0054.md](graveyard/tombstone_0054.md) |
 | 53 | [hollyjackson/NYT_Content_Analysis](https://github.com/hollyjackson/NYT_Content_Analysis) | 2021-05-18 | 2024-02-01 | ⭐69 | [graveyard/tombstone_0053.md](graveyard/tombstone_0053.md) |
