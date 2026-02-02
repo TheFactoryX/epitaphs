@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 61 | [BanchouBoo/lucky](https://github.com/BanchouBoo/lucky) | 2023-02-06 | 2024-02-02 | ⭐52 | [graveyard/tombstone_0061.md](graveyard/tombstone_0061.md) |
 | 60 | [deployd/deployd](https://github.com/deployd/deployd) | 2011-09-11 | 2019-04-16 | ⭐4960 | [graveyard/tombstone_0060.md](graveyard/tombstone_0060.md) |
 | 59 | [spring-attic/spring-mvc-showcase](https://github.com/spring-attic/spring-mvc-showcase) | 2011-06-03 | 2022-02-04 | ⭐4981 | [graveyard/tombstone_0059.md](graveyard/tombstone_0059.md) |
 | 58 | [WebKit/WebKit-http](https://github.com/WebKit/WebKit-http) | 2011-01-11 | 2022-02-10 | ⭐4991 | [graveyard/tombstone_0058.md](graveyard/tombstone_0058.md) |

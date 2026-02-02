@@ -1,0 +1,37 @@
+{
+  "tombstone_number": 61,
+  "buried_at": "2026-02-02 10:08:37",
+  "deceased": {
+    "full_name": "BanchouBoo/lucky",
+    "url": "https://github.com/BanchouBoo/lucky",
+    "description": "Lua-configured input daemon for X",
+    "stars": 52,
+    "language": "Zig",
+    "created_at": "2023-02-06T01:12:39Z",
+    "pushed_at": "2024-02-02T20:09:31Z",
+    "archived": false,
+    "owner": "BanchouBoo",
+    "topics": [
+      "daemon",
+      "hotkey",
+      "hotkey-daemon",
+      "hotkey-daemons",
+      "hotkeys",
+      "keybind",
+      "keybinding",
+      "keybindings",
+      "keyboard-shortcuts",
+      "lua",
+      "mouse",
+      "x",
+      "x11",
+      "xorg"
+    ]
+  },
+  "epitaph": "He waited for the keypress, the daemon of the X,\nA ghost within the window, living on the flix.\nBut Zig proved too fleeting, and Lua\u2019s scripts fell cold,\nThree hundred sixty days of glory, now growing gray and old.\nThough fifty stars look down upon the code you left behind,\nThe silence of your seven-hundred days enshrines your final bind.\nRest in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
