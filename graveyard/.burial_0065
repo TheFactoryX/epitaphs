@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 65,
+  "buried_at": "2026-02-02 14:08:36",
+  "deceased": {
+    "full_name": "sourcegraph/careers",
+    "url": "https://github.com/sourcegraph/careers",
+    "description": "Want to work at Sourcegraph?",
+    "stars": 132,
+    "language": null,
+    "created_at": "2017-07-12T01:15:39Z",
+    "pushed_at": "2024-02-02T20:55:41Z",
+    "archived": false,
+    "owner": "sourcegraph",
+    "topics": [
+      "careers",
+      "hiring",
+      "jobs",
+      "repo-type-business"
+    ]
+  },
+  "epitaph": "Here stood the open door to brighter days,\nA gentle prompt for code and living wage.\nTwo winters past, the job offers ceased to flow,\nAnd though the repo lives, it turns no page.\nThe interview loop has stalled; the build is done.\nRest in `/dev/null` onboarding queue.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
