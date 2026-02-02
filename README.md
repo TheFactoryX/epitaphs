@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 71 | [alibaba/UltraViewPager](https://github.com/alibaba/UltraViewPager) | 2017-03-29 | 2021-07-14 | ⭐4971 | [graveyard/tombstone_0071.md](graveyard/tombstone_0071.md) |
 | 70 | [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) | 2015-12-30 | 2024-07-19 | ⭐23537 | [graveyard/tombstone_0070.md](graveyard/tombstone_0070.md) |
 | 69 | [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) | 2017-03-09 | 2022-01-24 | ⭐4919 | [graveyard/tombstone_0069.md](graveyard/tombstone_0069.md) |
 | 68 | [levey/AwesomeMenu](https://github.com/levey/AwesomeMenu) | 2011-12-01 | 2018-09-28 | ⭐4988 | [graveyard/tombstone_0068.md](graveyard/tombstone_0068.md) |
