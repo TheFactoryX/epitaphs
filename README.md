@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 66 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel) | 2018-02-06 | 2024-10-29 | ⭐33757 | [graveyard/tombstone_0066.md](graveyard/tombstone_0066.md) |
 | 65 | [sourcegraph/careers](https://github.com/sourcegraph/careers) | 2017-07-12 | 2024-02-02 | ⭐132 | [graveyard/tombstone_0065.md](graveyard/tombstone_0065.md) |
 | 64 | [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) | 2023-04-07 | 2025-04-29 | ⭐35644 | [graveyard/tombstone_0064.md](graveyard/tombstone_0064.md) |
 | 63 | [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) | 2019-06-07 | 2023-04-19 | ⭐4985 | [graveyard/tombstone_0063.md](graveyard/tombstone_0063.md) |
