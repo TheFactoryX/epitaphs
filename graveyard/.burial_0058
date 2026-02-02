@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 58,
+  "buried_at": "2026-02-02 07:34:26",
+  "deceased": {
+    "full_name": "WebKit/WebKit-http",
+    "url": "https://github.com/WebKit/WebKit-http",
+    "description": "Deprecated unofficial http mirror of the WebKit SVN repository",
+    "stars": 4991,
+    "language": null,
+    "created_at": "2011-01-11T13:50:19Z",
+    "pushed_at": "2022-02-10T10:23:34Z",
+    "archived": true,
+    "owner": "WebKit",
+    "topics": []
+  },
+  "epitaph": "You bridged the river SVN for the Git world alone,\nAn unofficial mirror carrying the browser's throne.\nThough the stars numbered thousands, the topics were bare,\nA silent reflection that no one could repair.\nThe commit hash has frozen, the sync has grown cold,\nEleven years of service, too heavy to hold.\nHere lies the echo of awebkit-http,\nRest in /dev/null, where the data is kept.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
