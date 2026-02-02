@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 59,
+  "buried_at": "2026-02-02 08:25:39",
+  "deceased": {
+    "full_name": "spring-attic/spring-mvc-showcase",
+    "url": "https://github.com/spring-attic/spring-mvc-showcase",
+    "description": "Demonstrates the features of the Spring MVC web framework",
+    "stars": 4981,
+    "language": "Java",
+    "created_at": "2011-06-03T15:36:55Z",
+    "pushed_at": "2022-02-04T23:36:03Z",
+    "archived": true,
+    "owner": "spring-attic",
+    "topics": []
+  },
+  "epitaph": "Born in the June of frameworks past,\nYou served the controllers until the last.\nThough archived, four thousand stars still gleam,\nA fossil caught in a static stream.\nSilent these four winters, cold and deleted,\nYour servlet context, finally depleted.\nRest in peace, compile once more,\nRest in /dev/null, forevermore.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
