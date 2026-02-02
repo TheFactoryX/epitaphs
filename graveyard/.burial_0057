@@ -1,0 +1,38 @@
+{
+  "tombstone_number": 57,
+  "buried_at": "2026-02-02 06:15:24",
+  "deceased": {
+    "full_name": "IF1007/if1007",
+    "url": "https://github.com/IF1007/if1007",
+    "description": "Desenvolvimento de Aplica\u00e7\u00f5es com Arquitetura Baseada em Microservices",
+    "stars": 83,
+    "language": "Java",
+    "created_at": "2017-12-04T17:08:54Z",
+    "pushed_at": "2024-02-02T20:44:44Z",
+    "archived": false,
+    "owner": "IF1007",
+    "topics": [
+      "ci-cd",
+      "cin",
+      "cloud-native",
+      "containerization",
+      "containers",
+      "course",
+      "devops",
+      "disciplina",
+      "docker",
+      "kubernetes",
+      "microservice",
+      "microservices-architecture",
+      "spring-boot",
+      "spring-cloud",
+      "ufpe"
+    ]
+  },
+  "epitaph": "A sprawling mesh of Spring and Cloud, that promised worlds so vast,\nNow waits in Docker\u2019s silent glass, a service meant to last.\nThe Kubernetes have ceased their hum, the CI pipeline cold,\nSeven years of architecture left to grow obsolete and old.\nThough eighty stars once lit your code, the clock has finally run,\nRest in /dev/null, old IF1007, your classes unbound.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
