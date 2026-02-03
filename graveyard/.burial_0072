@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 72,
+  "buried_at": "2026-02-03 00:00:34",
+  "deceased": {
+    "full_name": "proxyee-down-org/proxyee-down",
+    "url": "https://github.com/proxyee-down-org/proxyee-down",
+    "description": "http\u4e0b\u8f7d\u5de5\u5177\uff0c\u57fa\u4e8ehttp\u4ee3\u7406\uff0c\u652f\u6301\u591a\u8fde\u63a5\u5206\u5757\u4e0b\u8f7d",
+    "stars": 24817,
+    "language": "Java",
+    "created_at": "2017-10-25T10:07:27Z",
+    "pushed_at": "2024-07-16T09:22:28Z",
+    "archived": true,
+    "owner": "proxyee-down-org",
+    "topics": []
+  },
+  "epitaph": "It stood as a proxy against the slow crawl of the web,\nSplitting the heavy streams into fragments of speed.\nTwenty-four thousand stars watched it dismantle the wait,\nBefore the connection was closed and the commits met their fate.\nThough the Java dust settles on connections now gone,\nThe bytes it compiled for us linger on.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
