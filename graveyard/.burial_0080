@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 80,
+  "buried_at": "2026-02-03 10:46:12",
+  "deceased": {
+    "full_name": "epochjs/epoch",
+    "url": "https://github.com/epochjs/epoch",
+    "description": "A general purpose, real-time visualization library.",
+    "stars": 4956,
+    "language": "HTML",
+    "created_at": "2013-06-27T23:04:32Z",
+    "pushed_at": "2019-02-14T08:38:22Z",
+    "archived": false,
+    "owner": "epochjs",
+    "topics": []
+  },
+  "epitaph": "Here lies `epochjs`, the pulse of the page,\nWhose charts beat in time, an elegant age.\nFour thousand nine hundred stars watched it flow,\nReal-time beauty, a fluorescent glow.\nBut Valentine\u2019s Day brought its final decay,\nNow the render loop stalls in permanent gray.\nNo more data streams, just silent null,\nRest in /dev/null, you beautiful skull.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
