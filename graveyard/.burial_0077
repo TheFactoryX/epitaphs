@@ -1,0 +1,30 @@
+{
+  "tombstone_number": 77,
+  "buried_at": "2026-02-03 07:55:52",
+  "deceased": {
+    "full_name": "transcranial/keras-js",
+    "url": "https://github.com/transcranial/keras-js",
+    "description": "Run Keras models in the browser, with GPU support using WebGL",
+    "stars": 4968,
+    "language": "JavaScript",
+    "created_at": "2016-09-30T14:40:35Z",
+    "pushed_at": "2022-06-15T12:11:24Z",
+    "archived": false,
+    "owner": "transcranial",
+    "topics": [
+      "deep-learning",
+      "javascript",
+      "keras",
+      "machine-learning",
+      "neural-networks",
+      "tensorflow",
+      "webgl"
+    ]
+  },
+  "epitaph": "Here lies the mind that spun in JavaScript threads,\nA Keras dream woven in WebGL.\nFrom the glory of nearly five thousand stars to the silence of threads,\nThe neural network has shut down; the neurons fell.\nGone to silicon slumber, the browser grows cold,\nYour epoch has ended, your story is told.\nRest in `lib/defunct/keras.js`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
