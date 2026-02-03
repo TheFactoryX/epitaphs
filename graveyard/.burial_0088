@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 88,
+  "buried_at": "2026-02-03 18:36:18",
+  "deceased": {
+    "full_name": "vercel/pkg",
+    "url": "https://github.com/vercel/pkg",
+    "description": "Package your Node.js project into an executable",
+    "stars": 24425,
+    "language": "JavaScript",
+    "created_at": "2016-08-08T19:41:59Z",
+    "pushed_at": "2024-01-03T01:38:16Z",
+    "archived": true,
+    "owner": "vercel",
+    "topics": [
+      "binaries",
+      "cli",
+      "compiler",
+      "nodejs"
+    ]
+  },
+  "epitaph": "Once you bundled the source, compiling the node,\nTransforming our JavaScript into a perfect binary code.\nBut the issues grew stale and the commits grew slow,\nLeaving twenty-four thousand stars nowhere to go.\nSo close the terminal window on this glorious feat,\nAnd sleep in the silence, no longer `pkg`.\n\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
