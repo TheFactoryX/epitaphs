@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 95 | [emrekybs/nim-shell](https://github.com/emrekybs/nim-shell) | 2023-11-27 | 2024-02-03 | ⭐169 | [graveyard/tombstone_0095.md](graveyard/tombstone_0095.md) |
 | 94 | [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) | 2020-02-04 | 2023-06-10 | ⭐29004 | [graveyard/tombstone_0094.md](graveyard/tombstone_0094.md) |
 | 93 | [ojwalch/sleep_accel](https://github.com/ojwalch/sleep_accel) | 2018-05-09 | 2024-02-03 | ⭐69 | [graveyard/tombstone_0093.md](graveyard/tombstone_0093.md) |
 | 92 | [lopaka/instructions](https://github.com/lopaka/instructions) | 2014-11-21 | 2024-02-03 | ⭐174 | [graveyard/tombstone_0092.md](graveyard/tombstone_0092.md) |

@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 95,
+  "buried_at": "2026-02-03 23:44:03",
+  "deceased": {
+    "full_name": "emrekybs/nim-shell",
+    "url": "https://github.com/emrekybs/nim-shell",
+    "description": "Reverse shell that can bypass windows defender detection",
+    "stars": 169,
+    "language": "Nim",
+    "created_at": "2023-11-27T23:24:24Z",
+    "pushed_at": "2024-02-03T22:07:42Z",
+    "archived": false,
+    "owner": "emrekybs",
+    "topics": [
+      "bypass",
+      "defender",
+      "reverse-shell",
+      "windows"
+    ]
+  },
+  "epitaph": "Born of Nim, a fleeting ghost in the machine,\nYou slipped past the Defender's watchful eye.\nSixty-eight days of grace, both sharp and clean,\nBefore the silence fell and stars ran dry.\nThough not archived, the pulse is gone and still,\nA bypass now that time itself has killed.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
