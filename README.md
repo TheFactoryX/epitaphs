@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 90 | [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | 2018-06-25 | 2024-04-25 | ⭐31721 | [graveyard/tombstone_0090.md](graveyard/tombstone_0090.md) |
 | 89 | [eduardotkoller/convForm](https://github.com/eduardotkoller/convForm) | 2017-04-27 | 2024-02-03 | ⭐182 | [graveyard/tombstone_0089.md](graveyard/tombstone_0089.md) |
 | 88 | [vercel/pkg](https://github.com/vercel/pkg) | 2016-08-08 | 2024-01-03 | ⭐24425 | [graveyard/tombstone_0088.md](graveyard/tombstone_0088.md) |
 | 87 | [regosen/get_cover_art](https://github.com/regosen/get_cover_art) | 2020-09-02 | 2024-02-03 | ⭐88 | [graveyard/tombstone_0087.md](graveyard/tombstone_0087.md) |
