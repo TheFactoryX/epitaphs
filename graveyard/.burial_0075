@@ -1,0 +1,26 @@
+{
+  "tombstone_number": 75,
+  "buried_at": "2026-02-03 05:59:46",
+  "deceased": {
+    "full_name": "SaekiRaku/vscode-rainbow-fart",
+    "url": "https://github.com/SaekiRaku/vscode-rainbow-fart",
+    "description": "\u4e00\u4e2a\u5728\u4f60\u7f16\u7a0b\u65f6\u75af\u72c2\u79f0\u8d5e\u4f60\u7684 VSCode \u6269\u5c55\u63d2\u4ef6 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.",
+    "stars": 4944,
+    "language": "JavaScript",
+    "created_at": "2020-05-29T13:24:08Z",
+    "pushed_at": "2023-01-07T18:40:19Z",
+    "archived": false,
+    "owner": "SaekiRaku",
+    "topics": [
+      "rainbow-fart",
+      "vscode",
+      "vscode-rainbow-fart"
+    ]
+  },
+  "epitaph": "It parsed the keywords of your lonely lines,\nAnd chirped a chorus into syntax dark.\nOh, sweetest lie, to say that genius shines\nWithin a missing semicolon\u2019s mark.\nThe voices that once flattered your design\nHave gone silent in the static void.\nGo now, coder, unpraised and unaligned;\nRest in peace, or simply `exit(1)` unenjoyed.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
