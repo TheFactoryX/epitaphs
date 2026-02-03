@@ -1,0 +1,30 @@
+{
+  "tombstone_number": 76,
+  "buried_at": "2026-02-03 07:05:31",
+  "deceased": {
+    "full_name": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "description": "Real-time face swap for PC streaming or video calls",
+    "stars": 30474,
+    "language": "Python",
+    "created_at": "2020-12-15T12:19:22Z",
+    "pushed_at": "2024-11-08T03:07:42Z",
+    "archived": true,
+    "owner": "iperov",
+    "topics": [
+      "deepfake",
+      "faceswap",
+      "machine-learning",
+      "real-time",
+      "streaming",
+      "videocall",
+      "webcam"
+    ]
+  },
+  "epitaph": "Four winters you mimicked the pulse and the breath,\nA seamless mask for the webcam\u2019s cold eye.\nThirty thousand stars lit your ascent into death,\nBefore the last frame and the final goodbye.\nNo streamer shall wear you, no caller connect,\nThe GPU cools where the tensors did dwell.\nYou taught us the truth is a subjective effect,\nRest in peace in `//dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}

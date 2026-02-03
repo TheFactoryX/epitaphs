@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 76 | [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) | 2020-12-15 | 2024-11-08 | ⭐30474 | [graveyard/tombstone_0076.md](graveyard/tombstone_0076.md) |
 | 75 | [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) | 2020-05-29 | 2023-01-07 | ⭐4944 | [graveyard/tombstone_0075.md](graveyard/tombstone_0075.md) |
 | 74 | [orhanobut/dialogplus](https://github.com/orhanobut/dialogplus) | 2014-12-12 | 2022-01-17 | ⭐4981 | [graveyard/tombstone_0074.md](graveyard/tombstone_0074.md) |
 | 73 | [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) | 2016-06-02 | 2025-06-19 | ⭐26716 | [graveyard/tombstone_0073.md](graveyard/tombstone_0073.md) |
