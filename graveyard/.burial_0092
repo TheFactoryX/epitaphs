@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 92,
+  "buried_at": "2026-02-03 21:50:38",
+  "deceased": {
+    "full_name": "lopaka/instructions",
+    "url": "https://github.com/lopaka/instructions",
+    "description": "Instructions on how to do things",
+    "stars": 174,
+    "language": null,
+    "created_at": "2014-11-21T05:09:29Z",
+    "pushed_at": "2024-02-03T17:09:09Z",
+    "archived": false,
+    "owner": "lopaka",
+    "topics": []
+  },
+  "epitaph": "Here lies `lopaka/instructions`,\nA guide for tasks we've long forgot.\nOne hundred and seventy-four stars\nWatch the silence rot.\nWith no language left to speak its name,\nAnd ten years gone to rust:\nYou taught us how, but not to stay\u2014\nRest in /dev/null, dust to dust.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}

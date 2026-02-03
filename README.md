@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 92 | [lopaka/instructions](https://github.com/lopaka/instructions) | 2014-11-21 | 2024-02-03 | ⭐174 | [graveyard/tombstone_0092.md](graveyard/tombstone_0092.md) |
 | 91 | [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 2017-03-05 | 2025-09-16 | ⭐75503 | [graveyard/tombstone_0091.md](graveyard/tombstone_0091.md) |
 | 90 | [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | 2018-06-25 | 2024-04-25 | ⭐31721 | [graveyard/tombstone_0090.md](graveyard/tombstone_0090.md) |
 | 89 | [eduardotkoller/convForm](https://github.com/eduardotkoller/convForm) | 2017-04-27 | 2024-02-03 | ⭐182 | [graveyard/tombstone_0089.md](graveyard/tombstone_0089.md) |
