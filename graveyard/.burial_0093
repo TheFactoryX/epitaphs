@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 93,
+  "buried_at": "2026-02-03 22:34:46",
+  "deceased": {
+    "full_name": "ojwalch/sleep_accel",
+    "url": "https://github.com/ojwalch/sleep_accel",
+    "description": "Code for Swift project to extract acceleration from Apple Watch during sleep - currently under construction",
+    "stars": 69,
+    "language": "Swift",
+    "created_at": "2018-05-09T14:46:30Z",
+    "pushed_at": "2024-02-03T18:52:18Z",
+    "archived": false,
+    "owner": "ojwalch",
+    "topics": []
+  },
+  "epitaph": "It sought to capture the tremors of your rest,\nTo parse the silent rhythms of the chest,\nMeasuring the pulse of nights long past,\nA six-year vigil that was not meant to last.\nWith sixty-nine stars to light the gloom,\nIt joined the silence of the digital tomb.\nNow the accelerometer ceases its hum,\nRest in /dev/null, the data is numb.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
