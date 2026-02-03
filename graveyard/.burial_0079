@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 79,
+  "buried_at": "2026-02-03 09:49:40",
+  "deceased": {
+    "full_name": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "description": "12306\u667a\u80fd\u5237\u7968\uff0c\u8ba2\u7968",
+    "stars": 34170,
+    "language": "Python",
+    "created_at": "2017-05-17T12:23:40Z",
+    "pushed_at": "2023-04-02T03:19:43Z",
+    "archived": true,
+    "owner": "testerSunshine",
+    "topics": []
+  },
+  "epitaph": "Seeking passage home on the Festival\u2019s rush,\nYou parsed the captcha and waited to crush\nThe wall of the server. But time is a train\nThat departs the station and never again\nReturns for the passenger, quiet or loud.\nThe tickets are sold out; your script is not proud.\nHere lies the Selenium, stopped in its run,\nRest in peace, `return None`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
