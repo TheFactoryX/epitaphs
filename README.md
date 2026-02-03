@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 84 | [fzaninotto/Faker](https://github.com/fzaninotto/Faker) | 2011-10-14 | 2024-03-20 | ⭐26713 | [graveyard/tombstone_0084.md](graveyard/tombstone_0084.md) |
 | 83 | [rome/tools](https://github.com/rome/tools) | 2020-02-20 | 2023-09-04 | ⭐23521 | [graveyard/tombstone_0083.md](graveyard/tombstone_0083.md) |
 | 82 | [atom/atom](https://github.com/atom/atom) | 2012-01-20 | 2023-01-03 | ⭐61003 | [graveyard/tombstone_0082.md](graveyard/tombstone_0082.md) |
 | 81 | [roncoo/roncoo-pay](https://github.com/roncoo/roncoo-pay) | 2016-07-21 | 2022-12-31 | ⭐4959 | [graveyard/tombstone_0081.md](graveyard/tombstone_0081.md) |
