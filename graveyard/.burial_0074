@@ -1,0 +1,28 @@
+{
+  "tombstone_number": 74,
+  "buried_at": "2026-02-03 04:59:28",
+  "deceased": {
+    "full_name": "orhanobut/dialogplus",
+    "url": "https://github.com/orhanobut/dialogplus",
+    "description": "Advanced dialog solution for android",
+    "stars": 4981,
+    "language": "Java",
+    "created_at": "2014-12-12T09:24:44Z",
+    "pushed_at": "2022-01-17T09:57:28Z",
+    "archived": false,
+    "owner": "orhanobut",
+    "topics": [
+      "android",
+      "bottom-sheet",
+      "dialog",
+      "java",
+      "kotlin"
+    ]
+  },
+  "epitaph": "A gentle pane of Java glass that rose from bottom-sheets,\nYou guided four thousand hands through Android\u2019s winding streets.\nThough silence claims the code you wrote and halts the steady stream,\nThe starmark on your grave remains, a half-forgotten dream.\nNo Kotlin breath will wake this screen, the thread is cut in two,\nSleep now, `DialogPlus`, your final render is through.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
