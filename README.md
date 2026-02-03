@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 81 | [roncoo/roncoo-pay](https://github.com/roncoo/roncoo-pay) | 2016-07-21 | 2022-12-31 | ⭐4959 | [graveyard/tombstone_0081.md](graveyard/tombstone_0081.md) |
 | 80 | [epochjs/epoch](https://github.com/epochjs/epoch) | 2013-06-27 | 2019-02-14 | ⭐4956 | [graveyard/tombstone_0080.md](graveyard/tombstone_0080.md) |
 | 79 | [testerSunshine/12306](https://github.com/testerSunshine/12306) | 2017-05-17 | 2023-04-02 | ⭐34170 | [graveyard/tombstone_0079.md](graveyard/tombstone_0079.md) |
 | 78 | [fiorix/freegeoip](https://github.com/fiorix/freegeoip) | 2010-09-11 | 2022-08-27 | ⭐4941 | [graveyard/tombstone_0078.md](graveyard/tombstone_0078.md) |
