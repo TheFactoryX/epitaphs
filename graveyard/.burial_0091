@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 91,
+  "buried_at": "2026-02-03 21:02:56",
+  "deceased": {
+    "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": ":link: Some useful websites for programmers.",
+    "stars": 75503,
+    "language": null,
+    "created_at": "2017-03-05T20:25:17Z",
+    "pushed_at": "2025-09-16T18:34:24Z",
+    "archived": true,
+    "owner": "sdmg15",
+    "topics": [
+      "books",
+      "cs",
+      "hacktoberfest",
+      "links",
+      "programmer",
+      "sites"
+    ]
+  },
+  "epitaph": "A golden ark of seventy thousand stars,\nNow drifting silent where the bit-stream bars\nThe door to libraries and hacker tools,\nOnce gathered by a hundred thousand fools.\nThe links are rusted, the bookmarks cold,\nA glorious index, a heap of gold.\nRest in peace, lost directory.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
