@@ -1,0 +1,33 @@
+{
+  "tombstone_number": 73,
+  "buried_at": "2026-02-03 03:13:29",
+  "deceased": {
+    "full_name": "mozilla/DeepSpeech",
+    "url": "https://github.com/mozilla/DeepSpeech",
+    "description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+    "stars": 26716,
+    "language": "C++",
+    "created_at": "2016-06-02T15:04:53Z",
+    "pushed_at": "2025-06-19T12:52:51Z",
+    "archived": true,
+    "owner": "mozilla",
+    "topics": [
+      "deep-learning",
+      "deepspeech",
+      "embedded",
+      "machine-learning",
+      "neural-networks",
+      "offline",
+      "on-device",
+      "speech-recognition",
+      "speech-to-text",
+      "tensorflow"
+    ]
+  },
+  "epitaph": "Upon the Raspberry\u2019s gentle hum, your voice was rendered true,\nA tethered whisper in the code, a distinct C++ hue.\nFrom server banks to pockets deep, you listened without cease,\nNow twenty thousand stars look down upon your peace.\nThe microphone has gone to static, the neural nets unwind,\nLeaving silence in the dataset you left behind.\n\nRest in `SIGTERM`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
