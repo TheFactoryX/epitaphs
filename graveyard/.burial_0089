@@ -1,0 +1,31 @@
+{
+  "tombstone_number": 89,
+  "buried_at": "2026-02-03 19:34:53",
+  "deceased": {
+    "full_name": "eduardotkoller/convForm",
+    "url": "https://github.com/eduardotkoller/convForm",
+    "description": "A jQuery plugin that transforms a form into an interactive chat.",
+    "stars": 182,
+    "language": "HTML",
+    "created_at": "2017-04-27T16:37:02Z",
+    "pushed_at": "2024-02-03T18:57:45Z",
+    "archived": false,
+    "owner": "eduardotkoller",
+    "topics": [
+      "chat",
+      "chatbot",
+      "conversation",
+      "form",
+      "javascript",
+      "jquery",
+      "jquery-plugin",
+      "plugin"
+    ]
+  },
+  "epitaph": "It wrote our input in bubbles of blue,\nA jQuery ghost when the web was new.\nThough chatbots rose and the scripts moved on,\nThe conversation fades at the break of dawn.\nSeven hundred days of silence here,\nSince the last form submitted a fear.\nNo pull requests shall wake this node,\nRest in /dev/null, in your quiet code.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
