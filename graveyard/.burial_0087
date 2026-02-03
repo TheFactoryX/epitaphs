@@ -1,0 +1,36 @@
+{
+  "tombstone_number": 87,
+  "buried_at": "2026-02-03 17:38:37",
+  "deceased": {
+    "full_name": "regosen/get_cover_art",
+    "url": "https://github.com/regosen/get_cover_art",
+    "description": "Batch cover art downloader and embedder for audio files",
+    "stars": 88,
+    "language": "Python",
+    "created_at": "2020-09-02T23:36:08Z",
+    "pushed_at": "2024-02-03T20:33:31Z",
+    "archived": false,
+    "owner": "regosen",
+    "topics": [
+      "album",
+      "album-art",
+      "album-cover",
+      "artwork",
+      "automatic",
+      "cover",
+      "cover-art",
+      "downloader",
+      "fetch",
+      "flac",
+      "mp3",
+      "mp4",
+      "music"
+    ]
+  },
+  "epitaph": "It sought to clothe the naked silence of the song,\nFetching the vibrant sleeves for lonely, digital bytes.\nBut for seven hundred and thirty days, the scripts have hung\nSuspended in the twilight of uncommitted writes.\nNo more shall artwork bloom within the FLAC or the MP3,\nThe cover art remains a mystery, lost to history.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
