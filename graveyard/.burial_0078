@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 78,
+  "buried_at": "2026-02-03 08:45:50",
+  "deceased": {
+    "full_name": "fiorix/freegeoip",
+    "url": "https://github.com/fiorix/freegeoip",
+    "description": "IP geolocation web server",
+    "stars": 4941,
+    "language": "Go",
+    "created_at": "2010-09-11T03:56:27Z",
+    "pushed_at": "2022-08-27T01:14:26Z",
+    "archived": false,
+    "owner": "fiorix",
+    "topics": [
+      "freegeoip",
+      "geolocation",
+      "go",
+      "ip-database"
+    ]
+  },
+  "epitaph": "You mapped the shifting borders of the net,\nA Go-born sentinel for four thousand days.\nThough four thousand stars still watch, you forget\nTo answer requests in your disquieted ways.\nUnarchived, yet ghosted, your silence spreads wide,\nLost in the whitespace where the data hides.\n\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
