@@ -1,0 +1,28 @@
+{
+  "tombstone_number": 83,
+  "buried_at": "2026-02-03 13:35:36",
+  "deceased": {
+    "full_name": "rome/tools",
+    "url": "https://github.com/rome/tools",
+    "description": "Unified developer tools for JavaScript, TypeScript, and the web",
+    "stars": 23521,
+    "language": "Rust",
+    "created_at": "2020-02-20T05:57:33Z",
+    "pushed_at": "2023-09-04T08:42:49Z",
+    "archived": true,
+    "owner": "rome",
+    "topics": [
+      "formatter",
+      "javascript",
+      "linter",
+      "toolchain",
+      "typescript"
+    ]
+  },
+  "epitaph": "Here lies the compiler forged in Rust,\nA unified dream for broken us.\nIt sought to lint, to parse, to chain,\nBut syntax errors and time remain.\nWith twenty thousand stars in dust,\nThe toolchain sleeps, for wanderlust is rust.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
