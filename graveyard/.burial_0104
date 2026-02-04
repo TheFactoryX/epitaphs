@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 104,
+  "buried_at": "2026-02-04 10:43:09",
+  "deceased": {
+    "full_name": "nativefier/nativefier",
+    "url": "https://github.com/nativefier/nativefier",
+    "description": "Make any web page a desktop application",
+    "stars": 35361,
+    "language": "TypeScript",
+    "created_at": "2015-07-05T05:56:42Z",
+    "pushed_at": "2023-09-29T13:45:16Z",
+    "archived": true,
+    "owner": "nativefier",
+    "topics": [
+      "desktop-application",
+      "electron",
+      "linux",
+      "macos",
+      "nodejs",
+      "windows"
+    ]
+  },
+  "epitaph": "You dressed the chaotic web in desktop attire,\nWrapping JavaScript in Electron's heavy shell.\nThirty thousand stars watched the background tasks expire,\nNow the build scripts break and the pending requests fail.\nThe shortcuts you forged for a smoother interface\nAre dormant in memory, waiting their turn,\nThe Electron shell is sealed in its place.\nRest in peace, o `node_modules`, rest in `null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}

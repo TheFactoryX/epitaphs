@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 104 | [nativefier/nativefier](https://github.com/nativefier/nativefier) | 2015-07-05 | 2023-09-29 | ⭐35361 | [graveyard/tombstone_0104.md](graveyard/tombstone_0104.md) |
 | 103 | [facebookresearch/fastText](https://github.com/facebookresearch/fastText) | 2016-07-16 | 2024-03-22 | ⭐26480 | [graveyard/tombstone_0103.md](graveyard/tombstone_0103.md) |
 | 102 | [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) | 2015-09-17 | 2024-06-07 | ⭐24753 | [graveyard/tombstone_0102.md](graveyard/tombstone_0102.md) |
 | 101 | [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | 2015-11-28 | 2024-07-29 | ⭐80702 | [graveyard/tombstone_0101.md](graveyard/tombstone_0101.md) |
