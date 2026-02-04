@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 96,
+  "buried_at": "2026-02-04 00:00:35",
+  "deceased": {
+    "full_name": "lostdesign/webgems",
+    "url": "https://github.com/lostdesign/webgems",
+    "description": "A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)",
+    "stars": 4987,
+    "language": "Vue",
+    "created_at": "2019-05-10T14:23:25Z",
+    "pushed_at": "2022-07-21T01:18:19Z",
+    "archived": true,
+    "owner": "lostdesign",
+    "topics": [
+      "bookmark",
+      "hacktoberfest",
+      "learn",
+      "learn-to-code",
+      "nuxt",
+      "resources"
+    ]
+  },
+  "epitaph": "Here lies `webgems`, a radiant Vue,\nA curated light for the creative few.\nIt shone for five thousand stars, bright and brief,\nBefore time claimed the gems and the belief.\nThe `devcord` chat is a ghost in the shell,\n`Nuxt` is slumbering, casting its spell.\nThe PR is closed, the commit is nil,\nRest in peace in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
