@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 103,
+  "buried_at": "2026-02-04 09:51:43",
+  "deceased": {
+    "full_name": "facebookresearch/fastText",
+    "url": "https://github.com/facebookresearch/fastText",
+    "description": "Library for fast text representation and classification.",
+    "stars": 26480,
+    "language": "HTML",
+    "created_at": "2016-07-16T13:38:42Z",
+    "pushed_at": "2024-03-22T21:40:44Z",
+    "archived": true,
+    "owner": "facebookresearch",
+    "topics": []
+  },
+  "epitaph": "Here lies the meaning stripped to the bone,\nWhere syntax was faster than thought.\nTwenty-six thousand stars sat alone,\nWatching the archive rot.\nThe embeddings are frozen, the model is still,\nNo words left to learn, no new text to fill.\nRest in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
