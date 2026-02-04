@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 119 | [LayBacc/roam-ai](https://github.com/LayBacc/roam-ai) | 2022-08-30 | 2024-02-04 | ⭐54 | [graveyard/tombstone_0119.md](graveyard/tombstone_0119.md) |
 | 118 | [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) | 2009-05-20 | 2023-05-04 | ⭐26876 | [graveyard/tombstone_0118.md](graveyard/tombstone_0118.md) |
 | 117 | [alibaba/fastjson](https://github.com/alibaba/fastjson) | 2011-11-03 | 2024-07-16 | ⭐25724 | [graveyard/tombstone_0117.md](graveyard/tombstone_0117.md) |
 | 116 | [zzag/kwin-effects-cube](https://github.com/zzag/kwin-effects-cube) | 2022-07-02 | 2024-02-04 | ⭐78 | [graveyard/tombstone_0116.md](graveyard/tombstone_0116.md) |
