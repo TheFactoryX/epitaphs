@@ -1,0 +1,33 @@
+{
+  "tombstone_number": 117,
+  "buried_at": "2026-02-04 21:57:48",
+  "deceased": {
+    "full_name": "alibaba/fastjson",
+    "url": "https://github.com/alibaba/fastjson",
+    "description": "FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.",
+    "stars": 25724,
+    "language": "Java",
+    "created_at": "2011-11-03T06:58:52Z",
+    "pushed_at": "2024-07-16T07:35:37Z",
+    "archived": true,
+    "owner": "alibaba",
+    "topics": [
+      "android",
+      "best-performance",
+      "deserialization",
+      "fastjson",
+      "java",
+      "json",
+      "json-parser",
+      "json-serialization",
+      "json-serializer",
+      "serialization"
+    ]
+  },
+  "epitaph": "It parsed the world with a feverish haste,\nA monument built on insecure grace.\nThough promised \"2.0\" to heal the scar,\nThe warnings went unheeded from afar.\nThe stars remain, a gleaming, heavy weight,\nFor code that sealed a deserialization fate.\nHere lies the speed that crashed the system down,\nRest in /dev/null, beneath the silent ground.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
