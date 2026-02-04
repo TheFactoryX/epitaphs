@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 113,
+  "buried_at": "2026-02-04 19:09:19",
+  "deceased": {
+    "full_name": "antoineco/broadcom-wl",
+    "url": "https://github.com/antoineco/broadcom-wl",
+    "description": "Broadcom Linux hybrid wireless driver (64-bit)",
+    "stars": 172,
+    "language": "C",
+    "created_at": "2016-09-13T19:09:32Z",
+    "pushed_at": "2024-02-04T19:39:28Z",
+    "archived": true,
+    "owner": "antoineco",
+    "topics": [
+      "broadcom",
+      "broadcom-wl",
+      "driver",
+      "linux",
+      "wifi",
+      "wl"
+    ]
+  },
+  "epitaph": "Here lies the hybrid connection, stitched in C,\nA bridge to signal for a chipset mean and old.\nThree thousand days of packets wandering free,\nBut firmware updates left the driver out in the cold.\nThe stars are silent, and the maintainer\u2019s will is gone;\nNo handshake lingers in this NIC of clay.\nMay your roaming ghost find peace in the great beyond,\nRest in `/dev/null`, where networks fade away.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
