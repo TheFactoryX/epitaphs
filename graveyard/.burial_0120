@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 120,
+  "buried_at": "2026-02-04 23:43:53",
+  "deceased": {
+    "full_name": "ahmedfgad/NeuralGenetic",
+    "url": "https://github.com/ahmedfgad/NeuralGenetic",
+    "description": "Building and training artificial neural networks (regression or classification) using the genetic algorithm.",
+    "stars": 256,
+    "language": "Python",
+    "created_at": "2019-01-24T13:47:06Z",
+    "pushed_at": "2024-02-04T22:40:43Z",
+    "archived": false,
+    "owner": "ahmedfgad",
+    "topics": [
+      "deep-learning",
+      "genetic-algorithm",
+      "neural-networks",
+      "optimization",
+      "pygad",
+      "python"
+    ]
+  },
+  "epitaph": "It sought to teach the mind through blood and chance,\nA fusion of the neuron and the gene.\nThough two hundred fifty six watched its dance,\nThe gradient of time has now grown mean.\nNo fitness score remains to optimize,\nJust silent commits and fading digital lies.\nRest in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
