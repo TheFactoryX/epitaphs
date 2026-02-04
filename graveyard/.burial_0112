@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 112,
+  "buried_at": "2026-02-04 18:04:02",
+  "deceased": {
+    "full_name": "Pixelkit/PixelKit-Bootstrap-UI-Kits",
+    "url": "https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits",
+    "description": "Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website. Enjoy!",
+    "stars": 4915,
+    "language": "JavaScript",
+    "created_at": "2013-10-25T15:01:53Z",
+    "pushed_at": "2020-04-08T15:56:47Z",
+    "archived": false,
+    "owner": "Pixelkit",
+    "topics": []
+  },
+  "epitaph": "A child of twenty-thirteen, styled in Bootstrap grace,\nYou offered cool aesthetics to the digital space.\nFive thousand stars once lit your pixelated grid,\nBut now the kit is silent, the Bootstrap forbid.\nUnarchived, but forgotten, in the stack's deep hole,\nRest in /dev/null, beautiful soul.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
