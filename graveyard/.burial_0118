@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 118,
+  "buried_at": "2026-02-04 22:38:45",
+  "deceased": {
+    "full_name": "Homebrew/legacy-homebrew",
+    "url": "https://github.com/Homebrew/legacy-homebrew",
+    "description": "\ud83d\udc80 The former home of Homebrew/homebrew (deprecated)",
+    "stars": 26876,
+    "language": null,
+    "created_at": "2009-05-20T19:38:37Z",
+    "pushed_at": "2023-05-04T08:15:20Z",
+    "archived": true,
+    "owner": "Homebrew",
+    "topics": []
+  },
+  "epitaph": "Here lies the shell of the first installation,\nTwenty-six thousand stars in ghostly orbit now.\nThe taps have run dry, the formula deprecated,\nLeaving legacy artifacts of a system disavowed.\nWhat was once the mother trunk rots on the vine.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
