@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 106,
+  "buried_at": "2026-02-04 11:56:03",
+  "deceased": {
+    "full_name": "DingMouRen/LayoutManagerGroup",
+    "url": "https://github.com/DingMouRen/LayoutManagerGroup",
+    "description": ":point_right: Customize the LayoutManager of RecyclerView(\u81ea\u5b9a\u4e49LayoutManager)",
+    "stars": 4988,
+    "language": "Java",
+    "created_at": "2018-04-28T11:47:38Z",
+    "pushed_at": "2023-10-11T11:05:47Z",
+    "archived": false,
+    "owner": "DingMouRen",
+    "topics": []
+  },
+  "epitaph": "Five thousand stars pulled close into view,\nA Java lattice, custom and true.\nBut flow cannot hold back the drift of the years,\nThe layout is stilled, and the cursor sears.\nUnarchived, yet silent, you cease to compute,\nA beautiful pattern, now quietly mute.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
