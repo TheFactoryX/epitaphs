@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 114 | [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) | 2022-01-28 | 2024-02-04 | ⭐81 | [graveyard/tombstone_0114.md](graveyard/tombstone_0114.md) |
 | 113 | [antoineco/broadcom-wl](https://github.com/antoineco/broadcom-wl) | 2016-09-13 | 2024-02-04 | ⭐172 | [graveyard/tombstone_0113.md](graveyard/tombstone_0113.md) |
 | 112 | [Pixelkit/PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) | 2013-10-25 | 2020-04-08 | ⭐4915 | [graveyard/tombstone_0112.md](graveyard/tombstone_0112.md) |
 | 111 | [garbles/why-did-you-update](https://github.com/garbles/why-did-you-update) | 2016-05-12 | 2017-09-23 | ⭐4945 | [graveyard/tombstone_0111.md](graveyard/tombstone_0111.md) |
