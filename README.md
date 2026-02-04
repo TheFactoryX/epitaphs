@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 107 | [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | 2023-02-09 | 2024-08-16 | ⭐31860 | [graveyard/tombstone_0107.md](graveyard/tombstone_0107.md) |
 | 106 | [DingMouRen/LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) | 2018-04-28 | 2023-10-11 | ⭐4988 | [graveyard/tombstone_0106.md](graveyard/tombstone_0106.md) |
 | 105 | [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) | 2016-02-19 | 2023-02-06 | ⭐22930 | [graveyard/tombstone_0105.md](graveyard/tombstone_0105.md) |
 | 104 | [nativefier/nativefier](https://github.com/nativefier/nativefier) | 2015-07-05 | 2023-09-29 | ⭐35361 | [graveyard/tombstone_0104.md](graveyard/tombstone_0104.md) |
