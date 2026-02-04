@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 99,
+  "buried_at": "2026-02-04 05:52:58",
+  "deceased": {
+    "full_name": "ecthros/uncaptcha2",
+    "url": "https://github.com/ecthros/uncaptcha2",
+    "description": "defeating the latest version of ReCaptcha with 91% accuracy",
+    "stars": 4941,
+    "language": "Python",
+    "created_at": "2018-12-31T17:15:07Z",
+    "pushed_at": "2019-01-18T18:38:02Z",
+    "archived": false,
+    "owner": "ecthros",
+    "topics": []
+  },
+  "epitaph": "A bright spark born on New Year's Eve,\nTo prove machines could dream.\nWith ninety-one percent belief,\nYou challenged the stream.\nBut eighteen days was all you earned\nBefore the edge went gray;\nInto the silent dark you turned,\nForgotten in the fray.\n\nRest in `/recycle/bin`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}

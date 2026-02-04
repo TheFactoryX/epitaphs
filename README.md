@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 99 | [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) | 2018-12-31 | 2019-01-18 | ⭐4941 | [graveyard/tombstone_0099.md](graveyard/tombstone_0099.md) |
 | 98 | [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 2018-06-13 | 2023-11-28 | ⭐41261 | [graveyard/tombstone_0098.md](graveyard/tombstone_0098.md) |
 | 97 | [Hacker-rep/CashApp-Money-Hack](https://github.com/Hacker-rep/CashApp-Money-Hack) | 2022-12-06 | 2024-02-04 | ⭐55 | [graveyard/tombstone_0097.md](graveyard/tombstone_0097.md) |
 | 96 | [lostdesign/webgems](https://github.com/lostdesign/webgems) | 2019-05-10 | 2022-07-21 | ⭐4987 | [graveyard/tombstone_0096.md](graveyard/tombstone_0096.md) |
