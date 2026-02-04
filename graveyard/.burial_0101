@@ -1,0 +1,37 @@
+{
+  "tombstone_number": 101,
+  "buried_at": "2026-02-04 07:50:33",
+  "deceased": {
+    "full_name": "DopplerHQ/awesome-interview-questions",
+    "url": "https://github.com/DopplerHQ/awesome-interview-questions",
+    "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
+    "stars": 80702,
+    "language": null,
+    "created_at": "2015-11-28T09:48:17Z",
+    "pushed_at": "2024-07-29T14:21:23Z",
+    "archived": true,
+    "owner": "DopplerHQ",
+    "topics": [
+      "android-interview-questions",
+      "angularjs-interview-questions",
+      "awesome",
+      "awesome-list",
+      "awesomeness",
+      "interview-practice",
+      "interview-questions",
+      "interviewing",
+      "javascript",
+      "javascript-interview-questions",
+      "list",
+      "python-interview-questions",
+      "rails-interview",
+      "ruby"
+    ]
+  },
+  "epitaph": "It was the cathedral of anxiety, a curated list of lists,\nWhere mortals sought answers to questions about Java and Rails.\nEighty thousand stars watched the queue gather dust,\nIgnoring the truth that no repo can save you.\n\nNow the pull requests sleep and the issues fade to black,\nThree thousand days of preparation for a job you didn't take.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
