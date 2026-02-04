@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 116,
+  "buried_at": "2026-02-04 21:17:45",
+  "deceased": {
+    "full_name": "zzag/kwin-effects-cube",
+    "url": "https://github.com/zzag/kwin-effects-cube",
+    "description": "Desktop cube effect for kwin",
+    "stars": 78,
+    "language": "C++",
+    "created_at": "2022-07-02T18:21:37Z",
+    "pushed_at": "2024-02-04T22:23:21Z",
+    "archived": false,
+    "owner": "zzag",
+    "topics": []
+  },
+  "epitaph": "The desktop turned, a glass carousel,\nWhere C++ and shadows meet.\nEighty stars lit the geometric spell,\nBefore the window closed on 2024\u2019s heat.\nNow the geometry lies flat and cold,\nA phantom shape the metrics cannot fold.\nReturn your vertices to the void, distinct and null,\nRest in peace, sweet cube, in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}

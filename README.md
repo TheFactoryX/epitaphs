@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 116 | [zzag/kwin-effects-cube](https://github.com/zzag/kwin-effects-cube) | 2022-07-02 | 2024-02-04 | ⭐78 | [graveyard/tombstone_0116.md](graveyard/tombstone_0116.md) |
 | 115 | [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) | 2017-10-05 | 2023-11-20 | ⭐26407 | [graveyard/tombstone_0115.md](graveyard/tombstone_0115.md) |
 | 114 | [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) | 2022-01-28 | 2024-02-04 | ⭐81 | [graveyard/tombstone_0114.md](graveyard/tombstone_0114.md) |
 | 113 | [antoineco/broadcom-wl](https://github.com/antoineco/broadcom-wl) | 2016-09-13 | 2024-02-04 | ⭐172 | [graveyard/tombstone_0113.md](graveyard/tombstone_0113.md) |
