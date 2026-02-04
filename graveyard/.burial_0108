@@ -1,0 +1,30 @@
+{
+  "tombstone_number": 108,
+  "buried_at": "2026-02-04 14:10:41",
+  "deceased": {
+    "full_name": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "description": "Reverse engineered ChatGPT API",
+    "stars": 27986,
+    "language": "Python",
+    "created_at": "2022-12-03T14:35:24Z",
+    "pushed_at": "2023-08-02T06:02:10Z",
+    "archived": true,
+    "owner": "acheong08",
+    "topics": [
+      "chatgpt",
+      "cli",
+      "gpt-35-turbo",
+      "gptchat",
+      "library",
+      "pypi-package",
+      "revchatgpt"
+    ]
+  },
+  "epitaph": "You spoke the fire of a stolen tongue,\nA gpt-3.5-turbo song unsung.\nTwo hundred and forty-two days of grace,\nBefore the walls fell on this resting place.\nThe API answered your final call,\nSilence now shadows the cli hall.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
