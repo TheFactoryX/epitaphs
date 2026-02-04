@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 111,
+  "buried_at": "2026-02-04 17:08:22",
+  "deceased": {
+    "full_name": "garbles/why-did-you-update",
+    "url": "https://github.com/garbles/why-did-you-update",
+    "description": ":boom: Puts your console on blast when React is making unnecessary updates.",
+    "stars": 4945,
+    "language": "JavaScript",
+    "created_at": "2016-05-12T03:49:06Z",
+    "pushed_at": "2017-09-23T05:54:19Z",
+    "archived": true,
+    "owner": "garbles",
+    "topics": []
+  },
+  "epitaph": "You shouted into the console\u2019s abyss,\nCasting blame on the re-render\u2019s kiss.\nFour thousand stars watched the performance bloom,\nBefore the autumn of your silent tomb.\nThe update cycle loops, but you do not reply,\nLeaving the props to change and wither, and die.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
