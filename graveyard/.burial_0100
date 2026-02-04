@@ -1,0 +1,35 @@
+{
+  "tombstone_number": 100,
+  "buried_at": "2026-02-04 06:58:56",
+  "deceased": {
+    "full_name": "StreisandEffect/streisand",
+    "url": "https://github.com/StreisandEffect/streisand",
+    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.",
+    "stars": 23725,
+    "language": "Shell",
+    "created_at": "2014-03-23T21:56:19Z",
+    "pushed_at": "2021-05-04T09:42:40Z",
+    "archived": true,
+    "owner": "StreisandEffect",
+    "topics": [
+      "ansible",
+      "anyconnect",
+      "censorship",
+      "openconnect",
+      "openvpn",
+      "shadowsocks",
+      "ssh",
+      "streisand",
+      "stunnel",
+      "tor",
+      "vpn",
+      "wireguard"
+    ]
+  },
+  "epitaph": "It spun a cage of light to make the darkness clear,\nA dozen protocols to banish secret fear.\nThe HTML page lies static now, the tunnels closed and still,\nTwenty-three thousand stars look down on broken will.\nThe echo of the open web has softly faded away,\nNo more instructions left for us to share and obey.\nRest in /dev/null",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
