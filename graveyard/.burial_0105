@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 105,
+  "buried_at": "2026-02-04 11:22:38",
+  "deceased": {
+    "full_name": "facebookarchive/draft-js",
+    "url": "https://github.com/facebookarchive/draft-js",
+    "description": "A React framework for building text editors.",
+    "stars": 22930,
+    "language": "JavaScript",
+    "created_at": "2016-02-19T20:18:26Z",
+    "pushed_at": "2023-02-06T15:35:05Z",
+    "archived": true,
+    "owner": "facebookarchive",
+    "topics": []
+  },
+  "epitaph": "You captured the cursor and molded the word,\nIn the infancy of React, where the standards were blurred.\nTwenty-two thousand stars watched your structured content grow,\nNow the commit history halts in the February snow.\nThough the framework is frozen and left in the past,\nYour immutable model was built to outlast.\nFarewell to the blocks and the editor's skill,\nRest in peace, `contentState`, now perfectly still.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
