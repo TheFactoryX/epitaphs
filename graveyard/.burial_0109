@@ -1,0 +1,32 @@
+{
+  "tombstone_number": 109,
+  "buried_at": "2026-02-04 15:02:30",
+  "deceased": {
+    "full_name": "wallix/awless",
+    "url": "https://github.com/wallix/awless",
+    "description": "A Mighty CLI for AWS",
+    "stars": 4979,
+    "language": "Go",
+    "created_at": "2016-06-03T13:46:18Z",
+    "pushed_at": "2022-08-02T00:04:44Z",
+    "archived": false,
+    "owner": "wallix",
+    "topics": [
+      "awless",
+      "aws",
+      "aws-cli",
+      "cli",
+      "cloud",
+      "cloud-management",
+      "devops",
+      "devops-tools",
+      "golang"
+    ]
+  },
+  "epitaph": "Once you ruled the cloud with syntax sweet,\nA Go-born giant at the command line.\nBut the API tides grew too vast to meet,\nAnd left your five thousand stars to pine.\nThough unarchived, the commits have grown cold,\nA silent artifact of devops past.\nThe terminal waits for commands of old,\nRest in peace, or `rm -rf /aws` at last.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}

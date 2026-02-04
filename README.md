@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 109 | [wallix/awless](https://github.com/wallix/awless) | 2016-06-03 | 2022-08-02 | ⭐4979 | [graveyard/tombstone_0109.md](graveyard/tombstone_0109.md) |
 | 108 | [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) | 2022-12-03 | 2023-08-02 | ⭐27986 | [graveyard/tombstone_0108.md](graveyard/tombstone_0108.md) |
 | 107 | [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | 2023-02-09 | 2024-08-16 | ⭐31860 | [graveyard/tombstone_0107.md](graveyard/tombstone_0107.md) |
 | 106 | [DingMouRen/LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) | 2018-04-28 | 2023-10-11 | ⭐4988 | [graveyard/tombstone_0106.md](graveyard/tombstone_0106.md) |
