@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 126 | [openkraken/kraken](https://github.com/openkraken/kraken) | 2020-12-04 | 2022-12-30 | ⭐4946 | [graveyard/tombstone_0126.md](graveyard/tombstone_0126.md) |
 | 125 | [slatedocs/slate](https://github.com/slatedocs/slate) | 2013-09-13 | 2026-02-01 | ⭐36171 | [graveyard/tombstone_0125.md](graveyard/tombstone_0125.md) |
 | 124 | [fpillet/NSLogger](https://github.com/fpillet/NSLogger) | 2010-09-30 | 2023-08-18 | ⭐5000 | [graveyard/tombstone_0124.md](graveyard/tombstone_0124.md) |
 | 123 | [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | 2015-09-22 | 2021-09-02 | ⭐30216 | [graveyard/tombstone_0123.md](graveyard/tombstone_0123.md) |
