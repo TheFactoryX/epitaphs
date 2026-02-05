@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 121,
+  "buried_at": "2026-02-05 00:01:31",
+  "deceased": {
+    "full_name": "xiaolin3303/wx-charts",
+    "url": "https://github.com/xiaolin3303/wx-charts",
+    "description": "\u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u56fe\u8868\u5e93\uff0cCharts for WeChat Mini Program",
+    "stars": 4992,
+    "language": "JavaScript",
+    "created_at": "2016-11-28T09:56:12Z",
+    "pushed_at": "2023-10-14T02:28:53Z",
+    "archived": false,
+    "owner": "xiaolin3303",
+    "topics": [
+      "canvas",
+      "charts",
+      "mini-program",
+      "wechat"
+    ]
+  },
+  "epitaph": "Here lies the beauty of the canvas line,\nFour thousand stars upon a cold design.\nFor seven years you gave the Mini Program shape,\nBefore the final commit sealed your fate.\nNow silent is the pixel, cold the script,\nWith no more data left to carry.\nRest in peace, sweet `wx-charts`,\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
