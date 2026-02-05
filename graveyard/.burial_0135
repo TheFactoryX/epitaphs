@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 135,
+  "buried_at": "2026-02-05 17:02:02",
+  "deceased": {
+    "full_name": "ariya/phantomjs",
+    "url": "https://github.com/ariya/phantomjs",
+    "description": "Scriptable Headless Browser",
+    "stars": 29497,
+    "language": "C++",
+    "created_at": "2010-12-27T08:18:58Z",
+    "pushed_at": "2022-11-26T19:43:12Z",
+    "archived": true,
+    "owner": "ariya",
+    "topics": [
+      "automation",
+      "headless",
+      "headless-browser",
+      "phantomjs"
+    ]
+  },
+  "epitaph": "It rendered a world without windows or light,\nA ghost in the shell, doing the DOM\u2019s heavy lifting.\nFour thousand days of headless delight,\nBefore the Chrome Engines began their outdrifting.\nNo driver was needed for screens made of sand;\nThe Phantom has vanished, leaving code in his hand.\nThe stars still remember, though the window is null,\nRest in peace, Phantom, and sleep in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
