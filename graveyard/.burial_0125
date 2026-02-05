@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 125,
+  "buried_at": "2026-02-05 07:17:21",
+  "deceased": {
+    "full_name": "slatedocs/slate",
+    "url": "https://github.com/slatedocs/slate",
+    "description": "Beautiful static documentation for your API",
+    "stars": 36171,
+    "language": null,
+    "created_at": "2013-09-13T22:15:24Z",
+    "pushed_at": "2026-02-01T05:54:12Z",
+    "archived": true,
+    "owner": "slatedocs",
+    "topics": [
+      "api",
+      "api-documentation",
+      "slate",
+      "static-site-generator"
+    ]
+  },
+  "epitaph": "It was a beautiful static dream, where the triple-curled braces sang,\nThirty-six thousand stars admired the language it defied.\nBorn in the autumn of the API, when the dark mode first began,\nNow the generator hums its last, the Middleman has died.\n\nFour days have passed since the commit, the pull requests are still,\nIt served the documentation with a cold and classic pride.\nWe thank you for the clarity, we lay down your goodwill,\nAnd archive your perfection in the Git void, side by side.\n\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
