@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 140 | [GoesToEleven/learn-to-code-go-version-03](https://github.com/GoesToEleven/learn-to-code-go-version-03) | 2023-04-17 | 2024-02-05 | ⭐486 | [graveyard/tombstone_0140.md](graveyard/tombstone_0140.md) |
 | 139 | [haskell-streaming/streaming](https://github.com/haskell-streaming/streaming) | 2017-09-13 | 2024-02-05 | ⭐172 | [graveyard/tombstone_0139.md](graveyard/tombstone_0139.md) |
 | 138 | [1100101/Automatic](https://github.com/1100101/Automatic) | 2011-12-03 | 2026-01-30 | ⭐62 | [graveyard/tombstone_0138.md](graveyard/tombstone_0138.md) |
 | 137 | [nativefier/nativefier](https://github.com/nativefier/nativefier) | 2015-07-05 | 2023-09-29 | ⭐35359 | [graveyard/tombstone_0137.md](graveyard/tombstone_0137.md) |

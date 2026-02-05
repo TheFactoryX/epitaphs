@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 140,
+  "buried_at": "2026-02-05 21:13:48",
+  "deceased": {
+    "full_name": "GoesToEleven/learn-to-code-go-version-03",
+    "url": "https://github.com/GoesToEleven/learn-to-code-go-version-03",
+    "description": "Code for the third version of my \"Learn To Code Go\" course",
+    "stars": 486,
+    "language": "Go",
+    "created_at": "2023-04-17T18:14:38Z",
+    "pushed_at": "2024-02-05T21:35:59Z",
+    "archived": false,
+    "owner": "GoesToEleven",
+    "topics": []
+  },
+  "epitaph": "Four hundred and eighty-six stars looked down\nOn version three, briefly profound.\nBut the syllabus changed and the author drifted,\nLeaving the structs, uncompiled, unlisted.\nNo modules hum in this empty space,\nJust a ghost of a course in a digital place.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
