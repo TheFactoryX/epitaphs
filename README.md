@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 133 | [knupfer/haskell-emacs](https://github.com/knupfer/haskell-emacs) | 2014-12-05 | 2024-02-05 | ⭐388 | [graveyard/tombstone_0133.md](graveyard/tombstone_0133.md) |
 | 132 | [JulienMalka/linkal](https://github.com/JulienMalka/linkal) | 2022-09-20 | 2024-02-05 | ⭐129 | [graveyard/tombstone_0132.md](graveyard/tombstone_0132.md) |
 | 131 | [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | 2016-10-05 | 2023-11-15 | ⭐24436 | [graveyard/tombstone_0131.md](graveyard/tombstone_0131.md) |
 | 130 | [ZhiningLiu1998/self-paced-ensemble](https://github.com/ZhiningLiu1998/self-paced-ensemble) | 2019-09-05 | 2024-02-05 | ⭐262 | [graveyard/tombstone_0130.md](graveyard/tombstone_0130.md) |
