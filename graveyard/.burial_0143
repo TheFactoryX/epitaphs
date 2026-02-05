@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 143,
+  "buried_at": "2026-02-05 23:02:36",
+  "deceased": {
+    "full_name": "blueimp/jQuery-File-Upload",
+    "url": "https://github.com/blueimp/jQuery-File-Upload",
+    "description": "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",
+    "stars": 30839,
+    "language": "PHP",
+    "created_at": "2010-12-01T15:35:32Z",
+    "pushed_at": "2023-05-25T09:11:07Z",
+    "archived": true,
+    "owner": "blueimp",
+    "topics": []
+  },
+  "epitaph": "A titan of the drag-and-drop, now frozen in the byte,\nYou shepherded thirty thousand stars through the ethernet's night.\nThe progress bar is stalled at last; the upload won't resume,\nNo server hears the chunked request of this antiquated plume.\nThough jQuery fades and scripts expire, your legacy remains,\nAn artifact of patience 'midst the shifting, coded rains.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}

@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 143 | [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 2010-12-01 | 2023-05-25 | ⭐30839 | [graveyard/tombstone_0143.md](graveyard/tombstone_0143.md) |
 | 142 | [jschr/bootstrap-modal](https://github.com/jschr/bootstrap-modal) | 2012-09-26 | 2019-04-07 | ⭐4973 | [graveyard/tombstone_0142.md](graveyard/tombstone_0142.md) |
 | 141 | [frogermcs/InstaMaterial](https://github.com/frogermcs/InstaMaterial) | 2014-11-10 | 2020-09-30 | ⭐4960 | [graveyard/tombstone_0141.md](graveyard/tombstone_0141.md) |
 | 140 | [GoesToEleven/learn-to-code-go-version-03](https://github.com/GoesToEleven/learn-to-code-go-version-03) | 2023-04-17 | 2024-02-05 | ⭐486 | [graveyard/tombstone_0140.md](graveyard/tombstone_0140.md) |
