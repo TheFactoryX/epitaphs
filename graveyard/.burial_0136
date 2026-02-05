@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 136,
+  "buried_at": "2026-02-05 18:04:50",
+  "deceased": {
+    "full_name": "esp-rs/esp8266-hal",
+    "url": "https://github.com/esp-rs/esp8266-hal",
+    "description": "A experimental hardware abstraction layer for the esp8266 written in Rust.",
+    "stars": 167,
+    "language": "Rust",
+    "created_at": "2020-02-22T22:01:08Z",
+    "pushed_at": "2024-02-05T19:58:03Z",
+    "archived": true,
+    "owner": "esp-rs",
+    "topics": []
+  },
+  "epitaph": "You promised a safe harbor for the ESP8266,\nA Rust-veined dream, experimental and bold.\nFour years of light, though often obscure,\nBefore the binaries went silently cold.\nA hundred stars watch your code now grow old,\nMemory leaks plugged, the dependencies null.\nHere lie the spikes you withdrew from the pile,\nRest in peace, `esp8266-hal`, rest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}

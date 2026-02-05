@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 136 | [esp-rs/esp8266-hal](https://github.com/esp-rs/esp8266-hal) | 2020-02-22 | 2024-02-05 | ⭐167 | [graveyard/tombstone_0136.md](graveyard/tombstone_0136.md) |
 | 135 | [ariya/phantomjs](https://github.com/ariya/phantomjs) | 2010-12-27 | 2022-11-26 | ⭐29497 | [graveyard/tombstone_0135.md](graveyard/tombstone_0135.md) |
 | 134 | [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) | 2019-10-23 | 2023-05-19 | ⭐4976 | [graveyard/tombstone_0134.md](graveyard/tombstone_0134.md) |
 | 133 | [knupfer/haskell-emacs](https://github.com/knupfer/haskell-emacs) | 2014-12-05 | 2024-02-05 | ⭐388 | [graveyard/tombstone_0133.md](graveyard/tombstone_0133.md) |
