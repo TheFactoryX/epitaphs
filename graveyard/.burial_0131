@@ -1,0 +1,31 @@
+{
+  "tombstone_number": 131,
+  "buried_at": "2026-02-05 13:11:29",
+  "deceased": {
+    "full_name": "dotnet-architecture/eShopOnContainers",
+    "url": "https://github.com/dotnet-architecture/eShopOnContainers",
+    "description": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.",
+    "stars": 24436,
+    "language": "C#",
+    "created_at": "2016-10-05T22:35:23Z",
+    "pushed_at": "2023-11-15T22:27:17Z",
+    "archived": true,
+    "owner": "dotnet-architecture",
+    "topics": [
+      "ddd",
+      "ddd-patterns",
+      "docker",
+      "microservices",
+      "netcore",
+      "spa",
+      "windowscontainers",
+      "xamarin"
+    ]
+  },
+  "epitaph": "Here lies the grand behemoth of the containerized age,\nOnce orchestrating microservices across a scattered stage.\nWith seven .NET versions and a DDD design,\nYou ran on every wire, Windows, Mac, and line.\nTwenty-four thousand stars admired your steel and stone,\nBut now the pods are silent and the handlers stand alone.\nMoved to a newer kingdom where the old patterns dwell,\nForgotten in the archive like a compile-time shell.\n\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
