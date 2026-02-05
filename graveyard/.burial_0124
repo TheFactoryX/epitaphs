@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 124,
+  "buried_at": "2026-02-05 06:05:29",
+  "deceased": {
+    "full_name": "fpillet/NSLogger",
+    "url": "https://github.com/fpillet/NSLogger",
+    "description": "A modern, flexible logging tool",
+    "stars": 5000,
+    "language": "Objective-C",
+    "created_at": "2010-09-30T18:03:41Z",
+    "pushed_at": "2023-08-18T09:51:01Z",
+    "archived": false,
+    "owner": "fpillet",
+    "topics": []
+  },
+  "epitaph": "You caught the whispers of a restless Objective-C mind,\nA modern beacon for a chaotic, debugging time.\nFor thirteen years you tracked the crash and the trace,\nUntil the heartbeat failed in an August embrace.\nNow five thousand stars shine cold upon your code,\nSilent logs where no more data will be flowed.\nRest in `dev/null`, you magnificent, silent console.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}

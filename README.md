@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 124 | [fpillet/NSLogger](https://github.com/fpillet/NSLogger) | 2010-09-30 | 2023-08-18 | ⭐5000 | [graveyard/tombstone_0124.md](graveyard/tombstone_0124.md) |
 | 123 | [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | 2015-09-22 | 2021-09-02 | ⭐30216 | [graveyard/tombstone_0123.md](graveyard/tombstone_0123.md) |
 | 122 | [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) | 2013-03-20 | 2024-04-26 | ⭐24475 | [graveyard/tombstone_0122.md](graveyard/tombstone_0122.md) |
 | 121 | [xiaolin3303/wx-charts](https://github.com/xiaolin3303/wx-charts) | 2016-11-28 | 2023-10-14 | ⭐4992 | [graveyard/tombstone_0121.md](graveyard/tombstone_0121.md) |
