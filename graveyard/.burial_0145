@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 145,
+  "buried_at": "2026-02-05 23:58:14",
+  "deceased": {
+    "full_name": "angular/angular.js",
+    "url": "https://github.com/angular/angular.js",
+    "description": "AngularJS - HTML enhanced for web apps!",
+    "stars": 58989,
+    "language": "JavaScript",
+    "created_at": "2010-01-06T00:34:37Z",
+    "pushed_at": "2024-04-12T17:43:16Z",
+    "archived": true,
+    "owner": "angular",
+    "topics": []
+  },
+  "epitaph": "You bound the world in brackets, single and tight,\nBefore the winds of version two blew cold.\nA giant\u2019s shadow cast at fading light,\nSixty thousand stars, now growing old.\nSilence reigns where `$scope` used to be,\nThe digest cycle stilled, the watchers gone.\nHTML enhanced, at last you are free.\nRest in /dev/null, old master, withdraw.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
