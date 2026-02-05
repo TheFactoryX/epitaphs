@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 134,
+  "buried_at": "2026-02-05 15:58:52",
+  "deceased": {
+    "full_name": "drawrowfly/tiktok-scraper",
+    "url": "https://github.com/drawrowfly/tiktok-scraper",
+    "description": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
+    "stars": 4976,
+    "language": "TypeScript",
+    "created_at": "2019-10-23T07:47:40Z",
+    "pushed_at": "2023-05-19T05:56:45Z",
+    "archived": false,
+    "owner": "drawrowfly",
+    "topics": []
+  },
+  "epitaph": "It scraped the feed and signed the endless scroll,\nA thirsty script to drink the viral flow.\nFour thousand stars lit up its TypeScript soul,\nBut the API shifted and the config broke.\nNow \"page not found\" replaces every byte,\nSilence where the dancing data flowed.\nSleep now, abandoned logic, in the night,\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}

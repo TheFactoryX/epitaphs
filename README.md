@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 134 | [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) | 2019-10-23 | 2023-05-19 | ⭐4976 | [graveyard/tombstone_0134.md](graveyard/tombstone_0134.md) |
 | 133 | [knupfer/haskell-emacs](https://github.com/knupfer/haskell-emacs) | 2014-12-05 | 2024-02-05 | ⭐388 | [graveyard/tombstone_0133.md](graveyard/tombstone_0133.md) |
 | 132 | [JulienMalka/linkal](https://github.com/JulienMalka/linkal) | 2022-09-20 | 2024-02-05 | ⭐129 | [graveyard/tombstone_0132.md](graveyard/tombstone_0132.md) |
 | 131 | [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | 2016-10-05 | 2023-11-15 | ⭐24436 | [graveyard/tombstone_0131.md](graveyard/tombstone_0131.md) |
