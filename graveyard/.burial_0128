@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 128,
+  "buried_at": "2026-02-05 10:02:50",
+  "deceased": {
+    "full_name": "angular/angular.js",
+    "url": "https://github.com/angular/angular.js",
+    "description": "AngularJS - HTML enhanced for web apps!",
+    "stars": 58989,
+    "language": "JavaScript",
+    "created_at": "2010-01-06T00:34:37Z",
+    "pushed_at": "2024-04-12T17:43:16Z",
+    "archived": true,
+    "owner": "angular",
+    "topics": []
+  },
+  "epitaph": "Born in a January when the web was young,\nYou taught the DOM to dance with two-way binds.\nThough the letter 'J' has dropped from your tongue,\nFifty-eight thousand stars remain, resigned.\nThe migration paths are dust, the versions sealed,\nA legacy of curly braces, left behind.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
