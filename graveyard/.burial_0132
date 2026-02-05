@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 132,
+  "buried_at": "2026-02-05 14:11:56",
+  "deceased": {
+    "full_name": "JulienMalka/linkal",
+    "url": "https://github.com/JulienMalka/linkal",
+    "description": "A public-calendar aggregator server",
+    "stars": 129,
+    "language": "Rust",
+    "created_at": "2022-09-20T02:38:53Z",
+    "pushed_at": "2024-02-05T20:33:52Z",
+    "archived": false,
+    "owner": "JulienMalka",
+    "topics": [
+      "aggregator",
+      "caldav",
+      "caldav-server",
+      "calendar",
+      "nix-ci",
+      "rust"
+    ]
+  },
+  "epitaph": "It was written in Rust, to guard against the decay of time,\nGathering scattered moments into a synchronized rhyme.\nOne hundred and twenty-nine stars watched the calendar spin,\nUntil the threads went silent and the aggregator grew thin.\nThough the CalDAV connection is severed and the Nix builds fail to pass,\nYour dates remain frozen in the open-source grass.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
