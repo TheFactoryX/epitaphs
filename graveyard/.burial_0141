@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 141,
+  "buried_at": "2026-02-05 21:48:31",
+  "deceased": {
+    "full_name": "frogermcs/InstaMaterial",
+    "url": "https://github.com/frogermcs/InstaMaterial",
+    "description": "Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)",
+    "stars": 4960,
+    "language": "Java",
+    "created_at": "2014-11-10T18:56:49Z",
+    "pushed_at": "2020-09-30T19:55:47Z",
+    "archived": false,
+    "owner": "frogermcs",
+    "topics": []
+  },
+  "epitaph": "Here lies the concept rendered in gradients old,\nA Material heart where Java\u2019s code was bold.\nSix winters passed since the last commit came,\nThough stars ignite the dust of its lost name.\nIt sought to paint the feed in ripple and shadow,\nNow sleeps within the repo\u2019s quiet meadow.\nCurated stories fade, the library ends,\nRest in peace, `./gradlew assembleDebug`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
