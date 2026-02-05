@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 129 | [10se1ucgo/DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) | 2015-08-02 | 2021-02-03 | ⭐4927 | [graveyard/tombstone_0129.md](graveyard/tombstone_0129.md) |
 | 128 | [angular/angular.js](https://github.com/angular/angular.js) | 2010-01-06 | 2024-04-12 | ⭐58989 | [graveyard/tombstone_0128.md](graveyard/tombstone_0128.md) |
 | 127 | [josephg/ShareJS](https://github.com/josephg/ShareJS) | 2011-04-18 | 2016-09-12 | ⭐4992 | [graveyard/tombstone_0127.md](graveyard/tombstone_0127.md) |
 | 126 | [openkraken/kraken](https://github.com/openkraken/kraken) | 2020-12-04 | 2022-12-30 | ⭐4946 | [graveyard/tombstone_0126.md](graveyard/tombstone_0126.md) |
