@@ -1,0 +1,36 @@
+{
+  "tombstone_number": 130,
+  "buried_at": "2026-02-05 11:51:03",
+  "deceased": {
+    "full_name": "ZhiningLiu1998/self-paced-ensemble",
+    "url": "https://github.com/ZhiningLiu1998/self-paced-ensemble",
+    "description": "[ICDE'20] \u2696\ufe0f A general, efficient ensemble framework for imbalanced classification. | \u6cdb\u7528\uff0c\u9ad8\u6548\uff0c\u9c81\u68d2\u7684\u7c7b\u522b\u4e0d\u5e73\u8861\u5b66\u4e60\u6846\u67b6",
+    "stars": 262,
+    "language": "Python",
+    "created_at": "2019-09-05T09:31:21Z",
+    "pushed_at": "2024-02-05T22:10:40Z",
+    "archived": false,
+    "owner": "ZhiningLiu1998",
+    "topics": [
+      "class-imbalance",
+      "classification",
+      "ensemble",
+      "ensemble-learning",
+      "ensemble-methods",
+      "ensemble-model",
+      "imbalance-classification",
+      "imbalanced-data",
+      "imbalanced-learn",
+      "imbalanced-learning",
+      "machine-learning",
+      "pypi",
+      "python3"
+    ]
+  },
+  "epitaph": "Here dwelled a framework built to right the scale,\nTo balance where the bias deeply ran.\nIn fourteen hundred days, it could not quell\nThe silent drift of Python's aging plan.\nThe stars are frozen at two sixty-two,\nWith 'last breath' taken in the winter chill.\nNo pip install shall summon back the view\u2014\n`git commit --amend` and lie quiet still.\nRest in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
