@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 122,
+  "buried_at": "2026-02-05 03:11:28",
+  "deceased": {
+    "full_name": "inconshreveable/ngrok",
+    "url": "https://github.com/inconshreveable/ngrok",
+    "description": "Unified ingress for developers",
+    "stars": 24475,
+    "language": "Go",
+    "created_at": "2013-03-20T09:37:43Z",
+    "pushed_at": "2024-04-26T18:11:18Z",
+    "archived": true,
+    "owner": "inconshreveable",
+    "topics": []
+  },
+  "epitaph": "Here lies the tunnel that breached the wall,\nA unified ingress for one and for all.\nForty thousand mornings of open delight,\nBefore the key turned and locked out the light.\nThrough localhost shadows, the packets still run,\nSilenced by order, but missed by everyone.\nRest in /dev/null, secure in your shell,\nWith nowhere to left to forward, farewell.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
