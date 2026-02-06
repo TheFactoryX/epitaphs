@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 150,
+  "buried_at": "2026-02-06 07:56:59",
+  "deceased": {
+    "full_name": "sebastianbergmann/phpunit-mock-objects",
+    "url": "https://github.com/sebastianbergmann/phpunit-mock-objects",
+    "description": "Mock Object library for PHPUnit",
+    "stars": 4953,
+    "language": "PHP",
+    "created_at": "2010-04-29T10:25:12Z",
+    "pushed_at": "2018-10-30T00:10:52Z",
+    "archived": true,
+    "owner": "sebastianbergmann",
+    "topics": []
+  },
+  "epitaph": "You lived as the liar, the actor, the fake,\nWhere Sebastian\u2019s rigorous tests were at stake.\nThe props were all set, and the doubles aligned,\nBut the parent project had left you behind.\nNo Issues shall stir you, no Pull Requests come,\nYour stage is now dark in the repository slum.\nFour thousand nine stars watch you quietly rust,\nMocking the living, mocking the dust.\nRest in `return null;`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
