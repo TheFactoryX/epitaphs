@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 165 | [kisielk/sqlstruct](https://github.com/kisielk/sqlstruct) | 2012-09-19 | 2024-02-06 | ⭐179 | [graveyard/tombstone_0165.md](graveyard/tombstone_0165.md) |
 | 164 | [atom/atom](https://github.com/atom/atom) | 2012-01-20 | 2023-01-03 | ⭐61009 | [graveyard/tombstone_0164.md](graveyard/tombstone_0164.md) |
 | 163 | [arcticfox1919/LuaDardo](https://github.com/arcticfox1919/LuaDardo) | 2020-11-28 | 2024-02-06 | ⭐197 | [graveyard/tombstone_0163.md](graveyard/tombstone_0163.md) |
 | 162 | [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) | 2011-05-31 | 2023-01-17 | ⭐33734 | [graveyard/tombstone_0162.md](graveyard/tombstone_0162.md) |
