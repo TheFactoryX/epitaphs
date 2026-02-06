@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 149,
+  "buried_at": "2026-02-06 07:05:26",
+  "deceased": {
+    "full_name": "unclebob/more-speech",
+    "url": "https://github.com/unclebob/more-speech",
+    "description": "A Nostr browser in Clojure.  ",
+    "stars": 310,
+    "language": "Clojure",
+    "created_at": "2022-01-18T19:02:02Z",
+    "pushed_at": "2024-02-06T18:18:06Z",
+    "archived": false,
+    "owner": "unclebob",
+    "topics": [
+      "clojure",
+      "more-speech",
+      "nostr",
+      "nostr-client"
+    ]
+  },
+  "epitaph": "To build a castle of pure Clojure, speech by speech,\nWhere Uncle Bob reviewed the code within the reach.\nBut proofs were scribed and left to rust, the links grown dim and cold,\nThree hundred stars look down upon a promise unfulfilled.\nThe window to the Nostr is painted black and still,\nWe mourn the logic trapped within the parenthesis.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}

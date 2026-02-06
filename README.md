@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 149 | [unclebob/more-speech](https://github.com/unclebob/more-speech) | 2022-01-18 | 2024-02-06 | ⭐310 | [graveyard/tombstone_0149.md](graveyard/tombstone_0149.md) |
 | 148 | [adobe/brackets](https://github.com/adobe/brackets) | 2011-12-07 | 2022-06-12 | ⭐33119 | [graveyard/tombstone_0148.md](graveyard/tombstone_0148.md) |
 | 147 | [fzaninotto/Faker](https://github.com/fzaninotto/Faker) | 2011-10-14 | 2024-03-20 | ⭐26713 | [graveyard/tombstone_0147.md](graveyard/tombstone_0147.md) |
 | 146 | [andrewngu/sound-redux](https://github.com/andrewngu/sound-redux) | 2015-09-21 | 2022-12-10 | ⭐4992 | [graveyard/tombstone_0146.md](graveyard/tombstone_0146.md) |
