@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 146,
+  "buried_at": "2026-02-06 02:49:48",
+  "deceased": {
+    "full_name": "andrewngu/sound-redux",
+    "url": "https://github.com/andrewngu/sound-redux",
+    "description": "A Soundcloud client built with React / Redux",
+    "stars": 4992,
+    "language": "JavaScript",
+    "created_at": "2015-09-21T03:11:27Z",
+    "pushed_at": "2022-12-10T17:12:26Z",
+    "archived": false,
+    "owner": "andrewngu",
+    "topics": [
+      "music",
+      "react",
+      "redux",
+      "soundcloud"
+    ]
+  },
+  "epitaph": "Here lies the waveform, frozen in mid-play,\nA ghost of audio from a distant day.\nThe tracks are paused, the Redux state persists,\nA monument to code that no one lists.\nFive thousand stars still hang upon this page,\nBut silence echoes through the digital stage.\nThe API token died, the music won't play,\nPushed to production, then fading away.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
