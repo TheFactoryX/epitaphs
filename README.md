@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 152 | [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) | 2020-03-24 | 2021-07-11 | ⭐4971 | [graveyard/tombstone_0152.md](graveyard/tombstone_0152.md) |
 | 151 | [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) | 2016-06-02 | 2025-06-19 | ⭐26722 | [graveyard/tombstone_0151.md](graveyard/tombstone_0151.md) |
 | 150 | [sebastianbergmann/phpunit-mock-objects](https://github.com/sebastianbergmann/phpunit-mock-objects) | 2010-04-29 | 2018-10-30 | ⭐4953 | [graveyard/tombstone_0150.md](graveyard/tombstone_0150.md) |
 | 149 | [unclebob/more-speech](https://github.com/unclebob/more-speech) | 2022-01-18 | 2024-02-06 | ⭐310 | [graveyard/tombstone_0149.md](graveyard/tombstone_0149.md) |

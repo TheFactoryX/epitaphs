@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 152,
+  "buried_at": "2026-02-06 09:51:24",
+  "deceased": {
+    "full_name": "saurabhdaware/text-to-handwriting",
+    "url": "https://github.com/saurabhdaware/text-to-handwriting",
+    "description": "So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD",
+    "stars": 4971,
+    "language": "HTML",
+    "created_at": "2020-03-24T11:19:54Z",
+    "pushed_at": "2021-07-11T07:59:46Z",
+    "archived": true,
+    "owner": "saurabhdaware",
+    "topics": [
+      "assignments",
+      "projects",
+      "text-to-handwriting",
+      "txt-to-handwriting"
+    ]
+  },
+  "epitaph": "Here lies the script that mimicked the hand,\nTo save young scholars from pen and ink.\nFor four thousand stars, it made its stand,\nBefore the pull requests began to sink.\nThe ink is dry, the paper turns to rust,\nNo more assignments shall be feigned or faked.\nThe automation\u2019s loop has turned to dust,\nRest in peace where undefined values wake.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
