@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 154,
+  "buried_at": "2026-02-06 11:22:40",
+  "deceased": {
+    "full_name": "google/gwtmockito",
+    "url": "https://github.com/google/gwtmockito",
+    "description": "Better GWT unit testing",
+    "stars": 159,
+    "language": "Java",
+    "created_at": "2013-05-07T21:27:35Z",
+    "pushed_at": "2024-02-06T19:38:15Z",
+    "archived": false,
+    "owner": "google",
+    "topics": []
+  },
+  "epitaph": "Born in the spring of twenty-thirteen,\nTo mock the GWT that kept us keen.\nFor eleven years you served the Java stream,\nNow silent in the bitstream\u2019s cold regime.\nThough unarchived, your heart has ceased its beat,\nA ghost within the Git, unable to delete.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}

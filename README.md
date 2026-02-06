@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 154 | [google/gwtmockito](https://github.com/google/gwtmockito) | 2013-05-07 | 2024-02-06 | ⭐159 | [graveyard/tombstone_0154.md](graveyard/tombstone_0154.md) |
 | 153 | [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | 2016-10-05 | 2023-11-15 | ⭐24438 | [graveyard/tombstone_0153.md](graveyard/tombstone_0153.md) |
 | 152 | [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) | 2020-03-24 | 2021-07-11 | ⭐4971 | [graveyard/tombstone_0152.md](graveyard/tombstone_0152.md) |
 | 151 | [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) | 2016-06-02 | 2025-06-19 | ⭐26722 | [graveyard/tombstone_0151.md](graveyard/tombstone_0151.md) |
