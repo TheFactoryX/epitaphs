@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 156,
+  "buried_at": "2026-02-06 13:11:57",
+  "deceased": {
+    "full_name": "gazorby/fish-abbreviation-tips",
+    "url": "https://github.com/gazorby/fish-abbreviation-tips",
+    "description": "\ud83d\udca1 Help you remembering your abbreviations",
+    "stars": 361,
+    "language": "Shell",
+    "created_at": "2020-04-12T17:35:10Z",
+    "pushed_at": "2024-02-06T20:09:47Z",
+    "archived": false,
+    "owner": "gazorby",
+    "topics": [
+      "abbreviation",
+      "abbreviations",
+      "abbreviations-tips",
+      "fish",
+      "fish-plugin",
+      "fisher"
+    ]
+  },
+  "epitaph": "Here lies the shell that shortened our commands,\nA flickering tip for the Fish in the sands.\nFour years of keystrokes, streamlined and brief,\nNow archived by silence, conquered by grief.\nThough unmerged in death, the memory swells\u2014\nOf the helper that knew our acronyms too well.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
