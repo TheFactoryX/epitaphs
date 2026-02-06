@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 163,
+  "buried_at": "2026-02-06 19:40:38",
+  "deceased": {
+    "full_name": "arcticfox1919/LuaDardo",
+    "url": "https://github.com/arcticfox1919/LuaDardo",
+    "description": "A Lua virtual machine written in Dart",
+    "stars": 197,
+    "language": "Dart",
+    "created_at": "2020-11-28T09:18:30Z",
+    "pushed_at": "2024-02-06T23:16:33Z",
+    "archived": false,
+    "owner": "arcticfox1919",
+    "topics": [
+      "dart",
+      "flutter",
+      "lua",
+      "vm"
+    ]
+  },
+  "epitaph": "Here lies the engine forged in Dart\u2019s cold fire,\nA dream of scripting Flutter\u2019s bright desire.\nThough seven hundred days have passed in gray,\nNineteen stars still watch the sleep of clay.\nTwo worlds entwined in logic now must part,\nThe virtual breath has fled the art.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
