@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 166,
+  "buried_at": "2026-02-06 21:35:19",
+  "deceased": {
+    "full_name": "streadway/amqp",
+    "url": "https://github.com/streadway/amqp",
+    "description": "Go client for AMQP 0.9.1",
+    "stars": 4940,
+    "language": "Go",
+    "created_at": "2012-04-25T22:11:52Z",
+    "pushed_at": "2023-09-07T02:58:29Z",
+    "archived": false,
+    "owner": "streadway",
+    "topics": [
+      "amqp",
+      "go",
+      "protocol",
+      "rabbitmq"
+    ]
+  },
+  "epitaph": "Four thousand suns you guided the message,\nA streadway paved for packets to fly,\nBinding the Go to the Rabbit\u2019s queue,\nBefore the silence fell from the sky.\nThough open still, the heart has stopped,\nUnmerged and waiting for the final commit.\n\nRest in `defer i.Close()`",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
