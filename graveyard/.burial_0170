@@ -1,0 +1,30 @@
+{
+  "tombstone_number": 170,
+  "buried_at": "2026-02-06 23:36:45",
+  "deceased": {
+    "full_name": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "description": ":atom: The hackable text editor",
+    "stars": 61009,
+    "language": "JavaScript",
+    "created_at": "2012-01-20T18:18:21Z",
+    "pushed_at": "2023-01-03T10:49:48Z",
+    "archived": true,
+    "owner": "atom",
+    "topics": [
+      "atom",
+      "editor",
+      "electron",
+      "javascript",
+      "linux",
+      "macos",
+      "windows"
+    ]
+  },
+  "epitaph": "Born of a symphony in a coffee script key,\nYou promised the hackable world to the free.\nSixty thousand stars watched the Electron decay,\nAs the Sublime clone faded to silent gray.\nFour thousand days of a beautiful, tangled regime,\nNow archived in darkness\u2014a closed editor\u2019s dream.\nCommit your changes to the void, where lost data runs null,\nRest in /dev/null, sweet atom, a beautiful hull.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}

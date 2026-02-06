@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 170 | [atom/atom](https://github.com/atom/atom) | 2012-01-20 | 2023-01-03 | ⭐61009 | [graveyard/tombstone_0170.md](graveyard/tombstone_0170.md) |
 | 169 | [Redth/Microsoft.Maui.Platform.Channels](https://github.com/Redth/Microsoft.Maui.Platform.Channels) | 2021-11-26 | 2024-02-06 | ⭐56 | [graveyard/tombstone_0169.md](graveyard/tombstone_0169.md) |
 | 168 | [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) | 2015-12-30 | 2024-07-19 | ⭐23541 | [graveyard/tombstone_0168.md](graveyard/tombstone_0168.md) |
 | 167 | [vendetta-mod/VendettaTweak](https://github.com/vendetta-mod/VendettaTweak) | 2023-01-07 | 2024-02-06 | ⭐108 | [graveyard/tombstone_0167.md](graveyard/tombstone_0167.md) |
