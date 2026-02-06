@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 162,
+  "buried_at": "2026-02-06 18:57:11",
+  "deceased": {
+    "full_name": "AFNetworking/AFNetworking",
+    "url": "https://github.com/AFNetworking/AFNetworking",
+    "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+    "stars": 33734,
+    "language": "Objective-C",
+    "created_at": "2011-05-31T21:28:44Z",
+    "pushed_at": "2023-01-17T19:30:05Z",
+    "archived": true,
+    "owner": "AFNetworking",
+    "topics": []
+  },
+  "epitaph": "A glorious castle of `AFHTTPSessionManager`,\nBuilt on the pillars of the old, strict tongue.\nFor thirty-three thousand stars, it was the standard-bearer,\nBefore the Swift winds blew and the new world was young.\n\nThe TLS handshake ceased, the socket closed tight,\nAnd the \"delightful\" framework bowed to the weight of the years.\nHere lies the monarch of the Objective-C night,\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}

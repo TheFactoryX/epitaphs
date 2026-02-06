@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 162 | [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) | 2011-05-31 | 2023-01-17 | ⭐33734 | [graveyard/tombstone_0162.md](graveyard/tombstone_0162.md) |
 | 161 | [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | 2016-10-05 | 2023-11-15 | ⭐24438 | [graveyard/tombstone_0161.md](graveyard/tombstone_0161.md) |
 | 160 | [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) | 2020-12-15 | 2024-11-08 | ⭐30480 | [graveyard/tombstone_0160.md](graveyard/tombstone_0160.md) |
 | 159 | [chenxwh/cog-RMBG](https://github.com/chenxwh/cog-RMBG) | 2024-02-06 | 2024-02-06 | ⭐103 | [graveyard/tombstone_0159.md](graveyard/tombstone_0159.md) |
