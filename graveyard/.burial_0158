@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 158,
+  "buried_at": "2026-02-06 15:01:12",
+  "deceased": {
+    "full_name": "moonshine-ai/person_sensor_docs",
+    "url": "https://github.com/moonshine-ai/person_sensor_docs",
+    "description": "Documentation for the Person Sensor",
+    "stars": 66,
+    "language": null,
+    "created_at": "2022-10-14T21:58:46Z",
+    "pushed_at": "2024-02-06T20:38:11Z",
+    "archived": false,
+    "owner": "moonshine-ai",
+    "topics": []
+  },
+  "epitaph": "It watched for faces with a hollow gaze,\nThrough docs unread and pixelated haze.\nSixty-six stars lit the empty air,\nThen the updates ceased, left the code bare.\nNo commit resolves the silence here,\nWhere forgotten sensors peer at fear.\nRest in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
