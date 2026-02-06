@@ -1,0 +1,30 @@
+{
+  "tombstone_number": 164,
+  "buried_at": "2026-02-06 20:02:38",
+  "deceased": {
+    "full_name": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "description": ":atom: The hackable text editor",
+    "stars": 61009,
+    "language": "JavaScript",
+    "created_at": "2012-01-20T18:18:21Z",
+    "pushed_at": "2023-01-03T10:49:48Z",
+    "archived": true,
+    "owner": "atom",
+    "topics": [
+      "atom",
+      "editor",
+      "electron",
+      "javascript",
+      "linux",
+      "macos",
+      "windows"
+    ]
+  },
+  "epitaph": "You woke the web with symbols bright,\nA sanctuary of syntax bathed in electric light.\nWith nodes and electrons, you hackable heart,\nPromising to tear the text world apart.\nSixty thousand stars watched the decree,\nWhen your core was frozen on Git\u2019s dark tree.\nThe merge conflicts settled, the PMs cease,\nRest in /dev/null, O hackers' peace.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
