@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 157,
+  "buried_at": "2026-02-06 14:08:48",
+  "deceased": {
+    "full_name": "Alfred1984/interesting-python",
+    "url": "https://github.com/Alfred1984/interesting-python",
+    "description": "\u6709\u8da3\u7684Python\u722c\u866b\u548cPython\u6570\u636e\u5206\u6790\u5c0f\u9879\u76ee(Some interesting Python crawlers and data analysis projects)",
+    "stars": 4972,
+    "language": "Jupyter Notebook",
+    "created_at": "2018-03-16T02:54:02Z",
+    "pushed_at": "2021-07-06T08:19:33Z",
+    "archived": false,
+    "owner": "Alfred1984",
+    "topics": []
+  },
+  "epitaph": "Here lies `Alfred1984/interesting-python`,\nA digital gardener who watched the web spin.\nFour thousand stars shone on your crawlers and graphs,\nBefore the silence set in on your paths.\nThrough Jupyter cells you sought the data's truth,\nA fleeting spark in the endless quest for proof.\nNow the servers are cold, and the notebooks are closed,\nIn the repository of ghosts, your kernel is froze.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}

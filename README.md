@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 157 | [Alfred1984/interesting-python](https://github.com/Alfred1984/interesting-python) | 2018-03-16 | 2021-07-06 | ⭐4972 | [graveyard/tombstone_0157.md](graveyard/tombstone_0157.md) |
 | 156 | [gazorby/fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) | 2020-04-12 | 2024-02-06 | ⭐361 | [graveyard/tombstone_0156.md](graveyard/tombstone_0156.md) |
 | 155 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 2024-01-01 | 2025-07-24 | ⭐53995 | [graveyard/tombstone_0155.md](graveyard/tombstone_0155.md) |
 | 154 | [google/gwtmockito](https://github.com/google/gwtmockito) | 2013-05-07 | 2024-02-06 | ⭐159 | [graveyard/tombstone_0154.md](graveyard/tombstone_0154.md) |
