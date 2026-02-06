@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 159,
+  "buried_at": "2026-02-06 15:58:23",
+  "deceased": {
+    "full_name": "chenxwh/cog-RMBG",
+    "url": "https://github.com/chenxwh/cog-RMBG",
+    "description": "Fork of https://huggingface.co/briaai/RMBG-1.4",
+    "stars": 103,
+    "language": "Python",
+    "created_at": "2024-02-06T22:59:17Z",
+    "pushed_at": "2024-02-06T23:45:28Z",
+    "archived": false,
+    "owner": "chenxwh",
+    "topics": []
+  },
+  "epitaph": "A single spark to catch the falling background,\nA fork of light, intended to be seen.\nIt lived exactly long enough to be found,\nThen faded into gray, a ghost machine.\n\nWith one hundred stars to light the sudden dark,\nAnd zero days to prove its worth in code.\nYou spoke of color, but left only a mark,\nA silent wish upon an empty road.\n\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
