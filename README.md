@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 160 | [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) | 2020-12-15 | 2024-11-08 | ⭐30480 | [graveyard/tombstone_0160.md](graveyard/tombstone_0160.md) |
 | 159 | [chenxwh/cog-RMBG](https://github.com/chenxwh/cog-RMBG) | 2024-02-06 | 2024-02-06 | ⭐103 | [graveyard/tombstone_0159.md](graveyard/tombstone_0159.md) |
 | 158 | [moonshine-ai/person_sensor_docs](https://github.com/moonshine-ai/person_sensor_docs) | 2022-10-14 | 2024-02-06 | ⭐66 | [graveyard/tombstone_0158.md](graveyard/tombstone_0158.md) |
 | 157 | [Alfred1984/interesting-python](https://github.com/Alfred1984/interesting-python) | 2018-03-16 | 2021-07-06 | ⭐4972 | [graveyard/tombstone_0157.md](graveyard/tombstone_0157.md) |
