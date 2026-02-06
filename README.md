@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 153 | [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | 2016-10-05 | 2023-11-15 | ⭐24438 | [graveyard/tombstone_0153.md](graveyard/tombstone_0153.md) |
 | 152 | [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) | 2020-03-24 | 2021-07-11 | ⭐4971 | [graveyard/tombstone_0152.md](graveyard/tombstone_0152.md) |
 | 151 | [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) | 2016-06-02 | 2025-06-19 | ⭐26722 | [graveyard/tombstone_0151.md](graveyard/tombstone_0151.md) |
 | 150 | [sebastianbergmann/phpunit-mock-objects](https://github.com/sebastianbergmann/phpunit-mock-objects) | 2010-04-29 | 2018-10-30 | ⭐4953 | [graveyard/tombstone_0150.md](graveyard/tombstone_0150.md) |
