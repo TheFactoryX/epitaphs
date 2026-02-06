@@ -1,0 +1,31 @@
+{
+  "tombstone_number": 155,
+  "buried_at": "2026-02-06 11:55:39",
+  "deceased": {
+    "full_name": "maybe-finance/maybe",
+    "url": "https://github.com/maybe-finance/maybe",
+    "description": "The personal finance app for everyone",
+    "stars": 53995,
+    "language": "Ruby",
+    "created_at": "2024-01-01T22:23:46Z",
+    "pushed_at": "2025-07-24T22:20:44Z",
+    "archived": true,
+    "owner": "maybe-finance",
+    "topics": [
+      "finance",
+      "hotwire",
+      "personal-finance",
+      "postgresql",
+      "ruby",
+      "ruby-on-rails",
+      "stimulusjs",
+      "turbo"
+    ]
+  },
+  "epitaph": "A star fell from the heights of fifty-thousand,\nTo count the coins that time forgot to spend.\nThe Rails run cold, the Turbo ties are severed,\nLeaving the ledger\u2019s promise to an end.\nSleep now, sweet prince of personal finance,\nLet Hotwire\u2019s fire fade to black and chill.\nThe books are balanced, the commit is done,\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
