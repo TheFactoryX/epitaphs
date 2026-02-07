@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 204,
+  "buried_at": "2026-02-07 23:47:52",
+  "deceased": {
+    "full_name": "svecosystem/svelte-interactions",
+    "url": "https://github.com/svecosystem/svelte-interactions",
+    "description": "Interactions, streamlined. \u2328\ufe0f",
+    "stars": 140,
+    "language": "TypeScript",
+    "created_at": "2024-01-06T03:41:45Z",
+    "pushed_at": "2024-02-07T20:41:06Z",
+    "archived": false,
+    "owner": "svecosystem",
+    "topics": []
+  },
+  "epitaph": "A brief spark of TypeScript in the January snow,\nPromising interactions, a streamlined flow.\nThirty-two days of promise before the keys went cold,\nNow the stars grow dim and the commits grow old.\nNo topics mark the grave where the elegant lies,\nAbandoned to silence, beneath the digital skies.\n\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}

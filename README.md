@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 204 | [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions) | 2024-01-06 | 2024-02-07 | ⭐140 | [graveyard/tombstone_0204.md](graveyard/tombstone_0204.md) |
 | 203 | [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | 2015-09-22 | 2021-09-02 | ⭐30228 | [graveyard/tombstone_0203.md](graveyard/tombstone_0203.md) |
 | 202 | [zachleat/carouscroll](https://github.com/zachleat/carouscroll) | 2024-01-31 | 2024-02-07 | ⭐129 | [graveyard/tombstone_0202.md](graveyard/tombstone_0202.md) |
 | 201 | [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) | 2021-09-25 | 2023-09-22 | ⭐4985 | [graveyard/tombstone_0201.md](graveyard/tombstone_0201.md) |
