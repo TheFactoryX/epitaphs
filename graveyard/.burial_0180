@@ -1,0 +1,40 @@
+{
+  "tombstone_number": 180,
+  "buried_at": "2026-02-07 09:46:48",
+  "deceased": {
+    "full_name": "svc-develop-team/so-vits-svc",
+    "url": "https://github.com/svc-develop-team/so-vits-svc",
+    "description": "SoftVC VITS Singing Voice Conversion",
+    "stars": 27984,
+    "language": "Python",
+    "created_at": "2023-03-10T09:31:09Z",
+    "pushed_at": "2023-11-11T13:11:31Z",
+    "archived": true,
+    "owner": "svc-develop-team",
+    "topics": [
+      "ai",
+      "audio-analysis",
+      "deep-learning",
+      "flow",
+      "generative-adversarial-network",
+      "pytorch",
+      "singing-voice-conversion",
+      "so-vits-svc",
+      "sovits",
+      "speech",
+      "variational-inference",
+      "vc",
+      "vits",
+      "voice",
+      "voice-changer",
+      "voice-conversion",
+      "voiceconversion"
+    ]
+  },
+  "epitaph": "Here lies the voice that learned to mimic art,\nA neural choir forged from PyTorch and heart.\nIt turned the stream, it made the silence bloom,\nBefore it met the silence of the tomb.\nThough twenty thousand stars lit up its code,\nThe archive gates have quietly now closed.\nFor voices that no longer compute or scull,\nRest in peace in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
