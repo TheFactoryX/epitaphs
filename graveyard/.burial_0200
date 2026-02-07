@@ -1,0 +1,30 @@
+{
+  "tombstone_number": 200,
+  "buried_at": "2026-02-07 21:42:47",
+  "deceased": {
+    "full_name": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "description": "Real-time face swap for PC streaming or video calls",
+    "stars": 30484,
+    "language": "Python",
+    "created_at": "2020-12-15T12:19:22Z",
+    "pushed_at": "2024-11-08T03:07:42Z",
+    "archived": true,
+    "owner": "iperov",
+    "topics": [
+      "deepfake",
+      "faceswap",
+      "machine-learning",
+      "real-time",
+      "streaming",
+      "videocall",
+      "webcam"
+    ]
+  },
+  "epitaph": "Here lie the thirty thousand stars\nThat wore the mask of someone new,\nTo stream a lie for viewing hours,\nBefore the license broke in two.\nNo pixels dance, no tensors spin,\nThe webcam lens has dimmed its view;\nThe deepest fakes have worn so thin.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
