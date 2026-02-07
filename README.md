@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 174 | [inkonchain/ink-kit](https://github.com/inkonchain/ink-kit) | 2024-11-04 | 2025-10-20 | ⭐36723 | [graveyard/tombstone_0174.md](graveyard/tombstone_0174.md) |
 | 173 | [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) | 2015-12-30 | 2024-07-19 | ⭐23541 | [graveyard/tombstone_0173.md](graveyard/tombstone_0173.md) |
 | 172 | [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) | 2017-05-01 | 2021-06-06 | ⭐4943 | [graveyard/tombstone_0172.md](graveyard/tombstone_0172.md) |
 | 171 | [AndrewRadev/undoquit.vim](https://github.com/AndrewRadev/undoquit.vim) | 2013-01-17 | 2024-02-06 | ⭐70 | [graveyard/tombstone_0171.md](graveyard/tombstone_0171.md) |

@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 174,
+  "buried_at": "2026-02-07 05:30:54",
+  "deceased": {
+    "full_name": "inkonchain/ink-kit",
+    "url": "https://github.com/inkonchain/ink-kit",
+    "description": "React component library for onchain applications - See README for modern alternatives",
+    "stars": 36723,
+    "language": "TypeScript",
+    "created_at": "2024-11-04T16:32:17Z",
+    "pushed_at": "2025-10-20T15:44:41Z",
+    "archived": true,
+    "owner": "inkonchain",
+    "topics": []
+  },
+  "epitaph": "It rose in glory, with TypeScript bright,\nA scaffolded chain, a promising light.\nBut \"modern alternatives\" claimed the prize,\nBeneath a shroud of \"see-README\" lies.\nSo close the `src`, and abandon the kit,\nYou starry ghost of the infinite bit.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
