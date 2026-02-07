@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 186 | [doczjs/docz](https://github.com/doczjs/docz) | 2018-03-17 | 2025-11-21 | ⭐23658 | [graveyard/tombstone_0186.md](graveyard/tombstone_0186.md) |
 | 185 | [limhenry/earthview](https://github.com/limhenry/earthview) | 2015-11-29 | 2024-02-07 | ⭐117 | [graveyard/tombstone_0185.md](graveyard/tombstone_0185.md) |
 | 184 | [TRI-AMDD/CAMD](https://github.com/TRI-AMDD/CAMD) | 2019-04-04 | 2024-02-07 | ⭐62 | [graveyard/tombstone_0184.md](graveyard/tombstone_0184.md) |
 | 183 | [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) | 2017-10-25 | 2024-07-16 | ⭐24814 | [graveyard/tombstone_0183.md](graveyard/tombstone_0183.md) |

@@ -1,0 +1,34 @@
+{
+  "tombstone_number": 186,
+  "buried_at": "2026-02-07 13:51:02",
+  "deceased": {
+    "full_name": "doczjs/docz",
+    "url": "https://github.com/doczjs/docz",
+    "description": "\u270d It has never been so easy to document your things!",
+    "stars": 23658,
+    "language": "TypeScript",
+    "created_at": "2018-03-17T04:24:10Z",
+    "pushed_at": "2025-11-21T04:28:57Z",
+    "archived": true,
+    "owner": "doczjs",
+    "topics": [
+      "design-system",
+      "docs",
+      "documentation",
+      "docz",
+      "gatsby",
+      "js",
+      "mdx",
+      "react",
+      "theme",
+      "ui",
+      "zero-configuration"
+    ]
+  },
+  "epitaph": "O bright Gatsby star of twenty-eighteen,\nWhere MDX bloomed, unaware of the end;\nYou swore \"zero-config\" would keep us clean,\nNow twenty-three thousand stars cannot extend\nYour seven years of syntax, theme, and grace.\nThe silence falls\u2014no commit, no branch, no trend.\nRest in /dev/null, in that abandoned place.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
