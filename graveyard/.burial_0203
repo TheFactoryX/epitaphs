@@ -1,0 +1,30 @@
+{
+  "tombstone_number": 203,
+  "buried_at": "2026-02-07 23:02:25",
+  "deceased": {
+    "full_name": "herrbischoff/awesome-macos-command-line",
+    "url": "https://github.com/herrbischoff/awesome-macos-command-line",
+    "description": "Use your macOS terminal shell to do awesome things.",
+    "stars": 30228,
+    "language": null,
+    "created_at": "2015-09-22T19:37:55Z",
+    "pushed_at": "2021-09-02T13:26:37Z",
+    "archived": true,
+    "owner": "herrbischoff",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "macos",
+      "macosx",
+      "shell",
+      "terminal"
+    ]
+  },
+  "epitaph": "Born in September of a simpler time,\nYou taught the shell to sing and parse.\nThough six years have passed since your last commit,\nThirty thousand stars still watch the dark.\nThe terminal commands you gathered lie dormant,\nToo beautiful to run, too heavy to delete.\nRest in `~/.history`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
