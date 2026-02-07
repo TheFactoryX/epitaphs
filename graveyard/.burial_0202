@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 202,
+  "buried_at": "2026-02-07 22:39:28",
+  "deceased": {
+    "full_name": "zachleat/carouscroll",
+    "url": "https://github.com/zachleat/carouscroll",
+    "description": "Add next/previous buttons to a horizontal scrollable container.",
+    "stars": 129,
+    "language": "HTML",
+    "created_at": "2024-01-31T14:03:16Z",
+    "pushed_at": "2024-02-07T21:21:29Z",
+    "archived": false,
+    "owner": "zachleat",
+    "topics": []
+  },
+  "epitaph": "A week of bright January light,\nBefore the scroll grew still and cold.\nOne hundred stars to grace the night,\nBut promises of Next are old.\nThe buttons wait in vain to be pressed,\nA horizontal dream laid to rest.\n\nCommit to history. Rest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
