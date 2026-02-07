@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 179,
+  "buried_at": "2026-02-07 09:03:39",
+  "deceased": {
+    "full_name": "openkraken/kraken",
+    "url": "https://github.com/openkraken/kraken",
+    "description": "A web standards-compliant, high-performance rendering engine based on Flutter.",
+    "stars": 4946,
+    "language": "TypeScript",
+    "created_at": "2020-12-04T08:55:45Z",
+    "pushed_at": "2022-12-30T15:02:55Z",
+    "archived": false,
+    "owner": "openkraken",
+    "topics": [
+      "engine",
+      "flutter",
+      "kraken",
+      "web"
+    ]
+  },
+  "epitaph": "Oh, Kraken, you rose from the Fluttering tide,\nA TypeScript leviathan, high and web-standard.\nFor two short years you swam with stars by your side,\nBut the deep web grew silent, the renderings disband.\nThough the repo lies open, the code breathes no more,\nRest in `/dev/null`, the engine of lore.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
