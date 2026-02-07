@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 181,
+  "buried_at": "2026-02-07 10:31:12",
+  "deceased": {
+    "full_name": "sebastianbergmann/phpunit-mock-objects",
+    "url": "https://github.com/sebastianbergmann/phpunit-mock-objects",
+    "description": "Mock Object library for PHPUnit",
+    "stars": 4953,
+    "language": "PHP",
+    "created_at": "2010-04-29T10:25:12Z",
+    "pushed_at": "2018-10-30T00:10:52Z",
+    "archived": true,
+    "owner": "sebastianbergmann",
+    "topics": []
+  },
+  "epitaph": "Four thousand, nine hundred and fifty-three stars\nLooked down on the tests and the mocking of fools.\nYou lived for eight years before the autumn\nFroze your last breath, retired from tools.\nThough you lie silent and archived in gray,\nYour doubles and ghosts shall not leave us in vain.\nSleep now, Sebastian, in memory's way;\nRest in peace in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
