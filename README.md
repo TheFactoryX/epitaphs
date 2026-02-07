@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 192 | [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 2018-06-13 | 2023-11-28 | ⭐41286 | [graveyard/tombstone_0192.md](graveyard/tombstone_0192.md) |
 | 191 | [rome/tools](https://github.com/rome/tools) | 2020-02-20 | 2023-09-04 | ⭐23518 | [graveyard/tombstone_0191.md](graveyard/tombstone_0191.md) |
 | 190 | [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) | 2015-12-30 | 2024-07-19 | ⭐23541 | [graveyard/tombstone_0190.md](graveyard/tombstone_0190.md) |
 | 189 | [containrrr/watchtower](https://github.com/containrrr/watchtower) | 2015-07-13 | 2025-12-17 | ⭐24515 | [graveyard/tombstone_0189.md](graveyard/tombstone_0189.md) |
