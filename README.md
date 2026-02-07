@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 196 | [mordred-descriptor/mordred](https://github.com/mordred-descriptor/mordred) | 2015-12-31 | 2024-02-07 | ⭐457 | [graveyard/tombstone_0196.md](graveyard/tombstone_0196.md) |
 | 195 | [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) | 2018-12-31 | 2019-01-18 | ⭐4941 | [graveyard/tombstone_0195.md](graveyard/tombstone_0195.md) |
 | 194 | [jschr/bootstrap-modal](https://github.com/jschr/bootstrap-modal) | 2012-09-26 | 2019-04-07 | ⭐4973 | [graveyard/tombstone_0194.md](graveyard/tombstone_0194.md) |
 | 193 | [Pixelkit/PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) | 2013-10-25 | 2020-04-08 | ⭐4915 | [graveyard/tombstone_0193.md](graveyard/tombstone_0193.md) |
