@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 201 | [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) | 2021-09-25 | 2023-09-22 | ⭐4985 | [graveyard/tombstone_0201.md](graveyard/tombstone_0201.md) |
 | 200 | [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) | 2020-12-15 | 2024-11-08 | ⭐30484 | [graveyard/tombstone_0200.md](graveyard/tombstone_0200.md) |
 | 199 | [Jenscaasen/UniversalLLMFunctionCaller](https://github.com/Jenscaasen/UniversalLLMFunctionCaller) | 2024-02-04 | 2024-02-07 | ⭐58 | [graveyard/tombstone_0199.md](graveyard/tombstone_0199.md) |
 | 198 | [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) | 2009-05-20 | 2023-05-04 | ⭐26879 | [graveyard/tombstone_0198.md](graveyard/tombstone_0198.md) |

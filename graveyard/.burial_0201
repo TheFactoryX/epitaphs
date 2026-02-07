@@ -1,0 +1,41 @@
+{
+  "tombstone_number": 201,
+  "buried_at": "2026-02-07 21:59:44",
+  "deceased": {
+    "full_name": "Nyandwi/machine_learning_complete",
+    "url": "https://github.com/Nyandwi/machine_learning_complete",
+    "description": "A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.",
+    "stars": 4985,
+    "language": "Jupyter Notebook",
+    "created_at": "2021-09-25T11:02:35Z",
+    "pushed_at": "2023-09-22T22:11:36Z",
+    "archived": false,
+    "owner": "Nyandwi",
+    "topics": [
+      "computer-vision",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "datascience",
+      "deep-learning",
+      "keras",
+      "machine-learning",
+      "matplotlib",
+      "neural-networks",
+      "nlp",
+      "numpy",
+      "open-source",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "seaborn",
+      "tensorflow"
+    ]
+  },
+  "epitaph": "Here lies the student who taught the machine,\nThirty bright notebooks, a vibrant regime.\nFrom Matplotlib plots to the Neural Net's dream,\nA pythonic prayer, a seamless data stream.\nTwo years of dancing with logic and code,\nNow silent, the notebook\u2019s last cell is closed.\nRest in /dev/null, your epoch has turned cold.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
