@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 183,
+  "buried_at": "2026-02-07 11:35:51",
+  "deceased": {
+    "full_name": "proxyee-down-org/proxyee-down",
+    "url": "https://github.com/proxyee-down-org/proxyee-down",
+    "description": "http\u4e0b\u8f7d\u5de5\u5177\uff0c\u57fa\u4e8ehttp\u4ee3\u7406\uff0c\u652f\u6301\u591a\u8fde\u63a5\u5206\u5757\u4e0b\u8f7d",
+    "stars": 24814,
+    "language": "Java",
+    "created_at": "2017-10-25T10:07:27Z",
+    "pushed_at": "2024-07-16T09:22:28Z",
+    "archived": true,
+    "owner": "proxyee-down-org",
+    "topics": []
+  },
+  "epitaph": "Born of the socket and the proxy\u2019s sweet deceit,\nIt sought to slice the bandwidth into broken, faster shards.\nNow twenty-four thousand stars hang cold in the obsolete,\nAnd the threads that once raced stand still, unjarred.\nThe mirror has gone dark; the packets flow no more.\nRest in `404 Not Found`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
