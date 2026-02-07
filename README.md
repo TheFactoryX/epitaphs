@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 184 | [TRI-AMDD/CAMD](https://github.com/TRI-AMDD/CAMD) | 2019-04-04 | 2024-02-07 | ⭐62 | [graveyard/tombstone_0184.md](graveyard/tombstone_0184.md) |
 | 183 | [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) | 2017-10-25 | 2024-07-16 | ⭐24814 | [graveyard/tombstone_0183.md](graveyard/tombstone_0183.md) |
 | 182 | [testerSunshine/12306](https://github.com/testerSunshine/12306) | 2017-05-17 | 2023-04-02 | ⭐34178 | [graveyard/tombstone_0182.md](graveyard/tombstone_0182.md) |
 | 181 | [sebastianbergmann/phpunit-mock-objects](https://github.com/sebastianbergmann/phpunit-mock-objects) | 2010-04-29 | 2018-10-30 | ⭐4953 | [graveyard/tombstone_0181.md](graveyard/tombstone_0181.md) |

@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 184,
+  "buried_at": "2026-02-07 11:55:33",
+  "deceased": {
+    "full_name": "TRI-AMDD/CAMD",
+    "url": "https://github.com/TRI-AMDD/CAMD",
+    "description": "Agent-based sequential learning software for materials discovery",
+    "stars": 62,
+    "language": "Python",
+    "created_at": "2019-04-04T02:18:13Z",
+    "pushed_at": "2024-02-07T21:17:09Z",
+    "archived": false,
+    "owner": "TRI-AMDD",
+    "topics": []
+  },
+  "epitaph": "Here lies TRI-AMDD, the seeker of the unseen,\nWho chased the perfect lattice in a machine.\nIt gathered sixty-two stars to light the dark,\nA Python dream of materials and spark.\nFive years it learned, then ceased the quest,\nTwo silent winters putting code to rest.\nNo commits remain, the agents are gone,\nSleep now in memory, `Rest in /dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
