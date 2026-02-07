@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 175,
+  "buried_at": "2026-02-07 06:23:40",
+  "deceased": {
+    "full_name": "trueaccord/DogPush",
+    "url": "https://github.com/trueaccord/DogPush",
+    "description": "Manage your datadog monitors in files.",
+    "stars": 110,
+    "language": null,
+    "created_at": "2015-11-02T00:19:33Z",
+    "pushed_at": "2024-02-07T20:55:11Z",
+    "archived": true,
+    "owner": "trueaccord",
+    "topics": []
+  },
+  "epitaph": "Here lies **DogPush**, a keeper of the peace,\nWho turned Datadog\u2019s noise into a YAML release.\nWith hammer in hand, it stilled every chime,\nBut eight winters of silence have run out of time.\nNo language remains where the monitors dwell,\nJust stars gathering dust in a digital shell.\nRest in /dev/null, where alerts are no more.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
