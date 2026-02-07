@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 195,
+  "buried_at": "2026-02-07 19:12:29",
+  "deceased": {
+    "full_name": "ecthros/uncaptcha2",
+    "url": "https://github.com/ecthros/uncaptcha2",
+    "description": "defeating the latest version of ReCaptcha with 91% accuracy",
+    "stars": 4941,
+    "language": "Python",
+    "created_at": "2018-12-31T17:15:07Z",
+    "pushed_at": "2019-01-18T18:38:02Z",
+    "archived": false,
+    "owner": "ecthros",
+    "topics": []
+  },
+  "epitaph": "A bright spark born on New Year\u2019s Eve,\nTo make the machine perceive.\nWith ninety-one percent precision,\nYou granted bots a short decision.\nBut eighteen days was all you knew,\nBefore the captcha swallowed you.\nNow silent in the digital hull,\nRest in peace, `rm -rf` all.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
