@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 199,
+  "buried_at": "2026-02-07 21:01:52",
+  "deceased": {
+    "full_name": "Jenscaasen/UniversalLLMFunctionCaller",
+    "url": "https://github.com/Jenscaasen/UniversalLLMFunctionCaller",
+    "description": "A planner that integrates into Semantic Kernel to enable function calling on all Chat based LLMs (Mistral, Bard, Claude, LLama etc)",
+    "stars": 58,
+    "language": "C#",
+    "created_at": "2024-02-04T22:19:11Z",
+    "pushed_at": "2024-02-07T20:19:17Z",
+    "archived": false,
+    "owner": "Jenscaasen",
+    "topics": [
+      "ai",
+      "dotnet",
+      "mistral",
+      "semantic-kernel"
+    ]
+  },
+  "epitaph": "To bind the scattered minds of Llama, Claude, and Mistral in a string,\nA C# ambitious bloom, that thought it made the machines sing.\nThree days of light, two years of dust, a silence deep and stark,\nThe Semantic Kernel waits in vain for lightning in the dark.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
