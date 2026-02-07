@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 198,
+  "buried_at": "2026-02-07 20:34:28",
+  "deceased": {
+    "full_name": "Homebrew/legacy-homebrew",
+    "url": "https://github.com/Homebrew/legacy-homebrew",
+    "description": "\ud83d\udc80 The former home of Homebrew/homebrew (deprecated)",
+    "stars": 26879,
+    "language": null,
+    "created_at": "2009-05-20T19:38:37Z",
+    "pushed_at": "2023-05-04T08:15:20Z",
+    "archived": true,
+    "owner": "Homebrew",
+    "topics": []
+  },
+  "epitaph": "*Once the beating heart of the OSX install,*\n*Where dependency trees whispered and builds had their will.*\n*It poured fifty hundred days into taps and commands,*\n*Before version two came and severed its hands.*\n*Twenty-six thousand stars look down on the tomb,*\n*Where the legacy brews in the phantom of `./room`.*\n*Gone to the archive, the commits are null,*\n*Rest in peace, dear old shell.*",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
