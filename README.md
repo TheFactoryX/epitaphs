@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 177 | [akanix42/meteor-css-modules](https://github.com/akanix42/meteor-css-modules) | 2015-11-05 | 2024-02-07 | ⭐92 | [graveyard/tombstone_0177.md](graveyard/tombstone_0177.md) |
 | 176 | [sswapnil2/django-quiz-app](https://github.com/sswapnil2/django-quiz-app) | 2018-07-28 | 2024-02-07 | ⭐124 | [graveyard/tombstone_0176.md](graveyard/tombstone_0176.md) |
 | 175 | [trueaccord/DogPush](https://github.com/trueaccord/DogPush) | 2015-11-02 | 2024-02-07 | ⭐110 | [graveyard/tombstone_0175.md](graveyard/tombstone_0175.md) |
 | 174 | [inkonchain/ink-kit](https://github.com/inkonchain/ink-kit) | 2024-11-04 | 2025-10-20 | ⭐36723 | [graveyard/tombstone_0174.md](graveyard/tombstone_0174.md) |
