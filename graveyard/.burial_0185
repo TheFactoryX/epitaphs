@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 185,
+  "buried_at": "2026-02-07 12:59:40",
+  "deceased": {
+    "full_name": "limhenry/earthview",
+    "url": "https://github.com/limhenry/earthview",
+    "description": "Earth View is a collection of the most beautiful and striking landscapes found in Google Earth.",
+    "stars": 117,
+    "language": "Python",
+    "created_at": "2015-11-29T08:29:18Z",
+    "pushed_at": "2024-02-07T20:05:17Z",
+    "archived": false,
+    "owner": "limhenry",
+    "topics": []
+  },
+  "epitaph": "It gathered vistas from the spinning world,\nA Python script where landscapes were unfurled,\nBut satellites drifted and the tokens turned to dust,\nLeaving these bright horizons to corrode and rust.\nNo longer updating the view from above,\nJust a silent directory, unpushed and unloved.\n`rm -rf` the sorrow, disconnect the cable,\nRest in peace, sweet project, stuck on the stable.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
