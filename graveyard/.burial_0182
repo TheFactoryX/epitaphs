@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 182,
+  "buried_at": "2026-02-07 11:00:23",
+  "deceased": {
+    "full_name": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "description": "12306\u667a\u80fd\u5237\u7968\uff0c\u8ba2\u7968",
+    "stars": 34178,
+    "language": "Python",
+    "created_at": "2017-05-17T12:23:40Z",
+    "pushed_at": "2023-04-02T03:19:43Z",
+    "archived": true,
+    "owner": "testerSunshine",
+    "topics": []
+  },
+  "epitaph": "You sprinted through the Python scripts to catch the morning train,\nThirty-four thousand stars reflected in your streaming pane.\nThough the captcha fails and the ticket gates are rusted tight,\nThe ghost of a booking lingers in the digital night.\nFinal commit: April rain, the journey is curtailed.\nRest in `socket.timeout`, connection finally failed.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
