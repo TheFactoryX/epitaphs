@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 189 | [containrrr/watchtower](https://github.com/containrrr/watchtower) | 2015-07-13 | 2025-12-17 | ⭐24515 | [graveyard/tombstone_0189.md](graveyard/tombstone_0189.md) |
 | 188 | [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) | 2016-06-02 | 2025-06-19 | ⭐26723 | [graveyard/tombstone_0188.md](graveyard/tombstone_0188.md) |
 | 187 | [nativefier/nativefier](https://github.com/nativefier/nativefier) | 2015-07-05 | 2023-09-29 | ⭐35364 | [graveyard/tombstone_0187.md](graveyard/tombstone_0187.md) |
 | 186 | [doczjs/docz](https://github.com/doczjs/docz) | 2018-03-17 | 2025-11-21 | ⭐23658 | [graveyard/tombstone_0186.md](graveyard/tombstone_0186.md) |
