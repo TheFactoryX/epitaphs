@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 217 | [epochjs/epoch](https://github.com/epochjs/epoch) | 2013-06-27 | 2019-02-14 | ⭐4956 | [graveyard/tombstone_0217.md](graveyard/tombstone_0217.md) |
 | 216 | [github/copilot-docs](https://github.com/github/copilot-docs) | 2021-10-23 | 2023-11-24 | ⭐23256 | [graveyard/tombstone_0216.md](graveyard/tombstone_0216.md) |
 | 215 | [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) | 2022-12-03 | 2023-09-29 | ⭐4960 | [graveyard/tombstone_0215.md](graveyard/tombstone_0215.md) |
 | 214 | [sebastianbergmann/phpunit-mock-objects](https://github.com/sebastianbergmann/phpunit-mock-objects) | 2010-04-29 | 2018-10-30 | ⭐4953 | [graveyard/tombstone_0214.md](graveyard/tombstone_0214.md) |
