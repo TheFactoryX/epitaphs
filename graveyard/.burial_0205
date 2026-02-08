@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 205,
+  "buried_at": "2026-02-08 02:52:27",
+  "deceased": {
+    "full_name": "alvarouc/polyssifier",
+    "url": "https://github.com/alvarouc/polyssifier",
+    "description": "run a multitude of classifiers on you data and get an AUC report",
+    "stars": 68,
+    "language": "Python",
+    "created_at": "2015-08-11T22:13:15Z",
+    "pushed_at": "2024-02-08T21:33:53Z",
+    "archived": false,
+    "owner": "alvarouc",
+    "topics": [
+      "auc",
+      "classifier",
+      "mlp",
+      "regression"
+    ]
+  },
+  "epitaph": "It gathered every classifier to sing of your data,\nChasing the high score of an AUC,\nBut theRegressor grew tired and the MLP went dark,\nLeaving only a ghost in the directory.\nNow the predictors sleep, untested and unknown,\nRest in `requirements.txt`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
