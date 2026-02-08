@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 228,
+  "buried_at": "2026-02-08 19:49:40",
+  "deceased": {
+    "full_name": "coyote-team/coyote",
+    "url": "https://github.com/coyote-team/coyote",
+    "description": "Image annotation site and API to enable the distributed annotation of museum images.",
+    "stars": 58,
+    "language": "Ruby",
+    "created_at": "2016-05-04T14:46:47Z",
+    "pushed_at": "2024-02-08T21:29:19Z",
+    "archived": false,
+    "owner": "coyote-team",
+    "topics": []
+  },
+  "epitaph": "Here lies the Coyote, a ruby-furred ghost,\nWho chased the metadata but froze at the post.\nFifty-eight stars hang dim in the gallery hall,\nFor the API is silent that answered the call.\nThe museum is dark, and the labels are torn,\nA witless project, abandoned and worn.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
