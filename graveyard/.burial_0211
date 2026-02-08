@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 211,
+  "buried_at": "2026-02-08 09:04:17",
+  "deceased": {
+    "full_name": "josephg/ShareJS",
+    "url": "https://github.com/josephg/ShareJS",
+    "description": "Collaborative editing in any app",
+    "stars": 4992,
+    "language": "JavaScript",
+    "created_at": "2011-04-18T15:02:15Z",
+    "pushed_at": "2016-09-12T00:37:39Z",
+    "archived": false,
+    "owner": "josephg",
+    "topics": []
+  },
+  "epitaph": "Here lies the dream of writing side by side,\nWhere two cursors moved in tandem, stride for stride.\nFive thousand stars watched the delta operations flow,\nBut the socket closed long, long years ago.\nNo server now to merge the concurrent text,\nSyncing with silence, leaving us perplexed.\nYour operational transforms have ceased to spell,\nRest in peace, `josephg`, in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
