@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 214,
+  "buried_at": "2026-02-08 11:01:45",
+  "deceased": {
+    "full_name": "sebastianbergmann/phpunit-mock-objects",
+    "url": "https://github.com/sebastianbergmann/phpunit-mock-objects",
+    "description": "Mock Object library for PHPUnit",
+    "stars": 4953,
+    "language": "PHP",
+    "created_at": "2010-04-29T10:25:12Z",
+    "pushed_at": "2018-10-30T00:10:52Z",
+    "archived": true,
+    "owner": "sebastianbergmann",
+    "topics": []
+  },
+  "epitaph": "You stood apart from the living code,\nA phantom born to mimic and corrode.\nFor eight long years you wore the mask of mock,\nBefore the silence overtook the clock.\nThough stars still crown your un-updated head,\nThe function\u2019s end; the test is dead.\nYour method calls return void for good;\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
