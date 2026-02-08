@@ -1,0 +1,32 @@
+{
+  "tombstone_number": 219,
+  "buried_at": "2026-02-08 14:32:29",
+  "deceased": {
+    "full_name": "Th3Wall/Fakeflix",
+    "url": "https://github.com/Th3Wall/Fakeflix",
+    "description": "Not the usual clone that you can find on the web.",
+    "stars": 4970,
+    "language": "JavaScript",
+    "created_at": "2021-02-23T23:08:20Z",
+    "pushed_at": "2024-01-16T01:34:40Z",
+    "archived": false,
+    "owner": "Th3Wall",
+    "topics": [
+      "firebase",
+      "react",
+      "react-hooks",
+      "react-hooks-form",
+      "react-router",
+      "redux",
+      "redux-persist",
+      "redux-saga",
+      "redux-thunk"
+    ]
+  },
+  "epitaph": "A screen of silver, bright and vast,\n mirroring films intended to last.\n While the real service plays on, undeterred,\n this digital twin sits mostly blurred.\n You chased the Redux state, but found the void,\n where four thousand, nine hundred stars are now destroyed.\n The stream has ended, theSaga is done,\n Rest in /dev/null,Fakeflix.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
