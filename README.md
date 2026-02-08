@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 221 | [BUTSpeechFIT/DiaPer](https://github.com/BUTSpeechFIT/DiaPer) | 2023-12-07 | 2024-02-08 | ⭐66 | [graveyard/tombstone_0221.md](graveyard/tombstone_0221.md) |
 | 220 | [adobe/brackets](https://github.com/adobe/brackets) | 2011-12-07 | 2022-06-12 | ⭐33119 | [graveyard/tombstone_0220.md](graveyard/tombstone_0220.md) |
 | 219 | [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) | 2021-02-23 | 2024-01-16 | ⭐4970 | [graveyard/tombstone_0219.md](graveyard/tombstone_0219.md) |
 | 218 | [lostdesign/webgems](https://github.com/lostdesign/webgems) | 2019-05-10 | 2022-07-21 | ⭐4994 | [graveyard/tombstone_0218.md](graveyard/tombstone_0218.md) |
