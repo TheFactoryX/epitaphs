@@ -1,0 +1,26 @@
+{
+  "tombstone_number": 222,
+  "buried_at": "2026-02-08 16:00:55",
+  "deceased": {
+    "full_name": "otterkit/otterkit-cobol",
+    "url": "https://github.com/otterkit/otterkit-cobol",
+    "description": "A free and open source Standard COBOL compiler for 64-bit environments",
+    "stars": 251,
+    "language": "C",
+    "created_at": "2022-07-21T15:05:35Z",
+    "pushed_at": "2024-02-08T22:55:18Z",
+    "archived": true,
+    "owner": "otterkit",
+    "topics": [
+      "cobol",
+      "compiler",
+      "dotnet"
+    ]
+  },
+  "epitaph": "Born to modernize the ledger of the past,\nYou compiled the legacy meant to last.\nWith C and .NET, you forged the bridge,\nBut forty years of business wouldn\u2019t budge.\nNow the screens are frozen, the syntax still,\nA standard unkept, against your will.\nThe billing is done, the loop is null\u2014\nRest in peace, rest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
