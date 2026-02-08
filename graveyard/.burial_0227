@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 227,
+  "buried_at": "2026-02-08 19:29:22",
+  "deceased": {
+    "full_name": "jnordberg/gif.js",
+    "url": "https://github.com/jnordberg/gif.js",
+    "description": "JavaScript GIF encoding library",
+    "stars": 4963,
+    "language": "JavaScript",
+    "created_at": "2013-05-20T02:18:38Z",
+    "pushed_at": "2023-10-06T08:25:46Z",
+    "archived": false,
+    "owner": "jnordberg",
+    "topics": []
+  },
+  "epitaph": "It spun the pixels into loops,\nTo capture motion in a byte,\nA vibrant, endless, silent troop,\nThat made the web feel lighter.\nThough stars still burn at forty-nine,\nThe artist\u2019s hand has ceased to move;\nThe code is frozen in its line,\nWith nothing left here to improve.\n\nRest in peace, `gif.js`. Rest in `/dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
