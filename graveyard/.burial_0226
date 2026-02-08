@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 226,
+  "buried_at": "2026-02-08 18:51:52",
+  "deceased": {
+    "full_name": "WebKit/WebKit-http",
+    "url": "https://github.com/WebKit/WebKit-http",
+    "description": "Deprecated unofficial http mirror of the WebKit SVN repository",
+    "stars": 4990,
+    "language": null,
+    "created_at": "2011-01-11T13:50:19Z",
+    "pushed_at": "2022-02-10T10:23:34Z",
+    "archived": true,
+    "owner": "WebKit",
+    "topics": []
+  },
+  "epitaph": "Here lies the shadow of a SVN tree,\nAn unofficial mirror, wild and free.\nFor four thousand days it piped the stream,\nBefore the silence closed the stream.\nThe stars are gathered, the door is barred,\nNo more commits to the graveyard.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
