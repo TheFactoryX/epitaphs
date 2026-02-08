@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 234 | [orhanobut/dialogplus](https://github.com/orhanobut/dialogplus) | 2014-12-12 | 2022-01-17 | ⭐4981 | [graveyard/tombstone_0234.md](graveyard/tombstone_0234.md) |
 | 233 | [quicknir/wise_enum](https://github.com/quicknir/wise_enum) | 2017-08-01 | 2024-02-08 | ⭐300 | [graveyard/tombstone_0233.md](graveyard/tombstone_0233.md) |
 | 232 | [snazy2000/SnipeitPS](https://github.com/snazy2000/SnipeitPS) | 2017-11-16 | 2024-02-08 | ⭐201 | [graveyard/tombstone_0232.md](graveyard/tombstone_0232.md) |
 | 231 | [d6lts/drupal](https://github.com/d6lts/drupal) | 2018-02-21 | 2024-02-08 | ⭐132 | [graveyard/tombstone_0231.md](graveyard/tombstone_0231.md) |
