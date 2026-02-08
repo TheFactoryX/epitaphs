@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 206,
+  "buried_at": "2026-02-08 05:06:16",
+  "deceased": {
+    "full_name": "the-little-prover/j-bob",
+    "url": "https://github.com/the-little-prover/j-bob",
+    "description": null,
+    "stars": 436,
+    "language": "Scheme",
+    "created_at": "2015-07-03T02:59:25Z",
+    "pushed_at": "2024-02-08T21:26:42Z",
+    "archived": false,
+    "owner": "the-little-prover",
+    "topics": []
+  },
+  "epitaph": "Here lies `the-little-prover/j-bob`,\nA Scheme to prove theorems, not to sob.\nThough stars number four hundred and thirty-six,\nTime halts all functions, halts all tricks.\nEight years of logic, now left in the cold,\nThe definitions are stiff, the arguments old.\nCheck your theorems at the door, don't wait for the call,\nRest in /dev/null, parentheses and all.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
