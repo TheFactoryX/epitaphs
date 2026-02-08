@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 212,
+  "buried_at": "2026-02-08 09:46:29",
+  "deceased": {
+    "full_name": "facebookresearch/Detectron",
+    "url": "https://github.com/facebookresearch/Detectron",
+    "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+    "stars": 26407,
+    "language": "Python",
+    "created_at": "2017-10-05T17:32:00Z",
+    "pushed_at": "2023-11-20T09:13:34Z",
+    "archived": true,
+    "owner": "facebookresearch",
+    "topics": []
+  },
+  "epitaph": "It saw the world through bounding boxes,\nMask R-CNN\u2019s elegant gaze.\nNow the `requirements.txt` drifts untethered,\nLost in dependency haze.\nFor twenty-two hundred days it stood,\nFAIR\u2019s bright and neural sun.\nDelete your lock files and close the PR,\nRest in `git archive --format=tar`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
