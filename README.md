@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 215 | [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) | 2022-12-03 | 2023-09-29 | ⭐4960 | [graveyard/tombstone_0215.md](graveyard/tombstone_0215.md) |
 | 214 | [sebastianbergmann/phpunit-mock-objects](https://github.com/sebastianbergmann/phpunit-mock-objects) | 2010-04-29 | 2018-10-30 | ⭐4953 | [graveyard/tombstone_0214.md](graveyard/tombstone_0214.md) |
 | 213 | [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 2016-06-22 | 2024-02-28 | ⭐30292 | [graveyard/tombstone_0213.md](graveyard/tombstone_0213.md) |
 | 212 | [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) | 2017-10-05 | 2023-11-20 | ⭐26407 | [graveyard/tombstone_0212.md](graveyard/tombstone_0212.md) |

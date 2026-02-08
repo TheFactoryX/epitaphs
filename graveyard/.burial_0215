@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 215,
+  "buried_at": "2026-02-08 11:37:52",
+  "deceased": {
+    "full_name": "mpociot/chatgpt-vscode",
+    "url": "https://github.com/mpociot/chatgpt-vscode",
+    "description": "A VSCode extension that allows you to use ChatGPT",
+    "stars": 4960,
+    "language": "TypeScript",
+    "created_at": "2022-12-03T23:04:39Z",
+    "pushed_at": "2023-09-29T18:27:16Z",
+    "archived": false,
+    "owner": "mpociot",
+    "topics": []
+  },
+  "epitaph": "Born in the chill of a TypeScript winter,\nYou offered the oracle\u2019s fire to the cursor.\nFour thousand stars watched you dream in syntax,\nBefore the API keys were revoked and the connection was lost.\nThough the features remain, the soul is departed,\nLeaving only a ghost in the directory tree.\nRest in `//dev/null`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
