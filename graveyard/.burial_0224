@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 224,
+  "buried_at": "2026-02-08 17:30:38",
+  "deceased": {
+    "full_name": "slatedocs/slate",
+    "url": "https://github.com/slatedocs/slate",
+    "description": "Beautiful static documentation for your API",
+    "stars": 36167,
+    "language": null,
+    "created_at": "2013-09-13T22:15:24Z",
+    "pushed_at": "2026-02-01T05:54:12Z",
+    "archived": true,
+    "owner": "slatedocs",
+    "topics": [
+      "api",
+      "api-documentation",
+      "slate",
+      "static-site-generator"
+    ]
+  },
+  "epitaph": "Here rests the Slate, in monochrome and grey,\nWho taught the API to speak and not to sway.\nThirty-six thousand stars once lit your scroll,\nNow the green commits have ceased to unroll.\nThe static pages serve the silent dust,\nYour elegance abandoned by the restless.\nClose the issue, let the static render null,\nRest in peace within /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
