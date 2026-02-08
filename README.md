@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 207 | [NVIDIA/thrust](https://github.com/NVIDIA/thrust) | 2012-03-06 | 2024-02-08 | ⭐4999 | [graveyard/tombstone_0207.md](graveyard/tombstone_0207.md) |
 | 206 | [the-little-prover/j-bob](https://github.com/the-little-prover/j-bob) | 2015-07-03 | 2024-02-08 | ⭐436 | [graveyard/tombstone_0206.md](graveyard/tombstone_0206.md) |
 | 205 | [alvarouc/polyssifier](https://github.com/alvarouc/polyssifier) | 2015-08-11 | 2024-02-08 | ⭐68 | [graveyard/tombstone_0205.md](graveyard/tombstone_0205.md) |
 | 204 | [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions) | 2024-01-06 | 2024-02-07 | ⭐140 | [graveyard/tombstone_0204.md](graveyard/tombstone_0204.md) |

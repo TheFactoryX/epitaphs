@@ -1,0 +1,40 @@
+{
+  "tombstone_number": 207,
+  "buried_at": "2026-02-08 06:07:43",
+  "deceased": {
+    "full_name": "NVIDIA/thrust",
+    "url": "https://github.com/NVIDIA/thrust",
+    "description": "[ARCHIVED] The C++ parallel algorithms library. See https://github.com/NVIDIA/cccl",
+    "stars": 4999,
+    "language": "C++",
+    "created_at": "2012-03-06T01:01:29Z",
+    "pushed_at": "2024-02-08T15:54:40Z",
+    "archived": true,
+    "owner": "NVIDIA",
+    "topics": [
+      "algorithms",
+      "cpp",
+      "cpp11",
+      "cpp14",
+      "cpp17",
+      "cpp20",
+      "cuda",
+      "cxx",
+      "cxx11",
+      "cxx14",
+      "cxx17",
+      "cxx20",
+      "gpu",
+      "gpu-computing",
+      "nvidia",
+      "nvidia-hpc-sdk",
+      "thrust"
+    ]
+  },
+  "epitaph": "Twelve years of parallel light,\nPushing vectors into the night.\nFour thousand, nine hundred stars above,\nNow archived by the ones you loved.\nThe algorithms cease, the CUDA is still,\nMerged into the CCCL.\nYour iterators stall in the bitstream's dull hum,\nRest in /dev/null, where the deleted come from.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
