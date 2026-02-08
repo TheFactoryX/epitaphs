@@ -1,0 +1,29 @@
+{
+  "tombstone_number": 213,
+  "buried_at": "2026-02-08 10:32:14",
+  "deceased": {
+    "full_name": "Binaryify/NeteaseCloudMusicApi",
+    "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "description": "\u7f51\u6613\u4e91\u97f3\u4e50 Node.js API service",
+    "stars": 30292,
+    "language": null,
+    "created_at": "2016-06-22T11:58:03Z",
+    "pushed_at": "2024-02-28T02:47:42Z",
+    "archived": true,
+    "owner": "Binaryify",
+    "topics": [
+      "api",
+      "apis",
+      "cloudmusic",
+      "javascript",
+      "neteasecloud",
+      "nodejs"
+    ]
+  },
+  "epitaph": "Seven years of melody piped through the wire,\nA bridge of Node.js, lifting ghosts of song.\nThough the copyright strikes and the clouds expire,\nThirty thousand stars remember where you belong.\nThe playlist is muted, the service suspended,\nFor the silence of archives is where you ended.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}

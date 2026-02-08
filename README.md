@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 213 | [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 2016-06-22 | 2024-02-28 | ⭐30292 | [graveyard/tombstone_0213.md](graveyard/tombstone_0213.md) |
 | 212 | [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) | 2017-10-05 | 2023-11-20 | ⭐26407 | [graveyard/tombstone_0212.md](graveyard/tombstone_0212.md) |
 | 211 | [josephg/ShareJS](https://github.com/josephg/ShareJS) | 2011-04-18 | 2016-09-12 | ⭐4992 | [graveyard/tombstone_0211.md](graveyard/tombstone_0211.md) |
 | 210 | [frogermcs/InstaMaterial](https://github.com/frogermcs/InstaMaterial) | 2014-11-10 | 2020-09-30 | ⭐4960 | [graveyard/tombstone_0210.md](graveyard/tombstone_0210.md) |
