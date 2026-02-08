@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 208 | [containrrr/watchtower](https://github.com/containrrr/watchtower) | 2015-07-13 | 2025-12-17 | ⭐24516 | [graveyard/tombstone_0208.md](graveyard/tombstone_0208.md) |
 | 207 | [NVIDIA/thrust](https://github.com/NVIDIA/thrust) | 2012-03-06 | 2024-02-08 | ⭐4999 | [graveyard/tombstone_0207.md](graveyard/tombstone_0207.md) |
 | 206 | [the-little-prover/j-bob](https://github.com/the-little-prover/j-bob) | 2015-07-03 | 2024-02-08 | ⭐436 | [graveyard/tombstone_0206.md](graveyard/tombstone_0206.md) |
 | 205 | [alvarouc/polyssifier](https://github.com/alvarouc/polyssifier) | 2015-08-11 | 2024-02-08 | ⭐68 | [graveyard/tombstone_0205.md](graveyard/tombstone_0205.md) |
