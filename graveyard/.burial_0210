@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 210,
+  "buried_at": "2026-02-08 08:38:27",
+  "deceased": {
+    "full_name": "frogermcs/InstaMaterial",
+    "url": "https://github.com/frogermcs/InstaMaterial",
+    "description": "Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)",
+    "stars": 4960,
+    "language": "Java",
+    "created_at": "2014-11-10T18:56:49Z",
+    "pushed_at": "2020-09-30T19:55:47Z",
+    "archived": false,
+    "owner": "frogermcs",
+    "topics": []
+  },
+  "epitaph": "Here lies the polished dream of jade and crimson light,\nA Java heart that mimicked filters in the night.\nOnce praised by five thousand stars for code so clean and bright,\nNow abandoned, a ghost app in an endless white.\nMaterial Design crumbles, the concept drifts apart;\nAn orphan of the Google Play, bereft of art.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
