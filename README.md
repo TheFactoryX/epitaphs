@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 223 | [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) | 2017-10-05 | 2023-11-20 | ⭐26407 | [graveyard/tombstone_0223.md](graveyard/tombstone_0223.md) |
 | 222 | [otterkit/otterkit-cobol](https://github.com/otterkit/otterkit-cobol) | 2022-07-21 | 2024-02-08 | ⭐251 | [graveyard/tombstone_0222.md](graveyard/tombstone_0222.md) |
 | 221 | [BUTSpeechFIT/DiaPer](https://github.com/BUTSpeechFIT/DiaPer) | 2023-12-07 | 2024-02-08 | ⭐66 | [graveyard/tombstone_0221.md](graveyard/tombstone_0221.md) |
 | 220 | [adobe/brackets](https://github.com/adobe/brackets) | 2011-12-07 | 2022-06-12 | ⭐33119 | [graveyard/tombstone_0220.md](graveyard/tombstone_0220.md) |
