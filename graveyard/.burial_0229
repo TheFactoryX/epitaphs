@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 229,
+  "buried_at": "2026-02-08 20:32:58",
+  "deceased": {
+    "full_name": "stolinski/Hype",
+    "url": "https://github.com/stolinski/Hype",
+    "description": "A stack of hyped up tech, but it actually rips hard.",
+    "stars": 53,
+    "language": "TypeScript",
+    "created_at": "2024-01-29T22:59:15Z",
+    "pushed_at": "2024-02-08T18:53:31Z",
+    "archived": true,
+    "owner": "stolinski",
+    "topics": []
+  },
+  "epitaph": "Here lies the stack that promised fire and might,\nTypeScript sharp, a briefly blinding light.\nTen days of fury, fifty-three stars to hold,\nA burning hype that flared too fast, then went cold.\nThough the silence is long and the license is grey,\nThe code ripped hard in its brief, glorious day.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
