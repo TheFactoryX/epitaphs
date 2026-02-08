@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 231,
+  "buried_at": "2026-02-08 21:43:19",
+  "deceased": {
+    "full_name": "d6lts/drupal",
+    "url": "https://github.com/d6lts/drupal",
+    "description": "Fork of Drupal core for Drupal 6 LTS support.",
+    "stars": 132,
+    "language": "PHP",
+    "created_at": "2018-02-21T18:41:12Z",
+    "pushed_at": "2024-02-08T18:45:46Z",
+    "archived": false,
+    "owner": "d6lts",
+    "topics": []
+  },
+  "epitaph": "A lonely fork of Drupal Six,\nPatched the cracks while the world moved on.\nFor six long years you watched the clock,\nA guardian standing on the brink.\nNow silent in the queue array,\nThe long-term support has drifted away.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
