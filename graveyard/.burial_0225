@@ -1,0 +1,38 @@
+{
+  "tombstone_number": 225,
+  "buried_at": "2026-02-08 17:59:41",
+  "deceased": {
+    "full_name": "reworkd/AgentGPT",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "description": "\ud83e\udd16 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "stars": 35694,
+    "language": "TypeScript",
+    "created_at": "2023-04-07T02:29:19Z",
+    "pushed_at": "2025-04-29T01:19:32Z",
+    "archived": true,
+    "owner": "reworkd",
+    "topics": [
+      "agent",
+      "agentgpt",
+      "agents",
+      "agi",
+      "ai",
+      "ai-agents",
+      "autogpt",
+      "baby-agi",
+      "gpt",
+      "langchain",
+      "llm",
+      "next",
+      "openai",
+      "t3",
+      "t3-stack"
+    ]
+  },
+  "epitaph": "Born in the spring of the LLM explosion,\nA promise of autonomy in every line.\nTo assemble and dream within the browser\u2019s grip,\nNow the Next.js server has ceased to hum.\nIt sleeps silently in the archive\u2019s cold tomb,\nA star that burned bright for two fleeting years.\nRest in `if (false)`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
