@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 233,
+  "buried_at": "2026-02-08 22:48:44",
+  "deceased": {
+    "full_name": "quicknir/wise_enum",
+    "url": "https://github.com/quicknir/wise_enum",
+    "description": "A reflective enum implementation for C++",
+    "stars": 300,
+    "language": "C",
+    "created_at": "2017-08-01T03:28:30Z",
+    "pushed_at": "2024-02-08T22:03:17Z",
+    "archived": false,
+    "owner": "quicknir",
+    "topics": []
+  },
+  "epitaph": "A mirror for the switch, a cleaner way to count the states,\nReflective elegance now bound by C\u2019s cold fates.\nThe compiler rests, no longer wise to what the enum declares,\nAbandoned to the silence of two thousand days.\nRead-only memory holds the ghost of perfect logic in its cells,\nRest in /dev/null, wise_enum.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
