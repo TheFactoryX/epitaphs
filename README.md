@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 242 | [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) | 2015-09-17 | 2024-06-07 | ⭐24772 | [graveyard/tombstone_0242.md](graveyard/tombstone_0242.md) |
 | 241 | [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) | 2022-12-03 | 2023-08-02 | ⭐27980 | [graveyard/tombstone_0241.md](graveyard/tombstone_0241.md) |
 | 240 | [josephg/ShareJS](https://github.com/josephg/ShareJS) | 2011-04-18 | 2016-09-12 | ⭐4992 | [graveyard/tombstone_0240.md](graveyard/tombstone_0240.md) |
 | 239 | [thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache) | 2017-04-22 | 2024-02-09 | ⭐419 | [graveyard/tombstone_0239.md](graveyard/tombstone_0239.md) |

@@ -1,0 +1,32 @@
+{
+  "tombstone_number": 242,
+  "buried_at": "2026-02-09 10:43:02",
+  "deceased": {
+    "full_name": "HumanSignal/labelImg",
+    "url": "https://github.com/HumanSignal/labelImg",
+    "description": "LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.",
+    "stars": 24772,
+    "language": "Python",
+    "created_at": "2015-09-17T01:33:59Z",
+    "pushed_at": "2024-06-07T20:24:32Z",
+    "archived": true,
+    "owner": "HumanSignal",
+    "topics": [
+      "annotations",
+      "deep-learning",
+      "detection",
+      "image-classification",
+      "imagenet",
+      "python2",
+      "python3",
+      "recognition",
+      "tools"
+    ]
+  },
+  "epitaph": "Once, you drew the bounding boxes that taught machines how to see,\nA simple frame to capture truth for deep-learning\u2019s infancy.\nThough the Python script has ceased and the master branch is torn,\nYour legacy is blooming in a Studio, newly born.\nArchived in silence, leaving just a ghost of annotation and fame,\n`git checkout` the future, and forget your former name.\nRest in peace, old window, rest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
