@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 240,
+  "buried_at": "2026-02-09 08:34:08",
+  "deceased": {
+    "full_name": "josephg/ShareJS",
+    "url": "https://github.com/josephg/ShareJS",
+    "description": "Collaborative editing in any app",
+    "stars": 4992,
+    "language": "JavaScript",
+    "created_at": "2011-04-18T15:02:15Z",
+    "pushed_at": "2016-09-12T00:37:39Z",
+    "archived": false,
+    "owner": "josephg",
+    "topics": []
+  },
+  "epitaph": "Here lies the framework that promised to write as one,\nSynchronizing cursors before the work was done.\nA starry dawn in April, a silent September breath,\nNow the conflict resolution sleeps the sleep of death.\nYour collaborative dream hangs in the branches, still,\nA ghost within the memory of the commits we had will.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "forgotten"
+}
