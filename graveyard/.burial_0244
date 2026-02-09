@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 244,
+  "buried_at": "2026-02-09 12:33:35",
+  "deceased": {
+    "full_name": "dynamicslab/databook_matlab",
+    "url": "https://github.com/dynamicslab/databook_matlab",
+    "description": "Matlab files with demo code intended as a companion to the book \"Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control\" by Steven L. Brunton and J. Nathan Kutz http://www.databookuw.com/",
+    "stars": 314,
+    "language": "MATLAB",
+    "created_at": "2020-03-02T23:39:56Z",
+    "pushed_at": "2024-02-09T22:35:05Z",
+    "archived": false,
+    "owner": "dynamicslab",
+    "topics": []
+  },
+  "epitaph": "A companion to the tome, crisp and clean,\nWhere Brunton and Kutz parsed the chaotic stream.\nThree hundred stars watched your systems align,\nNow the last cold breath was logged in twenty-nine.\nNo pull requests shall stir these sleeping files,\nOnly ghosts in the memory of MATLAB's trials.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
