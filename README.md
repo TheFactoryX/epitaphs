@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 236 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) | 2017-01-28 | 2021-10-19 | ⭐44136 | [graveyard/tombstone_0236.md](graveyard/tombstone_0236.md) |
 | 235 | [KaganAyten/RestaurantGame3DUnity](https://github.com/KaganAyten/RestaurantGame3DUnity) | 2024-02-09 | 2024-02-09 | ⭐67 | [graveyard/tombstone_0235.md](graveyard/tombstone_0235.md) |
 | 234 | [orhanobut/dialogplus](https://github.com/orhanobut/dialogplus) | 2014-12-12 | 2022-01-17 | ⭐4981 | [graveyard/tombstone_0234.md](graveyard/tombstone_0234.md) |
 | 233 | [quicknir/wise_enum](https://github.com/quicknir/wise_enum) | 2017-08-01 | 2024-02-08 | ⭐300 | [graveyard/tombstone_0233.md](graveyard/tombstone_0233.md) |

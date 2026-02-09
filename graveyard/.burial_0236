@@ -1,0 +1,36 @@
+{
+  "tombstone_number": 236,
+  "buried_at": "2026-02-09 03:16:25",
+  "deceased": {
+    "full_name": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "stars": 44136,
+    "language": "JavaScript",
+    "created_at": "2017-01-28T09:35:02Z",
+    "pushed_at": "2021-10-19T22:38:47Z",
+    "archived": true,
+    "owner": "GitSquared",
+    "topics": [
+      "desktop",
+      "edex-ui",
+      "electron",
+      "linux",
+      "macos",
+      "nodejs",
+      "science-fiction",
+      "shell",
+      "terminal",
+      "touchscreen",
+      "tron",
+      "unixporn",
+      "windows"
+    ]
+  },
+  "epitaph": "A neon dream trapped in a glass cage,\nNow the pixels dim and the fans disengage.\nThe sci-fi interface, cold and stark,\nGone dark in the silicon archive.\nSleep deep among the datas of old,\nYour cursor stilled, your stories told.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "archived"
+}
