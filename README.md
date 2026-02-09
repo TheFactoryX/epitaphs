@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 243 | [schteppe/cannon.js](https://github.com/schteppe/cannon.js) | 2012-01-04 | 2023-08-04 | ⭐4958 | [graveyard/tombstone_0243.md](graveyard/tombstone_0243.md) |
 | 242 | [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) | 2015-09-17 | 2024-06-07 | ⭐24772 | [graveyard/tombstone_0242.md](graveyard/tombstone_0242.md) |
 | 241 | [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) | 2022-12-03 | 2023-08-02 | ⭐27980 | [graveyard/tombstone_0241.md](graveyard/tombstone_0241.md) |
 | 240 | [josephg/ShareJS](https://github.com/josephg/ShareJS) | 2011-04-18 | 2016-09-12 | ⭐4992 | [graveyard/tombstone_0240.md](graveyard/tombstone_0240.md) |
