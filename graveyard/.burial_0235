@@ -1,0 +1,22 @@
+{
+  "tombstone_number": 235,
+  "buried_at": "2026-02-09 00:00:11",
+  "deceased": {
+    "full_name": "KaganAyten/RestaurantGame3DUnity",
+    "url": "https://github.com/KaganAyten/RestaurantGame3DUnity",
+    "description": "Simple Hamburger making game like Overcooked in Unity3D",
+    "stars": 67,
+    "language": "C#",
+    "created_at": "2024-02-09T19:06:37Z",
+    "pushed_at": "2024-02-09T19:24:54Z",
+    "archived": false,
+    "owner": "KaganAyten",
+    "topics": []
+  },
+  "epitaph": "Here lies the grill that never heated,\nThe C# scripts, half-completed.\nSixty-seven stars looked on in hope,\nBefore the scope lost all its scope.\nThe burger patty, raw and cold,\nA story left strictly untold.\nCommit at dawn, deleted by the eve\u2014\nRest in peace, `Git checkout -- .`.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
