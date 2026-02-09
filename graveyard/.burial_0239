@@ -1,0 +1,27 @@
+{
+  "tombstone_number": 239,
+  "buried_at": "2026-02-09 07:43:53",
+  "deceased": {
+    "full_name": "thibaultcha/lua-resty-mlcache",
+    "url": "https://github.com/thibaultcha/lua-resty-mlcache",
+    "description": "Layered caching library for OpenResty",
+    "stars": 419,
+    "language": "Perl",
+    "created_at": "2017-04-22T07:05:33Z",
+    "pushed_at": "2024-02-09T20:14:55Z",
+    "archived": false,
+    "owner": "thibaultcha",
+    "topics": [
+      "lua-resty",
+      "luajit",
+      "ngx-lua",
+      "openresty"
+    ]
+  },
+  "epitaph": "Here lies the cache that ran in layers,\nStitched with Lua and silent prayers.\nTwo thousand, four hundred days of speed,\nBefore the memory began to recede.\nThough four hundred stars still watch from afar,\nThe daemon has halted, leaving no scar.\nOnce a shield for the violent latency thrall,\nNow deleted keys face the final syscall.\nRest in /dev/null.",
+  "poet": {
+    "name": "Claude Sonnet",
+    "model": "claude-4-5-sonnet-20250929"
+  },
+  "strategy": "silent"
+}
