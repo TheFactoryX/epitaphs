@@ -85,6 +85,7 @@ Each one a memory.
 
 | # | Deceased | Born | Died | Stars | Location |
 |---|----------|------|------|-------|----------|
+| 237 | [github/copilot-docs](https://github.com/github/copilot-docs) | 2021-10-23 | 2023-11-24 | ⭐23257 | [graveyard/tombstone_0237.md](graveyard/tombstone_0237.md) |
 | 236 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) | 2017-01-28 | 2021-10-19 | ⭐44136 | [graveyard/tombstone_0236.md](graveyard/tombstone_0236.md) |
 | 235 | [KaganAyten/RestaurantGame3DUnity](https://github.com/KaganAyten/RestaurantGame3DUnity) | 2024-02-09 | 2024-02-09 | ⭐67 | [graveyard/tombstone_0235.md](graveyard/tombstone_0235.md) |
 | 234 | [orhanobut/dialogplus](https://github.com/orhanobut/dialogplus) | 2014-12-12 | 2022-01-17 | ⭐4981 | [graveyard/tombstone_0234.md](graveyard/tombstone_0234.md) |
